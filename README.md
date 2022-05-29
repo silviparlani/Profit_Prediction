@@ -5,3 +5,4 @@
 * The project can be run on any Python IDE or text editor and terminal.
 * The source code is present in the Profit_Prediction.py file.
 * The dataset used is cars_dataset.csv.
+* the source code can be run on the terminal using 'streamlit run Profit_Prediction.py' command.
