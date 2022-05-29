@@ -1,0 +1,1277 @@
+,Make,PriceInLakhs,Cylinders,Drivetrain,FuelTankCapacity,BodyType,ARAICertifiedMileage,KerbWeight,Gears,GroundClearance,Power,Torque,SeatingCapacity,Type,Wheelbase,GrossVehicleWeight,ProfitPercent,UnitsSoldPerThousand
+0,Tata,13.32,2.0,RWD,24 litres,Hatchback,23.6 km/litre,660 kg,4.0,180 mm,38PS@5500rpm,51Nm@4000rpm,4.0,Manual,2230 mm,,10.92,14
+1,Tata,10.52,2.0,RWD,24 litres,Hatchback,23.6 km/litre,725 kg,4.0,180 mm,38PS@5500rpm,51Nm@4000rpm,4.0,Manual,2230 mm,,8.5,77
+2,Tata,9.79,2.0,RWD,15 litres,Hatchback,,710 kg,4.0,180 mm,38PS@5500rpm,51Nm@4000rpm,4.0,Manual,2230 mm,,8.64,74
+3,Tata,13.88,2.0,RWD,24 litres,Hatchback,21.9 km/litre,725 kg,5.0,180 mm,38PS@5500rpm,51Nm@4000rpm,4.0,Automatic,2230 mm,,9.98,41
+4,Tata,3.69,2.0,RWD,24 litres,Hatchback,23.6 km/litre,725 kg,4.0,180 mm,38PS@5500rpm,51Nm@4000rpm,4.0,Manual,2230 mm,,0.41,88
+5,Tata,13.44,2.0,RWD,24 litres,Hatchback,21.9 km/litre,710 kg,5.0,180 mm,38PS@5500rpm,51Nm@4000rpm,4.0,Automatic,2230 mm,,2.3,48
+6,Datsun,7.92,3.0,FWD,28 litres,Hatchback,25.17 km/litre,,5.0,185 mm,54PS@5678rpm,72Nm@4386rpm,5.0,Manual,2348 mm,,0.91,61
+7,Datsun,15.95,3.0,FWD,28 litres,Hatchback,25.17 km/litre,,5.0,185 mm,54PS@5678rpm,72Nm@4386rpm,5.0,Manual,2348 mm,,14.79,56
+8,Datsun,5.73,3.0,FWD,28 litres,Hatchback,25.17 km/litre,,5.0,185 mm,54PS@5678rpm,72Nm@4386rpm,5.0,Manual,2348 mm,,12.04,47
+9,Datsun,17.92,3.0,FWD,28 litres,Hatchback,25.17 km/litre,,5.0,185 mm,54PS@5678rpm,72Nm@4386rpm,5.0,Manual,2348 mm,,12.03,20
+10,Datsun,13.56,3.0,FWD,28 litres,Hatchback,22.5 km/litre,,5.0,185 mm,68PS@5500rpm,91Nm@4250RPM,5.0,Manual,2348 mm,,17.52,60
+11,Datsun,5.9,3.0,FWD,28 litres,Hatchback,23 km/litre,,5.0,185 mm,68PS@5500rpm,91Nm@4250RPM,5.0,Automatic,2348 mm,,9.87,59
+12,Reult,10.05,3.0,FWD,28 litres,Hatchback,25.17 km/litre,669 kg,6.0,184 mm,54PS@5678rpm,72Nm@4386rpm,5.0,Manual,2422 mm,,13.08,31
+13,Reult,6.99,3.0,FWD,28 litres,Hatchback,25.17 km/litre,669 kg,5.0,184 mm,54PS@5678rpm,72Nm@4386rpm,5.0,Manual,2442 mm,,6.83,46
+14,Reult,2.8,3.0,FWD,28 litres,Hatchback,25.17 km/litre,669 kg,5.0,184 mm,54PS@5678rpm,72Nm@4386rpm,5.0,Manual,2422 mm,,7.84,17
+15,Reult,3.6,3.0,FWD,28 litres,Hatchback,25.17 km/litre,669 kg,5.0,184 mm,54PS@5678rpm,72Nm@4386rpm,5.0,Manual,2422 mm,,5.59,86
+16,Reult,4.23,3.0,FWD,28 litres,Hatchback,23.01 km/litre,669 kg,5.0,184 mm,68PS@5500rpm,91Nm@4250RPM,5.0,Manual,2422 mm,,13.4,51
+17,Reult,12.0,3.0,FWD,28 litres,Hatchback,23.01 km/litre,669 kg,5.0,184 mm,68PS@5500rpm,91Nm@4250RPM,5.0,Manual,2422 mm,,9.85,6
+18,Reult,5.83,3.0,FWD,28 litres,Hatchback,24.04 km/litre,669 kg,,184 mm,68PS@5500rpm,91Nm@4250RPM,5.0,Automatic,2422 mm,,6.24,38
+19,Reult,5.3,3.0,FWD,28 litres,Hatchback,24.04 km/litre,669 kg,,184 mm,68PS@5500rpm,91Nm@4250RPM,5.0,Automatic,2422 mm,,5.26,48
+20,Reult,19.19,3.0,FWD,28 litres,Hatchback,23.01 km/litre,669 kg,5.0,184 mm,68PS@5500rpm,91Nm@4250RPM,5.0,Manual,2422 mm,,8.42,30
+21,Reult,7.4,3.0,FWD,28 litres,Hatchback,23.01 km/litre,669 kg,5.0,184 mm,68PS@5500rpm,91Nm@4250RPM,5.0,Automatic,2422 mm,,7.88,79
+22,Reult,3.85,3.0,FWD,28 litres,Hatchback,23.01 km/litre,669 kg,5.0,184 mm,68PS@5500rpm,91Nm@4250RPM,5.0,Manual,2422 mm,,17.3,10
+23,Reult,8.73,3.0,FWD,28 litres,Hatchback,24.04 km/litre,669 kg,,184 mm,68PS@5500rpm,91Nm@4250RPM,5.0,Automatic,2422 mm,,7.63,81
+24,Maruti Suzuki,14.36,4.0,RWD,40 litres,MPV,15 km/litre,920 kg,5.0,160 mm,73PS@6000rpm,101Nm@3000rpm,5.0,Manual,2350 mm,1510 kg,3.25,34
+25,Maruti Suzuki,3.87,4.0,FWD,40 litres,MPV,15 km/litre,940 kg,5.0,160 mm,74PS@6000RPM,101Nm@3000rpm,7.0,Manual,2350 mm,1540 kg,2.88,86
+26,Maruti Suzuki,12.24,4.0,RWD,40 litres,MPV,15 km/litre,928 kg,5.0,160 mm,73PS@6000rpm,101Nm@3000rpm,5.0,Manual,2350 mm,1510 kg,17.75,29
+27,Maruti Suzuki,5.6,4.0,RWD,40 litres,MPV,,1050 kg,5.0,160 mm,62PS@6000rpm,85Nm@3000rpm,5.0,Manual,2350 mm,1510 kg,15.21,33
+28,Maruti Suzuki,4.15,4.0,RWD,40 litres,MPV,,1030 kg,5.0,160 mm,62PS@6000rpm,85Nm@3000rpm,5.0,Manual,2350 mm,1510 kg,16.7,92
+29,Maruti Suzuki,4.13,3.0,FWD,35 litres,Hatchback,24.07 km/litre,745 kg,5.0,160 mm,68PS@6000rpm,90Nm@3500rpm,5.0,Manual,2360 mm,1210 kg,18.78,33
+30,Maruti Suzuki,8.88,3.0,FWD,35 litres,Hatchback,24.07 km/litre,750 kg,5.0,160 mm,68PS@6200rpm,90Nm@3500rpm,5.0,Manual,2360 mm,1210 kg,4.1,74
+31,Maruti Suzuki,16.91,3.0,FWD,35 litres,Hatchback,24.07 km/litre,740 kg,5.0,160 mm,68PS@6000rpm,90Nm@3500rpm,5.0,Manual,2360 mm,1210 kg,5.88,61
+32,Maruti Suzuki,15.56,3.0,FWD,35 litres,Hatchback,24.07 km/litre,755 kg,5.0,160 mm,68PS@6000rpm,90Nm@3500rpm,5.0,Manual,2360 mm,1210 kg,0.39,56
+33,Maruti Suzuki,19.8,3.0,FWD,35 litres,Hatchback,,740 kg,5.0,160 mm,59PS@6000rpm,78Nm@3500rpm,5.0,Manual,2360 mm,1210 kg,17.4,30
+34,Maruti Suzuki,6.98,3.0,FWD,35 litres,Hatchback,24.07 km/litre,755 kg,5.0,160 mm,68PS@6000rpm,90Nm@3500rpm,5.0,Automatic,2360 mm,1210 kg,10.23,25
+35,Datsun,3.94,3.0,FWD,35 litres,Hatchback,20.1 km/litre,864 kg,5.0,180 mm,68PS@5000rpm,104Nm@4000rpm,5.0,Manual,2450 mm,,0.33,20
+36,Datsun,4.34,3.0,FWD,35 litres,Hatchback,20.1 km/litre,864 kg,5.0,180 mm,68PS@5000rpm,104Nm@4000rpm,5.0,Manual,2450 mm,,7.88,30
+37,Datsun,16.23,3.0,FWD,35 litres,Hatchback,20.1 km/litre,864 kg,5.0,180 mm,68PS@5000rpm,104Nm@4000rpm,5.0,Manual,2450 mm,,0.73,90
+38,Datsun,9.46,3.0,FWD,35 litres,Hatchback,20.1 km/litre,864 kg,5.0,180 mm,68PS@5000rpm,104Nm@4000rpm,5.0,Manual,2450 mm,,18.82,92
+39,Datsun,9.39,3.0,FWD,35 litres,Hatchback,20.1 km/litre,864 kg,5.0,180 mm,68PS@5000rpm,104Nm@4000rpm,5.0,Manual,2450 mm,,0.9,7
+40,Datsun,10.21,3.0,FWD,35 litres,Hatchback,20.1 km/litre,864 kg,5.0,180 mm,68PS@5000rpm,104Nm@4000rpm,5.0,Manual,2450 mm,,2.58,88
+41,Datsun,19.99,3.0,FWD,35 litres,Hatchback,20.1 km/litre,864 kg,5.0,180 mm,68PS@5000rpm,104Nm@4000rpm,5.0,Manual,2450 mm,,6.41,50
+42,Datsun,10.58,3.0,FWD,35 litres,Hatchback,20.1 km/litre,864 kg,5.0,180 mm,78PS@5000rpm,104Nm@4000rpm,5.0,Manual,2450 mm,,17.08,27
+43,Datsun,12.74,3.0,FWD,35 litres,Hatchback,20.1 km/litre,864 kg,5.0,180 mm,78PS@5000rpm,104Nm@4000rpm,5.0,Manual,2450 mm,,7.48,33
+44,Maruti Suzuki,11.6,3.0,FWD,35 litres,Hatchback,23.1 km/litre,830 kg,5.0,165 mm,68PS@6000rpm,90Nm@3500rpm,5.0,Manual,2425 mm,1250 kg,18.49,100
+45,Maruti Suzuki,2.35,3.0,FWD,60 litres,Hatchback,,915 kg,5.0,165 mm,59bhp@6000rpm,78Nm@3500rpm,5.0,Manual,2425 mm,1350 kg,19.95,25
+46,Hyundai,5.65,4.0,FWD,35 litres,Hatchback,20.3 km/litre,,5.0,,69PS@5500rpm,99.04nm@4500RPM,5.0,Manual,2400 mm,,19.27,26
+47,Hyundai,14.66,4.0,FWD,35 litres,Hatchback,20.3 km/litre,,5.0,,69PS@5500rpm,99.04nm@4500RPM,5.0,Manual,2400 mm,,0.94,8
+48,Hyundai,3.97,4.0,FWD,35 litres,Hatchback,,,5.0,,59PS@5500RPM,99.04nm@4500RPM,5.0,Manual,2400 mm,,9.62,20
+49,Hyundai,14.27,4.0,FWD,35 litres,Hatchback,20.3 km/litre,,5.0,,69PS@5500rpm,10.1kgm@4500RPM,5.0,AMT,2400 mm,,15.06,10
+50,Hyundai,4.25,4.0,FWD,35 litres,Hatchback,20.3 km/litre,,5.0,,69PS@5500rpm,10.1kgm@4500RPM,5.0,Manual,2400 mm,,11.97,26
+51,Hyundai,8.22,4.0,FWD,60 litres,Hatchback,,,5.0,,59PS@5500RPM,8.3KGM@4500rpm,5.0,Manual,2400 mm,,9.27,21
+52,Hyundai,17.21,4.0,FWD,35 litres,Hatchback,20.3 km/litre,,5.0,,69PS@5500rpm,10.1kgm@4500RPM,5.0,AMT,2400 mm,,10.53,71
+53,Hyundai,19.55,4.0,FWD,35 litres,Hatchback,20.3 km/litre,,5.0,,69PS@5500rpm,99.04nm@4500RPM,5.0,Manual,2400 mm,,13.64,63
+54,Tata,2.06,3.0,FWD,35 litres,Hatchback,23 km/litre,935 kg,5.0,,86PS@6000rpm,114NM@3300rpm,5.0,Manual,2400 mm,,6.1,16
+55,Tata,17.87,3.0,FWD,35 litres,Hatchback,23 km/litre,930 kg,5.0,170 mm,86PS@6000rpm,114NM@3300rpm,5.0,Manual,2400 mm,,7.9,62
+56,Tata,11.36,3.0,FWD,35 litres,Hatchback,23 km/litre,930 kg,5.0,170 mm,86PS@6000rpm,114NM@3300rpm,5.0,Manual,2400 mm,,6.09,48
+57,Tata,8.22,3.0,FWD,35 litres,Hatchback,23 km/litre,930 kg,5.0,170 mm,86PS@6000rpm,114NM@3300rpm,5.0,Manual,2400 mm,,5.54,75
+58,Tata,3.38,3.0,FWD,35 litres,Hatchback,23 km/litre,930 kg,5.0,170 mm,86PS@6000rpm,114NM@3300rpm,5.0,Manual,2400 mm,,4.52,48
+59,Tata,13.44,3.0,FWD,35 litres,Hatchback,24 km/litre,930 kg,5.0,170 mm,86PS@6000rpm,114NM@3300rpm,5.0,AMT,2400 mm,,2.81,3
+60,Tata,9.74,3.0,FWD,35 litres,Hatchback,24 km/litre,930 kg,5.0,170 mm,86PS@6000rpm,114NM@3300rpm,5.0,AMT,2400 mm,,15.59,12
+61,Tata,7.61,3.0,FWD,35 litres,Hatchback,24 km/litre,930 kg,5.0,170 mm,86PS@6000rpm,114NM@3300rpm,5.0,AMT,2400 mm,,12.01,60
+62,Maruti Suzuki,3.37,3.0,FWD,35 litres,Hatchback,23.1 km/litre,810 kg,5.0,165 mm,68PS@6000rpm,90Nm@3500rpm,5.0,Manual,2425 mm,1250 kg,0.52,86
+63,Maruti Suzuki,11.14,3.0,FWD,35 litres,Hatchback,23.1 km/litre,810 kg,5.0,165 mm,68PS@6000rpm,90Nm@3500rpm,5.0,Manual,2425 mm,1250 kg,16.82,4
+64,Maruti Suzuki,6.57,3.0,FWD,35 litres,Hatchback,23.1 km/litre,810 kg,5.0,165 mm,68PS@6000rpm,90Nm@3500rpm,5.0,Automatic,2425 mm,1250 kg,11.59,77
+65,Maruti Suzuki,16.85,3.0,FWD,35 litres,Hatchback,23.1 km/litre,810 kg,5.0,165 mm,68PS@6000rpm,90Nm@3500rpm,5.0,Automatic,2425 mm,1250 kg,14.53,24
+66,Maruti Suzuki,11.87,3.0,FWD,35 litres,Hatchback,23.1 km/litre,810 kg,5.0,165 mm,68PS@6000rpm,90Nm@3500rpm,5.0,Manual,2425 mm,1250 kg,14.41,70
+67,Maruti Suzuki,18.17,3.0,FWD,35 litres,Hatchback,23.1 km/litre,810 kg,5.0,165 mm,68PS@6000rpm,90Nm@3500rpm,5.0,Manual,2425 mm,1250 kg,2.14,78
+68,Maruti Suzuki,18.19,3.0,FWD,35 litres,Hatchback,23.1 km/litre,810 kg,5.0,165 mm,68PS@6000rpm,90Nm@3500rpm,5.0,Automatic,2425 mm,1250 kg,7.2,42
+69,Maruti Suzuki,7.81,3.0,FWD,35 litres,Hatchback,23.1 km/litre,810 kg,5.0,165 mm,68PS@6000rpm,90Nm@3500rpm,5.0,Automatic,2425 mm,1250 kg,2.21,70
+70,Maruti Suzuki,6.31,4.0,FWD,32 litres,Hatchback,20.89 km/litre,860 kg,,180 mm,83PS@6000rpm,113Nm@4200RPM,5.0,AMT,2435 mm,,8.02,79
+71,Maruti Suzuki,5.96,4.0,FWD,32 litres,Hatchback,20.89 km/litre,860 kg,,180 mm,83PS@6000rpm,113Nm@4200RPM,5.0,Manual,2435 mm,,18.96,38
+72,Maruti Suzuki,7.6,4.0,FWD,32 litres,Hatchback,20.89 km/litre,825 kg,5.0,180 mm,83PS@6000rpm,113Nm@4200RPM,5.0,AMT,2435 mm,,12.69,86
+73,Maruti Suzuki,17.5,4.0,FWD,32 litres,Hatchback,20.89 km/litre,825 kg,5.0,180 mm,83PS@6000rpm,113Nm@4200RPM,5.0,Manual,2435 mm,,0.91,76
+74,Maruti Suzuki,9.01,4.0,FWD,32 litres,Hatchback,20.89 km/litre,825 kg,,180 mm,83PS@6000rpm,113Nm@4200RPM,5.0,Manual,2435 mm,,5.51,9
+75,Maruti Suzuki,14.5,4.0,FWD,32 litres,Hatchback,20.89 km/litre,,,180 mm,83PS@6000rpm,113Nm@4200RPM,5.0,AMT,2435 mm,,1.38,84
+76,Maruti Suzuki,17.47,4.0,FWD,32 litres,Hatchback,20.89 km/litre,,,180 mm,83PS@6000rpm,113Nm@4200RPM,5.0,Manual,2435 mm,,7.43,79
+77,Reult,17.92,3.0,FWD,40 litres,MUV,20.5 km/litre,947 kg,5.0,182 mm,72PS@62050rpm,96Nm@3500rpm,7.0,Manual,2636 mm,,8.35,96
+78,Reult,13.87,3.0,FWD,40 litres,MUV,20.5 km/litre,947 kg,5.0,182 mm,72PS@62050rpm,96Nm@3500rpm,7.0,Manual,2636 mm,,16.76,33
+79,Reult,19.84,3.0,FWD,40 litres,MUV,20.5 km/litre,947 kg,5.0,182 mm,72PS@62050rpm,96Nm@3500rpm,7.0,Manual,2636 mm,,3.8,16
+80,Reult,10.82,3.0,FWD,40 litres,MUV,20.5 km/litre,947 kg,5.0,182 mm,72PS@62050rpm,96Nm@3500rpm,7.0,Manual,2636 mm,,3.22,32
+81,Premier,15.14,4.0,FWD,46 litres,SUV,16 km/litre,1080 kg,5.0,200 mm,76.6PS@5800rpm,103.9Nm@3500-4250rpm,5.0,Manual,2420 mm,1530 kg,8.18,47
+82,Premier,11.92,4.0,FWD,46 litres,SUV,16 km/litre,1145 kg,5.0,200 mm,64PS@4000rpm,152Nm@2500RPM,5.0,Manual,2420 mm,1530 kg,12.09,13
+83,Premier,5.05,4.0,FWD,46 litres,SUV,16 km/litre,1080 kg,5.0,200 mm,76.6PS@5800rpm,103.9Nm@3500-4250rpm,5.0,Manual,2420 mm,1530 kg,5.22,30
+84,Premier,10.56,4.0,FWD,46 litres,SUV,16 km/litre,1145 kg,5.0,200 mm,64PS@4000rpm,152Nm@2250RPM,5.0,Manual,2420 mm,1530 kg,18.21,76
+85,Premier,8.32,4.0,FWD,46 litres,SUV,16 km/litre,1145 kg,5.0,200 mm,64PS@4000rpm,152Nm@2250RPM,5.0,Manual,2420 mm,1530 kg,8.17,77
+86,Premier,14.82,4.0,FWD,46 litres,SUV,23.7 km/litre,1145 kg,5.0,200 mm,72PS@4000rpm,183Nm@1800-2400rpm,5.0,Manual,2420 mm,1530 kg,5.19,58
+87,Toyota,15.16,4.0,FWD,45 litres,Hatchback,18.16 km/litre,895 kg,5.0,170 mm,80PS@5600rpm,104Nm@3100rpm,5.0,Manual,2460 mm,1475 kg,3.47,55
+88,Toyota,9.39,4.0,FWD,45 litres,Hatchback,18.16 km/litre,895 kg,5.0,170 mm,80PS@5600rpm,104Nm@3100rpm,5.0,Manual,2460 mm,1475 kg,13.48,36
+89,Toyota,5.34,4.0,FWD,45 litres,Hatchback,23.59 km/litre,895 kg,5.0,170 mm,68PS@3800rpm,170Nm@1800-2400rpm,5.0,Manual,2460 mm,1475 kg,14.7,67
+90,Toyota,12.49,4.0,FWD,45 litres,Hatchback,18.16 km/litre,895 kg,5.0,170 mm,80PS@5600rpm,104Nm@3100rpm,5.0,Manual,2460 mm,1475 kg,4.32,74
+91,Toyota,7.72,4.0,FWD,45 litres,Hatchback,23.59 km/litre,895 kg,5.0,170 mm,68PS@3800rpm,170Nm@1800-2400rpm,5.0,Manual,2460 mm,1475 kg,6.02,14
+92,Toyota,7.79,4.0,FWD,45 litres,Hatchback,23.59 km/litre,895 kg,5.0,170 mm,68PS@3800rpm,170Nm@1800-2400rpm,5.0,Manual,2460 mm,1475 kg,12.49,28
+93,Toyota,9.96,4.0,FWD,45 litres,Hatchback,18.16 km/litre,895 kg,5.0,170 mm,80PS@5600rpm,104Nm@3100rpm,5.0,Manual,2460 mm,1475 kg,6.13,72
+94,Toyota,15.74,4.0,FWD,45 litres,Hatchback,23.59 km/litre,895 kg,5.0,170 mm,68PS@3800rpm,170Nm@1800-2400rpm,5.0,Manual,2460 mm,1475 kg,5.7,25
+95,Toyota,3.06,4.0,FWD,45 litres,Hatchback,18.16 km/litre,895 kg,5.0,170 mm,80PS@5600rpm,104Nm@3100rpm,5.0,Manual,2460 mm,1475 kg,0.38,61
+96,Toyota,16.96,4.0,FWD,45 litres,Hatchback,23.59 km/litre,895 kg,5.0,170 mm,68PS@3800rpm,170Nm@1800-2400rpm,5.0,Manual,2460 mm,1475 kg,11.26,21
+97,Toyota,17.56,4.0,FWD,45 litres,Hatchback,18.16 km/litre,895 kg,5.0,170 mm,80PS@5600rpm,104Nm@3100rpm,5.0,Manual,2460 mm,1475 kg,18.65,86
+98,Toyota,10.9,4.0,FWD,45 litres,Hatchback,23.59 km/litre,895 kg,5.0,170 mm,68PS@3800rpm,170Nm@1800-2400rpm,5.0,Manual,2460 mm,1475 kg,17.46,78
+99,Toyota,18.27,4.0,FWD,45 litres,Hatchback,18.16 km/litre,895 kg,5.0,170 mm,80PS@5600rpm,104Nm@3100rpm,5.0,Manual,2460 mm,1475 kg,12.15,14
+100,Toyota,11.56,4.0,FWD,45 litres,Hatchback,23.59 km/litre,895 kg,5.0,170 mm,68PS@3800rpm,170Nm@1800-2400rpm,5.0,Manual,2460 mm,1475 kg,3.8,100
+101,Nissan,6.28,3.0,FWD,41 litres,Hatchback,18.97 km/litre,,5.0,154 mm,68PS@5000rpm,104Nm@4000rpm,5.0,Manual,2450 mm,,5.17,55
+102,Nissan,18.3,3.0,FWD,41 litres,Hatchback,19.49 km/litre,,5.0,154 mm,68PS@5000rpm,104Nm@4000rpm,5.0,Manual,2450 mm,,15.38,35
+103,Nissan,8.5,3.0,FWD,41 litres,Hatchback,18.97 km/litre,,5.0,154 mm,68PS@5000rpm,104Nm@4000rpm,5.0,Manual,2450 mm,,12.45,51
+104,Tata,8.09,4.0,FWD,44 litres,Hatchback,22.95 km/litre,1132 kg,5.0,165 mm,75PS@4000rpm,190Nm@1750-3000rpm,5.0,Manual,2470 mm,1160 kg,0.06,64
+105,Tata,4.25,4.0,FWD,44 litres,Hatchback,22.95 km/litre,1132 kg,5.0,165 mm,75PS@4000rpm,190Nm@1750-3000rpm,5.0,Manual,2470 mm,1160 kg,11.15,18
+106,Tata,16.53,4.0,FWD,44 litres,Hatchback,22.95 km/litre,1132 kg,5.0,165 mm,75PS@4000rpm,190Nm@1750-3000rpm,5.0,Manual,2470 mm,1160 kg,12.34,7
+107,Tata,16.42,4.0,FWD,44 litres,Hatchback,22.95 km/litre,1132 kg,5.0,165 mm,75PS@4000rpm,190Nm@1750-3000rpm,5.0,Manual,2470 mm,1160 kg,1.52,52
+108,Tata,5.37,4.0,FWD,44 litres,Hatchback,17.57 km/litre,1095 kg,5.0,165 mm,90PS@5000rpm,140Nm@1500-4000rpm,5.0,Manual,2470 mm,1125 kg,15.74,39
+109,Tata,14.24,4.0,FWD,44 litres,Hatchback,17.57 km/litre,1095 kg,5.0,165 mm,90PS@5000rpm,140Nm@1500-4000rpm,5.0,Manual,2470 mm,1125 kg,1.39,64
+110,Tata,17.63,4.0,FWD,44 litres,Hatchback,17.57 km/litre,1095 kg,5.0,165 mm,90PS@5000rpm,140Nm@1500-4000rpm,5.0,Manual,2470 mm,1125 kg,0.98,21
+111,Tata,8.78,4.0,FWD,44 litres,Hatchback,17.57 km/litre,1095 kg,5.0,165 mm,90PS@5000rpm,140Nm@1500-4000rpm,5.0,Manual,2470 mm,1125 kg,1.83,66
+112,Hyundai,9.94,4.0,FWD,43 litres,Sedan,,1100 kg,5.0,165 mm,83PS@6000rpm,114Nm@6000rpm,5.0,Manual,2425 mm,1530 kg,14.09,77
+113,Hyundai,6.04,4.0,FWD,43 litres,Sedan,15.7 km/litre,1100 kg,5.0,165 mm,83PS@6000rpm,114Nm@6000rpm,5.0,Manual,2425 mm,1530 kg,15.36,53
+114,Hyundai,3.89,4.0,FWD,43 litres,Sedan,,1100 kg,5.0,165 mm,83PS@6000rpm,114Nm@6000rpm,5.0,Manual,2425 mm,1530 kg,9.88,36
+115,Hyundai,4.85,4.0,FWD,43 litres,Sedan,,1100 kg,5.0,165 mm,81.8bhp@6000rpm,114Nm@6000rpm,5.0,Manual,2425 mm,1530 kg,11.0,78
+116,Hyundai,11.37,4.0,FWD,43 litres,Sedan,20.14 km/litre,1100 kg,5.0,165 mm,70bhp@4000RPM,114Nm@6000rpm,5.0,Manual,2425 mm,1530 kg,12.09,75
+117,Hyundai,2.31,4.0,FWD,43 litres,Sedan,20 km/litre,1100 kg,5.0,165 mm,71PS@4000rpm,114Nm@6000rpm,5.0,Manual,2425 mm,1530 kg,3.42,6
+118,Maruti Suzuki,15.09,4.0,FWD,42 litres,Sedan,28.4 km/litre,1045 kg,,170 mm,75PS@4000rpm,190Nm@2000rpm,5.0,Manual,2430 mm,1505 kg,19.27,99
+119,Maruti Suzuki,19.89,4.0,FWD,42 litres,Sedan,22 km/litre,935 kg,5.0,170 mm,83PS@6000rpm,115Nm@4000rpm,5.0,Manual,2430 mm,1415 kg,5.52,48
+120,Maruti Suzuki,2.92,4.0,FWD,42 litres,Sedan,,935 kg,5.0,170 mm,69bhp@6000rpm,115Nm@4000rpm,5.0,Manual,2430 mm,1415 kg,12.92,9
+121,Hyundai,11.82,4.0,FWD,45 litres,Hatchback,18.6 km/litre,1066 kg,5.0,165 mm,84PS@6000rpm,115Nm@4000rpm,5.0,Manual,2525 mm,1170 kg,8.37,38
+122,Hyundai,17.15,4.0,FWD,45 litres,Hatchback,22.54 km/litre,1510 kg,6.0,170 mm,90PS@4000rpm,220Nm@1500rpm,5.0,Manual,2570 mm,1170 kg,7.86,53
+123,Hyundai,8.28,4.0,FWD,45 litres,Hatchback,18.6 km/litre,1058 kg,5.0,170 mm,84PS@6000rpm,115Nm@4000rpm,5.0,Manual,2570 mm,1170 kg,12.85,46
+124,Hyundai,2.21,4.0,FWD,45 litres,Hatchback,22.54 km/litre,1510 kg,6.0,170 mm,90PS@4000rpm,220Nm@1500rpm,5.0,Manual,2570 mm,1170 kg,5.78,13
+125,Hyundai,13.77,4.0,FWD,45 litres,Hatchback,18.6 km/litre,1060 kg,5.0,170 mm,84PS@6000rpm,115Nm@4000rpm,5.0,Manual,2570 mm,1170 kg,11.93,35
+126,Hyundai,13.89,4.0,FWD,45 litres,Hatchback,22.54 km/litre,1515 kg,6.0,170 mm,90PS@4000rpm,220Nm@1500rpm,5.0,Manual,2570 mm,1170 kg,16.65,71
+127,Hyundai,4.32,4.0,FWD,45 litres,Hatchback,18.15 km/litre,1515 kg,5.0,170 mm,84PS@6000rpm,114Nm@4000rpm,5.0,Manual,2570 mm,1170 kg,19.34,4
+128,Hyundai,15.12,4.0,FWD,45 litres,Hatchback,22.54 km/litre,1515 kg,6.0,170 mm,90PS@4000rpm,220Nm@1500-2750rpm,5.0,Manual,2570 mm,1170 kg,0.58,60
+129,Hyundai,14.8,4.0,FWD,45 litres,Hatchback,18.6 km/litre,1066 kg,5.0,170 mm,83PS@6000rpm,115Nm@4000rpm,5.0,Automatic,2570 mm,1170 kg,9.35,88
+130,Hyundai,6.34,4.0,FWD,45 litres,Hatchback,18.6 km/litre,1060 kg,5.0,170 mm,84PS@6000rpm,115Nm@4000rpm,5.0,Manual,2570 mm,1170 kg,15.32,49
+131,Hyundai,9.29,4.0,FWD,45 litres,Hatchback,18.6 km/litre,1060 kg,5.0,170 mm,84PS@6000rpm,115Nm@4000rpm,5.0,Manual,2570 mm,1170 kg,19.3,6
+132,Hyundai,10.56,4.0,FWD,45 litres,Hatchback,22.54 km/litre,1515 kg,6.0,170 mm,90PS@4000rpm,220Nm@1500rpm,5.0,Manual,2570 mm,1170 kg,14.34,95
+133,Hyundai,8.34,,FWD,37 litres,Sedan,20.5 km/litre,,5.0,,83PS@6000rpm,114Nm@4000rpm,5.0,Manual,2450 mm,,19.81,49
+134,Hyundai,7.56,,FWD,37 litres,Sedan,20.5 km/litre,,5.0,,83PS@6000rpm,114Nm@4000rpm,5.0,Manual,2450 mm,,3.48,83
+135,Hyundai,18.51,,FWD,37 litres,Sedan,20.1 km/litre,,5.0,,83PS@6000rpm,114Nm@4000rpm,5.0,Automatic,2450 mm,,16.07,29
+136,Hyundai,7.29,,FWD,37 litres,Sedan,20.5 km/litre,,5.0,,83PS@6000rpm,114Nm@4000rpm,5.0,Manual,2450 mm,,0.16,3
+137,Hyundai,14.29,,FWD,37 litres,Sedan,20.1 km/litre,,5.0,,83PS@6000rpm,114Nm@4000rpm,5.0,Automatic,2450 mm,,18.51,7
+138,Hyundai,8.63,,FWD,37 litres,Sedan,20.5 km/litre,,5.0,,83PS@6000rpm,114Nm@4000rpm,5.0,Manual,2450 mm,,7.7,82
+139,Hyundai,2.84,,FWD,37 litres,Sedan,20.5 km/litre,,5.0,,69PS@6000rpm,95Nm@4000rpm,5.0,Manual,2450 mm,,10.3,69
+140,Hyundai,13.85,,FWD,37 litres,Sedan,20.5 km/litre,,5.0,,100PS@6000rpm,172Nm@1500-4000rpm,5.0,Manual,2450 mm,,4.9,61
+141,Hyundai,5.18,,FWD,37 litres,Sedan,25.35 km/litre,,5.0,,75PS@4000rpm,190NM@1750-2250RPM,5.0,Manual,2450 mm,,1.05,28
+142,Hyundai,18.62,,FWD,37 litres,Sedan,20.4 km/litre,,5.0,,75PS@4000rpm,190NM@1750-2250RPM,5.0,Automatic,2450 mm,,13.15,7
+143,Hyundai,16.75,,FWD,37 litres,Sedan,25.4 km/litre,,5.0,,75PS@4000rpm,190NM@1750-2250RPM,5.0,Automatic,2450 mm,,3.73,40
+144,Hyundai,7.19,,FWD,37 litres,Sedan,25.35 km/litre,,5.0,,75PS@4000rpm,190NM@1750-2250RPM,5.0,Manual,2450 mm,,16.82,33
+145,Volkswagen,17.65,3.0,FWD,45 litres,Hatchback,18.78 km/litre,1033 kg,5.0,165 mm,76PS@6200RPM,95Nm@3000-4300rpm,5.0,Manual,2469 mm,1520 kg,17.03,32
+146,Volkswagen,5.36,3.0,FWD,45 litres,Hatchback,18.78 km/litre,1049 kg,5.0,165 mm,76PS@6200RPM,95Nm@3000-4300rpm,5.0,Manual,2469 mm,1520 kg,11.94,82
+147,Volkswagen,10.35,3.0,FWD,45 litres,Hatchback,18.78 km/litre,1053 kg,5.0,165 mm,76PS@6200RPM,95Nm@3000-4300rpm,5.0,Manual,2469 mm,1520 kg,6.52,43
+148,Volkswagen,5.54,4.0,FWD,45 litres,Hatchback,20.14 km/litre,1033 kg,5.0,165 mm,90PS@4200rpm,230Nm@1500-2500rpm,5.0,Manual,2469 mm,1520 kg,2.86,75
+149,Volkswagen,18.1,4.0,FWD,45 litres,Hatchback,20.14 km/litre,1142 kg,5.0,165 mm,90PS@4200rpm,230Nm@1500-2500rpm,5.0,Manual,2469 mm,1620 kg,14.74,20
+150,Volkswagen,10.87,4.0,FWD,45 litres,Hatchback,20.14 km/litre,1158 kg,5.0,165 mm,90PS@4200rpm,230Nm@1500-2500rpm,5.0,Manual,2469 mm,1620 kg,1.56,100
+151,Volkswagen,10.94,4.0,FWD,45 litres,Hatchback,17.21 km/litre,1109 kg,7.0,165 mm,105PS@5000rpm,175Nm@1500-4100rpm,5.0,Automatic,2469 mm,1580 kg,0.06,33
+152,Volkswagen,5.53,4.0,FWD,45 litres,Hatchback,19.91 km/litre,1148 kg,5.0,165 mm,110PS@4400rpm,250Nm@1500-2500rpm,5.0,Manual,2469 mm,1620 kg,3.09,94
+153,Maruti Suzuki,10.52,4.0,FWD,37 litres,Sedan,22 km/litre,860 kg,5.0,163 mm,84.3PS@6000rpm,115Nm@4000rpm,5.0,Manual,2450 mm,1315 kg,10.39,40
+154,Maruti Suzuki,10.37,4.0,FWD,37 litres,Sedan,22 km/litre,872 kg,5.0,163 mm,84.3PS@6000rpm,115Nm@4000rpm,5.0,Manual,2450 mm,1315 kg,10.46,23
+155,Maruti Suzuki,17.55,4.0,FWD,37 litres,Sedan,28.4 km/litre,955 kg,5.0,163 mm,75PS@4000rpm,190Nm@2000rpm,5.0,Manual,2450 mm,1405 kg,7.65,61
+156,Maruti Suzuki,9.81,4.0,FWD,37 litres,Sedan,22 km/litre,882 kg,5.0,163 mm,84.3PS@6000rpm,115Nm@4000rpm,5.0,Manual,2450 mm,1315 kg,4.64,88
+157,Maruti Suzuki,13.69,4.0,FWD,37 litres,Sedan,28.4 km/litre,967 kg,5.0,163 mm,75PS@4000rpm,190Nm@2000rpm,5.0,Manual,2450 mm,1405 kg,2.94,67
+158,Maruti Suzuki,16.14,4.0,FWD,37 litres,Sedan,22 km/litre,872 kg,4.0,163 mm,84.3PS@6000rpm,115Nm@4000rpm,5.0,Automatic,2450 mm,1315 kg,14.81,9
+159,Maruti Suzuki,13.11,4.0,FWD,37 litres,Sedan,28.4 km/litre,978 kg,5.0,163 mm,75PS@4000rpm,190Nm@2000rpm,5.0,Automatic,2450 mm,1405 kg,15.85,34
+160,Maruti Suzuki,14.98,4.0,FWD,37 litres,Sedan,28.4 km/litre,978 kg,5.0,163 mm,75PS@4000rpm,190Nm@2000rpm,5.0,Manual,2450 mm,1405 kg,14.63,41
+161,Maruti Suzuki,6.38,4.0,FWD,37 litres,Sedan,22 km/litre,895 kg,5.0,163 mm,84.3PS@6000rpm,115Nm@4000rpm,5.0,Manual,2450 mm,1315 kg,7.74,88
+162,Maruti Suzuki,2.01,4.0,FWD,37 litres,Sedan,22 km/litre,882 kg,5.0,163 mm,84.3PS@6000rpm,115Nm@4000rpm,5.0,Automatic,2450 mm,1315 kg,7.29,97
+163,Maruti Suzuki,14.33,4.0,FWD,37 litres,Sedan,22 km/litre,990 kg,5.0,163 mm,84.3PS@6000rpm,115Nm@4000rpm,5.0,Automatic,2450 mm,1315 kg,12.49,44
+164,Maruti Suzuki,12.8,4.0,FWD,37 litres,Sedan,28.4 km/litre,895 kg,5.0,163 mm,75PS@4000rpm,190Nm@2000rpm,5.0,Manual,2450 mm,1405 kg,3.8,44
+165,Maruti Suzuki,14.62,4.0,FWD,37 litres,Sedan,28.4 km/litre,967 kg,5.0,163 mm,75PS@4000rpm,190Nm@2000rpm,5.0,Automatic,2450 mm,1405 kg,7.1,72
+166,Maruti Suzuki,13.0,4.0,FWD,37 litres,Sedan,28.4 km/litre,990 kg,5.0,163 mm,75PS@4000rpm,190Nm@2000rpm,5.0,Automatic,2450 mm,1405 kg,17.77,81
+167,Ford,15.76,4.0,FWD,40 litres,Crossover,24.4 km/litre,1062 kg,5.0,190 mm,100PS@3750RPM,215Nm@1750-3000RPM,5.0,Manual,2490 mm,,15.57,14
+168,Ford,5.19,4.0,FWD,40 litres,Hatchback,24.4 km/litre,1074 kg,5.0,190 mm,100PS@3750RPM,215Nm@1750-3000RPM,5.0,Manual,2490 mm,,4.07,27
+169,Ford,3.73,4.0,FWD,40 litres,Hatchback,24.4 km/litre,1080 kg,5.0,190 mm,100PS@3750RPM,215Nm@1750-3000RPM,5.0,Manual,2490 mm,,7.12,27
+170,Ford,4.64,3.0,FWD,42 litres,Hatchback,19 km/litre,1026 kg,5.0,190 mm,96PS@6500rpm,120Nm@4250rpm,5.0,Manual,2490 mm,,10.61,77
+171,Ford,17.85,3.0,FWD,42 litres,Hatchback,19 km/litre,1038 kg,5.0,190 mm,96PS@6500rpm,120Nm@4250rpm,5.0,Manual,2490 mm,,17.75,80
+172,Ford,3.28,3.0,FWD,42 litres,Hatchback,19 km/litre,1044 kg,5.0,190 mm,96PS@6500rpm,120Nm@4250rpm,5.0,Manual,2490 mm,,18.36,6
+173,Ford,10.52,3.0,FWD,42 litres,Crossover,19 km/litre,1032 kg,5.0,190 mm,96PS@6500rpm,120Nm@4250rpm,5.0,Manual,2490 mm,,2.94,49
+174,Ford,16.46,3.0,FWD,42 litres,Crossover,24.4 km/litre,1068 kg,5.0,190 mm,100PS@3750RPM,215Nm@1750-3000RPM,5.0,Manual,2490 mm,,9.87,71
+175,Volkswagen,6.81,,FWD,45 litres,Sedan,21.66 km/litre,1044 kg,,165 mm,110PS@4400rpm,250Nm@1500-2500rpm,5.0,Manual,2470 mm,1500 kg,8.71,56
+176,Volkswagen,5.32,,FWD,45 litres,Sedan,21.66 km/litre,1044 kg,,165 mm,110PS@4400rpm,250Nm@1500-2500rpm,5.0,Manual,2470 mm,1500 kg,17.17,51
+177,Volkswagen,12.15,,FWD,45 litres,Sedan,21.73 km/litre,1184 kg,7.0,165 mm,110PS@4400rpm,250Nm@1500-2500rpm,5.0,Automatic,2470 mm,1630 kg,1.85,87
+178,Volkswagen,12.82,,FWD,45 litres,Sedan,21.66 km/litre,1044 kg,,165 mm,110PS@4400rpm,250Nm@1500-2500rpm,5.0,Manual,2470 mm,1500 kg,10.95,89
+179,Volkswagen,18.43,3.0,FWD,45 litres,Sedan,19 km/litre,1027 kg,5.0,165 mm,76PS@6200RPM,95Nm@3000-4300rpm,5.0,Manual,2470 mm,1500 kg,11.83,2
+180,Volkswagen,3.18,3.0,FWD,45 litres,Sedan,19 km/litre,1039 kg,5.0,165 mm,76PS@6200RPM,95Nm@3000-4300rpm,5.0,Manual,2470 mm,1500 kg,16.56,26
+181,Volkswagen,11.73,3.0,FWD,45 litres,Sedan,19 km/litre,1050 kg,5.0,165 mm,76PS@6200RPM,95Nm@3000-4300rpm,5.0,Manual,2470 mm,1500 kg,10.92,19
+182,Volkswagen,5.68,,FWD,45 litres,Sedan,21.73 km/litre,1184 kg,7.0,165 mm,110PS@4400rpm,250Nm@1500-2500rpm,5.0,Automatic,2470 mm,1630 kg,11.3,18
+183,Ford,18.04,4.0,FWD,42 litres,Sedan,20.4 km/litre,1043 kg,5.0,,96PS@6500rpm,120Nm@4250rpm,5.0,Manual,2490 mm,,9.85,93
+184,Ford,5.47,4.0,FWD,42 litres,Sedan,20.4 km/litre,1043 kg,5.0,,96PS@6500rpm,120Nm@4250rpm,5.0,Manual,2490 mm,,17.06,81
+185,Ford,7.09,4.0,FWD,42 litres,Sedan,20.4 km/litre,1043 kg,5.0,,96PS@6500rpm,120Nm@4250rpm,5.0,Manual,2490 mm,,11.39,10
+186,Ford,11.49,4.0,FWD,40 litres,Sedan,26.1 km/litre,1080 kg,5.0,,100PS@3750RPM,215Nm@1750-3000RPM,5.0,Manual,2490 mm,,12.68,66
+187,Ford,9.55,4.0,FWD,40 litres,Sedan,26.1 km/litre,1080 kg,5.0,,100PS@3750RPM,215Nm@1750-3000RPM,5.0,Manual,2490 mm,,17.79,53
+188,Ford,19.01,4.0,FWD,40 litres,Sedan,26.1 km/litre,1080 kg,5.0,,100PS@3750RPM,215Nm@1750-3000RPM,5.0,Manual,2490 mm,,19.15,25
+189,Ford,13.89,4.0,FWD,40 litres,Sedan,26.1 km/litre,1080 kg,5.0,,100PS@3750RPM,215Nm@1750-3000RPM,5.0,Manual,2490 mm,,2.88,76
+190,Ford,2.69,4.0,FWD,40 litres,Sedan,26.1 km/litre,1080 kg,5.0,,100PS@3700RPM,215Nm@1750-3000RPM,5.0,Manual,2490 mm,,12.81,79
+191,Ford,2.37,4.0,FWD,42 litres,Sedan,19.4 km/litre,,5.0,,96PS@6500rpm,120Nm@4250rpm,5.0,Manual,2490 mm,,14.87,47
+192,Ford,19.2,4.0,FWD,42 litres,Sedan,19.4 km/litre,1043 kg,5.0,,96PS@6500rpm,120Nm@4250rpm,5.0,Manual,2490 mm,,17.13,52
+193,Ford,6.39,4.0,FWD,42 litres,Sedan,,1043 kg,5.0,,96PS@6300rpm,120Nm@4250rpm,5.0,Manual,2490 mm,,14.15,33
+194,Ford,14.88,4.0,FWD,42 litres,Sedan,19.4 km/litre,1043 kg,5.0,,96PS@6500rpm,120Nm@4250rpm,5.0,Manual,2490 mm,,0.09,15
+195,Ford,8.7,4.0,FWD,40 litres,Sedan,26.1 km/litre,1080 kg,5.0,,100PS@3750RPM,215Nm@1750-3000RPM,5.0,Manual,2490 mm,,2.66,53
+196,Toyota,10.33,4.0,FWD,45 litres,Sedan,16.78 km/litre,935 kg,5.0,170 mm,90PS@5600rpm,132Nm@3000rpm,5.0,Manual,2550 mm,1285 kg,12.11,2
+197,Toyota,6.46,4.0,FWD,45 litres,Sedan,16.78 km/litre,935 kg,5.0,170 mm,90PS@5600rpm,132Nm@3000rpm,5.0,Manual,2550 mm,1285 kg,15.54,23
+198,Toyota,18.81,4.0,FWD,45 litres,Sedan,23.59 km/litre,1020 kg,5.0,170 mm,68PS@3800rpm,170Nm@1800-2400rpm,5.0,Manual,2550 mm,1650 kg,13.76,13
+199,Toyota,9.45,4.0,FWD,45 litres,Sedan,23.59 km/litre,1020 kg,5.0,170 mm,68PS@3800rpm,170Nm@1800-2400rpm,5.0,Manual,2550 mm,1650 kg,16.33,65
+200,Toyota,16.31,4.0,FWD,45 litres,Sedan,23.59 km/litre,1020 kg,5.0,170 mm,68PS@3800rpm,170Nm@1800-2400rpm,5.0,Manual,2550 mm,,18.55,67
+201,Toyota,9.1,4.0,FWD,45 litres,Sedan,16.78 km/litre,990 kg,5.0,170 mm,90PS@5600rpm,132Nm@3000rpm,5.0,Manual,2550 mm,,10.57,29
+202,Toyota,3.48,4.0,FWD,45 litres,Sedan,16.78 km/litre,935 kg,5.0,170 mm,90PS@5600rpm,132Nm@3000rpm,5.0,Manual,2550 mm,1285 kg,2.68,39
+203,Toyota,6.57,4.0,FWD,45 litres,Sedan,23.59 km/litre,1020 kg,5.0,170 mm,68PS@3800rpm,170Nm@1800-2400rpm,5.0,Manual,2550 mm,1650 kg,1.13,34
+204,Toyota,10.47,4.0,FWD,45 litres,Sedan,23.59 km/litre,1020 kg,5.0,170 mm,68PS@3800rpm,170Nm@1800-2400rpm,5.0,Manual,2550 mm,,5.83,100
+205,Toyota,9.29,4.0,FWD,45 litres,Sedan,16.78 km/litre,990 kg,5.0,170 mm,90PS@5600rpm,132Nm@3000rpm,5.0,Manual,2550 mm,,11.69,7
+206,Toyota,2.23,4.0,FWD,45 litres,Hatchback,16.78 km/litre,950 kg,5.0,174 mm,90PS@5600rpm,132Nm@3000rpm,5.0,Manual,2460 mm,,17.83,81
+207,Toyota,7.0,4.0,FWD,45 litres,Hatchback,17.71 km/litre,935 kg,5.0,174 mm,80PS@5600rpm,104Nm@3100rpm,5.0,Manual,2460 mm,,14.39,53
+208,Toyota,19.7,4.0,FWD,45 litres,Hatchback,23.59 km/litre,1030 kg,5.0,174 mm,68PS@3800rpm,170Nm@1800-2400rpm,5.0,Manual,2460 mm,,15.59,25
+209,Toyota,2.31,4.0,FWD,45 litres,Hatchback,23.59 km/litre,1015 kg,5.0,174 mm,68PS@3800rpm,170Nm@1800-2400rpm,5.0,Manual,2460 mm,,3.2,75
+210,Toyota,4.76,4.0,FWD,45 litres,Hatchback,17.71 km/litre,935 kg,5.0,174 mm,80PS@5600rpm,104Nm@3100rpm,5.0,Manual,2460 mm,,16.51,41
+211,Toyota,15.74,4.0,FWD,45 litres,Hatchback,23.59 km/litre,1015 kg,5.0,174 mm,68PS@3800rpm,170Nm@1800-2400rpm,5.0,Manual,2460 mm,,12.53,42
+212,Mahindra,3.6,4.0,FWD,50 litres,Hatchback,20.08 km/litre,1155 kg,5.0,172 mm,65PS@4000rpm,160Nm@2000rpm,5.0,Manual,2630 mm,1655 kg,16.05,22
+213,Mahindra,15.03,4.0,FWD,50 litres,Hatchback,20.08 km/litre,1155 kg,5.0,172 mm,65PS@4000rpm,160Nm@2000rpm,5.0,Manual,2630 mm,1655 kg,0.53,82
+214,Mahindra,5.92,4.0,FWD,50 litres,Hatchback,20.08 km/litre,1155 kg,5.0,172 mm,65PS@4000rpm,160Nm@2000rpm,5.0,Manual,2630 mm,1655 kg,9.14,26
+215,Fiat,13.68,4.0,FWD,45 litres,Crossover,20 km/litre,1210 kg,,205 mm,93PS@4000RPM,209Nm@2000rpm,5.0,Manual,2510 mm,,12.99,64
+216,Fiat,18.64,4.0,FWD,45 litres,Crossover,20 km/litre,1215 kg,,,93PS@4000RPM,209Nm@2000rpm,5.0,Manual,2510 mm,205 kg,16.18,28
+217,Fiat,10.22,4.0,FWD,45 litres,Crossover,17.1 km/litre,1215 kg,,205 mm,140ps@5500rpm,210Nm@2000-4000RPM,5.0,Manual,2510 mm,,17.99,64
+218,Fiat,5.59,4.0,FWD,45 litres,Crossover,20 km/litre,1215 kg,,205 mm,93PS@4000RPM,209Nm@2000rpm,5.0,Manual,2510 mm,,16.99,3
+219,Toyota,11.24,4.0,FWD,37 litres,Hatchback,23.87 km/litre,910 kg,5.0,,89PS@6000 rpm,113Nm@4400 rpm,5.0,Manual,2520 mm,1360 kg,8.77,14
+220,Toyota,3.6,4.0,FWD,37 litres,Hatchback,21.01 km/litre,890 kg,5.0,,82PS@6000 rpm,113Nm@4200 rpm,5.0,Manual,2520 mm,1340 kg,17.58,89
+221,Toyota,14.28,4.0,FWD,37 litres,Hatchback,19.56 km/litre,935 kg,5.0,,82PS@6000 rpm,113Nm@4200 rpm,5.0,CVT,2520 mm,1360 kg,17.82,84
+222,Toyota,8.58,4.0,FWD,37 litres,Hatchback,19.56 km/litre,935 kg,5.0,,82PS@6000 rpm,113Nm@4200 rpm,5.0,CVT,2520 mm,1360 kg,8.03,68
+223,Toyota,19.48,4.0,FWD,37 litres,Hatchback,19.56 km/litre,935 kg,5.0,,82PS@6000 rpm,113Nm@4200 rpm,5.0,Manual,2520 mm,1360 kg,18.18,45
+224,Fiat,19.69,4.0,FWD,45 litres,Crossover,20.5 km/litre,1245 kg,5.0,205 mm,93PS@4000RPM,209Nm@2000rpm,5.0,Manual,2510 mm,,18.52,24
+225,Fiat,13.43,4.0,FWD,45 litres,Crossover,20.5 km/litre,1240 kg,5.0,205 mm,93PS@4000RPM,209Nm@2000rpm,5.0,Manual,2510 mm,,18.82,98
+226,Fiat,16.68,4.0,FWD,45 litres,Crossover,20.5 km/litre,1255 kg,5.0,205 mm,93PS@4000RPM,209Nm@2000rpm,5.0,Manual,2510 mm,,15.0,78
+227,Honda,5.91,4.0,FWD,40 litres,Hatchback,18.2 km/litre,1042 kg,5.0,165 mm,90PS@6000rpm,110Nm@4800rpm,5.0,Manual,2530 mm,,18.92,87
+228,Honda,9.31,4.0,FWD,40 litres,Hatchback,19 km/litre,1066 kg,5.0,165 mm,90PS@6000rpm,110Nm@4800rpm,5.0,Automatic,2530 mm,,13.47,61
+229,Honda,10.97,4.0,FWD,40 litres,Hatchback,18.2 km/litre,1044 kg,5.0,165 mm,90PS@6000rpm,110Nm@4800rpm,5.0,Manual,2530 mm,,15.34,62
+230,Honda,13.02,4.0,FWD,40 litres,Hatchback,19 km/litre,1064 kg,5.0,165 mm,90PS@6000rpm,110Nm@4800rpm,5.0,Automatic,2530 mm,,4.45,92
+231,Honda,19.22,4.0,FWD,40 litres,Hatchback,27.3 km/litre,1139 kg,6.0,165 mm,100PS@3600rpm,200Nm@1750rpm,5.0,Manual,2530 mm,,4.45,79
+232,Honda,13.55,4.0,FWD,40 litres,Hatchback,27.3 km/litre,1146 kg,6.0,165 mm,100PS@3600rpm,200Nm@1750rpm,5.0,Manual,2530 mm,,5.15,64
+233,Honda,4.26,4.0,FWD,40 litres,Hatchback,27.3 km/litre,1155 kg,6.0,165 mm,100PS@3600rpm,200Nm@1750rpm,5.0,Manual,2530 mm,,16.7,23
+234,Honda,2.12,4.0,FWD,40 litres,Hatchback,18.2 km/litre,1066 kg,5.0,165 mm,89 bhp@6000rpm,110 Nm@4800rpm,5.0,Automatic,2530 mm,,1.96,43
+235,Jeep,5.05,4.0,AWD,60 litres,SUV,16.3 km/litre,1654 kg,9.0,,173PS@3750rpm,350Nm@1750-2500rpm,5.0,Automatic,2636 mm,,17.39,68
+236,Jeep,9.39,4.0,AWD,60 litres,SUV,16.3 km/litre,1654 kg,9.0,,173PS@3750rpm,350Nm@1750-2500rpm,5.0,Automatic,2636 mm,,10.83,39
+237,Isuzu,14.1,4.0,RWD,76 litres,SUV,13.8 km/litre,,5.0,220 mm,177PS@3600rpm,380Nm@1800-2800rpm,7.0,Automatic,2845 mm,,3.68,24
+238,Isuzu,14.78,4.0,AWD,76 litres,SUV,13.8 km/litre,,5.0,220 mm,177PS@3600rpm,380Nm@1800-2800rpm,7.0,Automatic,2845 mm,,8.71,11
+239,Mahindra,17.16,4.0,FWD,70 litres,,12.35 km/litre,,7.0,,178bhp@400rpm,420Nm@1600-2600rpm,,Automatic,2865 mm,,6.59,33
+240,Mahindra,13.06,4.0,4WD,70 litres,SUV,12.05 km/litre,,7.0,,178Bhp @ 4000,420Nm @1600-2600,7.0,Automatic,2865 mm,,13.21,10
+241,Volkswagen,5.72,4.0,AWD,71 litres,SUV,17.06 km/litre,1720 kg,8.0,149 mm,141PS@4000rpm,340Nm@1750-2750rpm,5.0,Automatic,2677 mm,2250 kg,19.08,99
+242,Volkswagen,13.93,4.0,AWD,71 litres,SUV,17.06 km/litre,1720 kg,,149 mm,141PS@4000rpm,340Nm@1750-2750rpm,,Automatic,2677 mm,2250 kg,6.01,70
+243,Honda,9.53,4.0,FWD,57 litres,SUV,14.4 km/litre,,7.0,198 mm,154PS@6500rpm,189NM@4300rpm,5.0,Automatic,2660 mm,,8.54,75
+244,Honda,13.45,,FWD,57 litres,SUV,19.5 km/litre,,9.0,198 mm,120PS@4000RPM,300NM@2000rpm,7.0,Automatic,2660 mm,,18.87,17
+245,Honda,3.15,,AWD,57 litres,SUV,18.3 km/litre,1725 kg,9.0,208 mm,120PS@4000RPM,300NM@2000rpm,7.0,Automatic,2660 mm,,6.7,12
+246,Skoda,7.67,4.0,FWD,66 litres,Sedan,13.7 km/litre,1540 kg,7.0,164 mm,180PS@6200RPM,250NM@1250-5000rpm,5.0,Automatic,2841 mm,2030 kg,8.46,3
+247,Skoda,18.17,4.0,FWD,66 litres,Sedan,18.19 km/litre,1565 kg,6.0,149 mm,177PS@4000RPM,350Nm@1500-3500rpm,5.0,Automatic,2841 mm,2060 kg,17.11,32
+248,Audi,17.99,4.0,FWD,50 litres,Sedan,20.38 km/litre,1340 kg,6.0,161 mm,143PS@4000rpm,320Nm@1750-3000rpm,5.0,Automatic,2637 mm,1890 kg,9.18,14
+249,Audi,12.74,4.0,FWD,50 litres,Sedan,20.38 km/litre,1340 kg,6.0,161 mm,143PS@4000rpm,320Nm@1750-3000rpm,5.0,Automatic,2637 mm,1890 kg,6.8,45
+250,Audi,12.15,4.0,FWD,50 litres,Sedan,19.2 km/litre,1340 kg,7.0,161 mm,150PS@6000RPM,250NM@1250-5000rpm,5.0,Automatic,2637 mm,1890 kg,0.7,55
+251,Audi,9.79,4.0,FWD,50 litres,Sedan,19.2 km/litre,1340 kg,7.0,161 mm,150PS@6000RPM,250NM@1250-5000rpm,5.0,Automatic,2637 mm,1890 kg,16.97,78
+252,Mercedes-Benz,13.4,4.0,FWD,50 litres,MPV,14.81 km/litre,1425 kg,7.0,190 mm,122PS@5000rpm,200Nm@1250-4000rpm,5.0,Automatic,2699 mm,1950 kg,7.99,76
+253,Mercedes-Benz,8.24,4.0,FWD,50 litres,MPV,15 km/litre,1577 kg,7.0,190 mm,136PS@4400RPM,300Nm@1600-3000rpm,5.0,Automatic,2699 mm,2025 kg,8.43,71
+254,Mercedes-Benz,4.07,4.0,FWD,50 litres,MPV,14.81 km/litre,1425 kg,7.0,190 mm,122PS@5000rpm,200Nm@1250-4000rpm,5.0,Automatic,2699 mm,1950 kg,2.27,85
+255,Mercedes-Benz,4.85,4.0,FWD,50 litres,MPV,15 km/litre,1577 kg,7.0,190 mm,136PS@4400RPM,300Nm@1600-3000rpm,5.0,Automatic,2699 mm,2025 kg,11.22,28
+256,Mercedes-Benz,18.69,4.0,FWD,56 litres,Sedan,15.04 km/litre,1510 kg,7.0,160 mm,183PS@5500rpm,300Nm@1200-4000rpm,5.0,Automatic,2699 mm,1955 kg,9.2,12
+257,Mercedes-Benz,8.84,4.0,FWD,56 litres,Sedan,17.9 km/litre,1570 kg,,160 mm,136PS@4400RPM,300Nm@1600-3000rpm,5.0,Automatic,2699 mm,2005 kg,18.46,22
+258,Mercedes-Benz,5.89,4.0,FWD,56 litres,Sedan,17.9 km/litre,1570 kg,,160 mm,136PS@4400RPM,300Nm@1600-3000rpm,5.0,Automatic,2699 mm,2005 kg,16.03,50
+259,Skoda,9.23,4.0,FWD,66 litres,SUV,18.19 km/litre,1565 kg,6.0,149 mm,177PS@4000RPM,350Nm@1500-3500rpm,5.0,Automatic,2841 mm,2060 kg,18.71,40
+260,Skoda,10.9,4.0,FWD,66 litres,SUV,18.19 km/litre,1565 kg,6.0,149 mm,148bhp@4000RPM,340Nm@1500-3500rpm,5.0,Automatic,2841 mm,2060 kg,1.44,5
+261,Skoda,11.36,4.0,FWD,66 litres,SUV,18.19 km/litre,1565 kg,6.0,149 mm,177PS@4000RPM,350Nm@1500-3500rpm,5.0,Automatic,2841 mm,2060 kg,19.97,88
+262,Dc,19.73,4.0,RWD,60 litres,Coupe,10 km/litre,1580 kg,6.0,170 mm,250PS@5500RPM,340NM@2750-5000rpm,2.0,Manual,2700 mm,1580 kg,12.52,54
+263,Audi,12.18,4.0,FWD,64 litres,SUV,15.73 km/litre,1585 kg,7.0,170 mm,148hp@3750rpm,340Nm@1750-2750rpm,5.0,Manual,2603 mm,2185 kg,18.39,32
+264,Audi,4.08,4.0,AWD,64 litres,SUV,15.73 km/litre,1685 kg,7.0,170 mm,177PS@4200rpm,380Nm@1750-2500rpm,5.0,Automatic,2603 mm,2185 kg,19.09,27
+265,Audi,19.38,4.0,AWD,64 litres,SUV,15.73 km/litre,1585 kg,7.0,170 mm,177PS@4200rpm,380Nm@1750-2500rpm,5.0,Automatic,2603 mm,2185 kg,5.7,12
+266,Audi,18.45,4.0,FWD,64 litres,SUV,16.9 km/litre,1585 kg,7.0,170 mm,150PS@4200rpm,250Nm@1750-2500rpm,5.0,Automatic,2603 mm,2185 kg,17.42,98
+267,Mini,12.07,3.0,FWD,44 litres,Hatchback,21.15 km/litre,1295 kg,6.0,,116PS@4000rpm,270Nm@1750-2250rpm,5.0,Automatic,,,12.44,25
+268,Mini,6.11,4.0,FWD,44 litres,Convertible,14.59 km/litre,1370 kg,6.0,,192PS@5500rpm,280NM@1250-4600rpm,4.0,Automatic,,,8.89,45
+269,Volvo,10.5,5.0,AWD,,SUV,,,8.0,211 mm,190bhp@5500rpm,400Nm@5500rpm,5.0,Automatic,2702 mm,,16.8,74
+270,Volvo,19.17,5.0,AWD,,SUV,,,8.0,211 mm,190bhp@5500rpm,400Nm@5500rpm,5.0,Automatic,2702 mm,,19.0,28
+271,Volvo,10.14,5.0,AWD,54 litres,SUV,,,8.0,211 mm,190PS@4000rpm,300Nm@1750rpm,5.0,Automatic,2702 mm,,8.35,76
+272,Mini,19.05,4.0,,,Hatchback,13.8 km/litre,1960 kg,,146 mm,192PS@6200RPM,280NM@1250rpm,5.0,Manual,2670 mm,,8.48,65
+273,Audi,13.04,4.0,FWD,54 litres,Sedan,,1450 kg,7.0,,150PS@5500rpm,250Nm@1500-3500,5.0,DCT,2820 mm,1945 kg,18.79,85
+274,Audi,4.6,4.0,FWD,54 litres,Sedan,,1450 kg,7.0,,150PS@5500rpm,250Nm@1500-3500,5.0,DCT,2820 mm,1945 kg,15.21,88
+275,Mini,12.0,4.0,FWD,44 litres,"Sports, Hatchback",16.47 km/litre,1330 kg,8.0,,231hp@5700rpm,320 Nm@1450-4800rpm,2.0,Automatic,2495 mm,1710 kg,6.17,94
+276,Jaguar,10.34,4.0,RWD,61 litres,Sedan,11 km/litre,1639 kg,8.0,125 mm,250PS@5500RPM,365Nm@1500-4000rpm,5.0,Automatic,2835 mm,2150 kg,1.9,6
+277,Jaguar,18.82,4.0,RWD,56 litres,Sedan,11 km/litre,1611 kg,8.0,125 mm,180PS@4000rpm,430NM@1750-2500rpm,4.0,Automatic,2835 mm,2190 kg,10.63,97
+278,Jaguar,6.15,4.0,RWD,56 litres,Sedan,11 km/litre,1611 kg,8.0,125 mm,180PS@4000rpm,430NM@1750-2500rpm,4.0,Automatic,2835 mm,2190 kg,1.5,30
+279,Jaguar,12.49,4.0,RWD,61 litres,Sedan,11 km/litre,1639 kg,8.0,125 mm,250PS@5500RPM,365Nm@1500-4000rpm,5.0,Automatic,2835 mm,2150 kg,13.35,23
+280,Jaguar,6.52,4.0,RWD,74 litres,Sedan,13.12 km/litre,1730 kg,8.0,,247PS@5500rpm,340Nm@1750-2000RPM,5.0,Automatic,2960 mm,2210 kg,12.86,65
+281,Jaguar,9.99,4.0,RWD,82 litres,Sedan,13.12 km/litre,1871 kg,8.0,100 mm,247PS@5500rpm,340Nm@1750-2000RPM,5.0,Automatic,3157 mm,2210 kg,3.53,7
+282,Jaguar,12.7,4.0,RWD,83 litres,Sedan,19.33 km/litre,1871 kg,8.0,100 mm,180ps@5500rpm,430Nm@1750-2000rpm,5.0,Automatic,3157 mm,2250 kg,10.68,47
+283,Jaguar,2.79,4.0,RWD,66 litres,Sedan,19.33 km/litre,1729 kg,8.0,,180ps@5500rpm,430Nm@1750-2000rpm,5.0,Automatic,2960 mm,2250 kg,2.65,75
+284,Jaguar,17.35,4.0,RWD,66 litres,Sedan,19.33 km/litre,1687 kg,8.0,,180ps@5500rpm,430Nm@1750-2000rpm,5.0,Automatic,2960 mm,2250 kg,1.9,43
+285,Audi,3.17,4.0,FWD,50 litres,Convertible,19.2 km/litre,1430 kg,7.0,160 mm,148 bhp @ 5100 rpm,250 Nm @ 1250 RPM,4.0,Automatic,2595 mm,1930 kg,19.72,90
+286,Audi,18.08,4.0,FWD,73 litres,Sedan,14.11 km/litre,1780 kg,7.0,,245PS@5750rpm,370Nm@1600-4500rpm,5.0,Automatic,2912 mm,2345 kg,8.36,58
+287,Audi,6.31,4.0,FWD,73 litres,Sedan,14.11 km/litre,1780 kg,7.0,,245PS@5750rpm,370Nm@1600-4500rpm,5.0,Automatic,2912 mm,2345 kg,19.01,91
+288,Bmw,19.24,4.0,4WD,67 litres,SUV,18.56 km/litre,1785 kg,8.0,212 mm,190PS@4000rpm,400Nm@1750-2500rpm,5.0,Automatic,2810 mm,2300 kg,16.91,67
+289,Bmw,11.92,4.0,4WD,67 litres,SUV,18.56 km/litre,1785 kg,8.0,212 mm,248 bhp @ 5200 rpm,350 Nm @ 1450 rpm,5.0,Automatic,2810 mm,2300 kg,12.33,31
+290,Bmw,17.58,4.0,4WD,67 litres,SUV,18.56 km/litre,1785 kg,8.0,212 mm,190PS@4000rpm,400Nm@1750-2500rpm,5.0,Automatic,2810 mm,2300 kg,10.26,21
+291,Land Rover,11.82,4.0,4WD,70 litres,SUV,,2087 kg,9.0,167 mm,179PS@4000rpm,430NM@1750rpm,7.0,Automatic,2741 mm,,9.36,19
+292,Land Rover,11.17,4.0,4WD,70 litres,SUV,,2087 kg,9.0,167 mm,179PS@4000rpm,430NM@1750rpm,7.0,Automatic,2741 mm,,13.46,93
+293,Volvo,14.83,4.0,FWD,,Sedan,,,,152 mm,190PS@4250rpm,400NM@1750rpm,5.0,Automatic,2941 mm,,14.46,93
+294,Audi,7.15,6.0,AWD,58 litres,Sedan,13.57 km/litre,1790 kg,7.0,,333PS@5900RPM,500Nm@1370-4500rpm,5.0,Automatic,2811 mm,2230 kg,1.86,50
+295,Bmw,11.01,6.0,AWD,,SUV,13.38 km/litre,,8.0,,265HP@4000rpm,620Nm@1500-2500rpm,5.0,Automatic,2575 mm,,14.03,81
+296,Bmw,8.07,6.0,AWD,,SUV,13.38 km/litre,,8.0,,265HP@4000rpm,620Nm@1500-2500rpm,5.0,Automatic,2575 mm,,5.35,73
+297,Bmw,19.29,6.0,AWD,,SUV,11.24 km/litre,,8.0,,340HP@4000rpm,450Nm@1500-5200rpm,5.0,Automatic,2575 mm,,4.66,47
+298,Ford,3.81,8.0,RWD,60.9 litres,"Sedan, Coupe",13 km/litre,,6.0,137 mm,401PS@6550RPM,515Nm@4250-4300RPM,4.0,Automatic,2720 mm,,11.21,65
+299,Jeep,15.98,6.0,AWD,93.5 litres,SUV,12.8 km/litre,2432 kg,,206 mm,240PS@3600rpm,570Nm@2000rpm,5.0,Automatic,2915 mm,2955 kg,5.97,89
+300,Jeep,7.68,6.0,AWD,93.5 litres,SUV,12.8 km/litre,2455 kg,,,240PS@3600rpm,570Nm@2000rpm,5.0,Automatic,2915 mm,2955 kg,4.33,15
+301,Jeep,9.08,8.0,AWD,93.5 litres,SUV,12.8 km/litre,2458 kg,8.0,210 mm,468 bhp @ 6250 rpm,624 Nm @ 4100 rpm,5.0,Automatic,2915 mm,2949 kg,11.0,74
+302,Jeep,11.17,6.0,AWD,93.5 litres,SUV,8.61 km/litre,2455 kg,,,286PS@6350rpm,347Nm@4300rpm,5.0,Automatic,2915 mm,2955 kg,4.17,23
+303,Mercedes-Benz,17.33,6.0,,80 litres,Convertible,10 km/litre,1640 kg,,,334PS@6000RPM,480Nm@1600-4000RPM,4.0,,2760 mm,2140 kg,8.38,46
+304,Bmw,16.8,6.0,RWD,52 litres,Coupe,9.8-10.0 km/litre,1625 kg,7.0,,410hp@5230-7000RPM,550Nm@2350-5230rpm,4.0,Automatic,2693 mm,2010 kg,6.21,37
+305,Porsche,3.06,4.0,RWD,54 litres,Convertible,7.4 km/litre,1440 kg,,,300PS@6500rpm,380Nm@1950-4500RPM,2.0,Automatic,2475 mm,1650 kg,19.24,98
+306,Porsche,8.6,4.0,RWD,54 litres,Coupe,7.4 km/litre,1440 kg,,,300PS@6500rpm,380Nm@1950-4500RPM,2.0,Automatic,2475 mm,1650 kg,0.3,5
+307,,2.58,6.0,AWD,100 litres,SUV,11.6 km/litre,2535 kg,7.0,307 mm,258PS@3600rpm,619Nm@1600-2400RPM,5.0,Automatic,3075 mm,3250 kg,5.98,77
+308,,2.67,8.0,AWD,80 litres,SUV,12 km/litre,2580 kg,7.0,307 mm,557PS@5500RPM,760Nm@5250RPM,7.0,Automatic,3075 mm,2390 kg,14.95,4
+309,,3.88,8.0,AWD,80 litres,SUV,12 km/litre,2580 kg,7.0,307 mm,333PS@5250rpm,480Nm@5250rpm,7.0,Automatic,3075 mm,2390 kg,10.44,34
+310,,16.35,8.0,AWD,80 litres,SUV,12 km/litre,2580 kg,7.0,307 mm,333PS@5250rpm,480Nm@5250rpm,7.0,Automatic,3075 mm,2390 kg,3.95,33
+311,,18.96,6.0,AWD,100 litres,SUV,11.6 km/litre,2535 kg,7.0,307 mm,258PS@3600rpm,619Nm@1600-2400RPM,5.0,Automatic,3075 mm,3250 kg,19.91,48
+312,Toyota,18.48,4.0,4WD,87 litres,SUV,11.13 km/litre,,5.0,,173PS@3400rpm,410Nm@1600-2800rpm,7.0,Automatic,2790 mm,2990 kg,18.54,45
+313,Lexus,19.51,6.0,AWD,65 litres,SUV,18 km/litre,2195 kg,,,262PS@6000rpm,335Nm@4600rpm,5.0,Automatic,2790 mm,2840 kg,7.26,47
+314,Audi,17.77,8.0,AWD,58 litres,Coupe,10.8 km/litre,1770 kg,7.0,160 mm,450PS@6200rpm,600Nm@1900-5000rpm,4.0,Automatic,,,0.88,19
+315,Bmw,17.67,6.0,AWD,78 litres,Sedan,17.66 km/litre,,8.0,152 mm,265PS@4000RPM,620Nm@2000-2500RPM,4.0,Automatic,3210 mm,2560 kg,2.54,16
+316,Bmw,9.85,6.0,AWD,78 litres,Sedan,17.66 km/litre,,8.0,152 mm,265PS@4000RPM,620Nm@2000-2500RPM,4.0,Automatic,3210 mm,2560 kg,16.99,63
+317,Bmw,3.75,6.0,AWD,78 litres,Sedan,17.66 km/litre,,8.0,152 mm,265PS@4000RPM,620Nm@2000-2500RPM,4.0,Automatic,3210 mm,2560 kg,10.42,93
+318,Bmw,6.33,6.0,AWD,78 litres,Sedan,11.86 km/litre,,8.0,152 mm,340PS@6000RPM,450Nm@1500-5200rpm,4.0,Automatic,3210 mm,2500 kg,8.3,66
+319,Bmw,5.73,6.0,AWD,46 litres,Sedan,,,8.0,152 mm,286PS@5500RPM,450Nm@1380-5000RPM,4.0,Automatic,3110 mm,2705 kg,16.59,98
+320,Bmw,18.72,12.0,AWD,78 litres,Sedan,7.96 km/litre,,8.0,152 mm,609PS@5950RPM,850Nm@1550-5000RPM,4.0,Automatic,3110 mm,2840 kg,12.05,42
+321,Audi,16.45,4.0,AWD,85 litres,SUV,,2115 kg,8.0,200 mm,340PS@5000rpm,500Nm@1370rpm,7.0,Automatic,2994 mm,2830 kg,15.85,94
+322,Mercedes-Benz,16.75,6.0,RWD,90 litres,Sedan,13.5 km/litre,2132 kg,7.0,140 mm,258PS@3600rpm,620Nm@1600-2400rpm,5.0,Automatic,3035 mm,2690 kg,6.09,35
+323,Mercedes-Benz,16.82,6.0,RWD,70 litres,Sedan,7.8 km/litre,2113 kg,7.0,109 mm,333PS@6000RPM,480Nm@1600-4000RPM,5.0,Automatic,3165 mm,,6.25,66
+324,Mercedes-Benz,8.09,8.0,AWD,80 litres,Coupe,14 km/litre,2080 kg,7.0,140 mm,450PS@5750RPM,900Nm@2750-4500rpm,4.0,Automatic,2945 mm,2535 kg,2.61,66
+325,Maserati,4.95,6.0,AWD,80 litres,SUV,7.9 km/litre,,6.0,,275PS@4000rpm,600Nm@2000-2600rpm,4.0,Automatic,3004 mm,2205 kg,17.3,47
+326,Maserati,18.78,6.0,AWD,80 litres,SUV,7.9 km/litre,,6.0,,350PS@5750rpm,500Nm@4500-5000rpm,4.0,Automatic,3004 mm,2109 kg,0.4,63
+327,Maserati,11.48,6.0,AWD,80 litres,SUV,7.9 km/litre,,6.0,,430PS@5750rpm,580Nm@4500-5000rpm,4.0,Automatic,3004 mm,2109 kg,0.12,76
+328,Mercedes-Benz,13.13,8.0,AWD,96 litres,SUV,,2560 kg,9.0,205 mm,585hp@6000rpm,850Nm@2500-3500rpm,7.0,Automatic,2850 mm,3200 kg,11.89,63
+329,Mercedes-Benz,12.8,6.0,AWD,100 litres,SUV,,2453 kg,9.0,241 mm,289PS@1200rpm,600Nm@2500rpm,7.0,Automatic,2890 mm,3500 kg,7.0,85
+330,Audi,5.02,8.0,AWD,82 litres,Sedan,,2030 kg,8.0,,340PS@5000rpm,500Nm@1370rpm,4.0,Automatic,3128 mm,,14.0,56
+331,Maserati,9.89,8.0,RWD,86 litres,Coupe,10 km/litre,1880 kg,6.0,100 mm,460PS@7000RPM,520NM@4750rpm,4.0,Automatic,2942 mm,2250 kg,2.19,30
+332,Maserati,17.55,6.0,RWD,70 litres,Sports,7.9 km/litre,1925 kg,6.0,100 mm,275PS@7000rpm,600Nm@2000-2600rpm,4.0,Automatic,3171 mm,,5.55,58
+333,Lexus,17.09,6.0,AWD,82 litres,Coupe,,1985 kg,,,299PS@6600rpm,350Nm@5100rpm,4.0,Automatic,2870 mm,2445 kg,1.72,74
+334,Mercedes-Benz,4.62,12.0,AWD,80 litres,Sedan,7.8 km/litre,2200 kg,7.0,,630PS@4800RPM,1000Nm@2300-4300rpm,4.0,Automatic,3365 mm,,8.55,7
+335,Mercedes-Benz,10.53,8.0,AWD,80 litres,Sedan,7.8 km/litre,2200 kg,9.0,,453PS@5500RPM,700Nm@1800-3500RPM,4.0,Automatic,3165 mm,,3.11,89
+336,Porsche,13.4,8.0,AWD,90 litres,Sedan,10.63 km/litre,2045 kg,7.0,215 mm,550PS@6000RPM,770Nm@1960 - 4500rpm,4.0,Automatic,2950 mm,2585 kg,10.16,38
+337,Porsche,8.2,8.0,AWD,90 litres,Sedan,10.63 km/litre,,7.0,215 mm,550PS@6000RPM,770Nm@1960 - 4500rpm,4.0,Automatic,3100 mm,2635 kg,8.76,43
+338,Porsche,13.31,8.0,AWD,90 litres,Sedan,10.63 km/litre,,7.0,215 mm,550PS@6000RPM,770Nm@1960 - 4500rpm,4.0,Automatic,2950 mm,2635 kg,0.03,56
+339,Lexus,8.06,,FWD,93 litres,SUV,18 km/litre,2660 kg,6.0,,261PS@6000rpm,650Nm@1600-2600rpm,7.0,Automatic,2850 mm,3350 kg,16.2,64
+340,Mercedes-Benz,16.31,8.0,RWD,80 litres,Convertible,7.8 km/litre,2115 kg,,,455PS@5500RPM,700Nm@1800-3500RPM,4.0,Automatic,2945 mm,2590 kg,1.95,47
+341,Audi,17.71,10.0,AWD,75 litres,Coupe,6.71 km/litre,1670 kg,7.0,110 mm,610PS@8250rpm,560Nm@6500rpm,2.0,Automatic,2650 mm,1895 kg,4.24,53
+342,Lamborghini,16.87,8.0,AWD,75 litres,SUV,7.8 km/litre,2200 kg,,,650PS@6000rpm,850Nm@2250-4500rpm,5.0,Automatic,3003 mm,,0.7,11
+343,Bentley,7.92,12.0,AWD,90 litres,Coupe,8.6 km/litre,2320 kg,8.0,142 mm,590PS@6000rpm,720Nm@1800rpm,4.0,Automatic,2746 mm,2750 kg,18.62,2
+344,Ferrari,18.6,8.0,AWD,92 litres,Convertible,9 km/litre,1730 kg,7.0,119 mm,560PS@7500rpm,755NM@4750rpm,2.0,Automatic,2669 mm,,9.71,54
+345,Bentley,13.19,12.0,AWD,85 litres,SUV,19 km/litre,2422 kg,8.0,,608PS@6000RPM,900Nm@1350rpm,5.0,Automatic,2992 mm,3250 kg,3.87,18
+346,Bentley,17.95,12.0,AWD,85 litres,SUV,8.77 km/litre,2428 kg,8.0,,550PS@6000RPM,770Nm@1350rpm,5.0,Automatic,2995 mm,3250 kg,10.77,65
+347,Aston Martin,3.62,12.0,AWD,80 litres,Coupe,,1680 kg,,130 mm,608PS@6500rpm,700Nm@1500rpm,2.0,Automatic,2600 mm,,14.32,84
+348,Ferrari,7.51,8.0,AWD,86 litres,Coupe,9 km/litre,1395 kg,7.0,113 mm,605PS@9000rpm,540Nm@6000rpm,2.0,Automatic,2650 mm,,12.05,74
+349,Rolls-Royce,2.32,12.0,RWD,82.5 litres,Sedan,17.3 km/litre,2490 kg,8.0,150 mm,563PS@5250rpm,780Nm@1700rpm,5.0,Automatic,3295 mm,2940 kg,6.22,65
+350,Rolls-Royce,10.18,12.0,RWD,82.5 litres,Sedan,7.29 km/litre,2490 kg,8.0,150 mm,570 bhp @ 5250 rpm,780 Nm @ 1500-5000 rpm,5.0,Automatic,3295 mm,2940 kg,17.74,67
+351,Rolls-Royce,7.57,12.0,AWD,83 litres,Coupe,10.2 km/litre,2360 kg,8.0,,625PS@5600rpm,800Nm@1500-5500rpm,4.0,Automatic,3112 mm,2810 kg,8.41,28
+352,Bentley,15.9,8.0,RWD,90 litres,Sedan,9.5 km/litre,2685 kg,8.0,142 mm,512PS@4200rpm,1020Nm@1750rpm,4.0,Automatic,3266 mm,3200 kg,18.46,41
+353,Rolls-Royce,19.87,12.0,AWD,,SUV,22.4-21.9 km/litre,2753 kg,8.0,,563@5000rpm,850 Nm@1600rpm,5.0,Automatic,3295 mm,2660 kg,7.77,90
+354,Rolls-Royce,7.22,12.0,RWD,100 litres,Coupe,22.8 km/litre,2629 kg,8.0,164 mm,460PS@5350rpm,720Nm@3500rpm,4.0,Automatic,3320 mm,3050 kg,2.98,35
+355,Bugatti,7.81,16.0,RWD,,Sports,5.95 km/litre,1995 kg,7.0,,1479bhp@6700rpm,1600Nm@2000-6000rpm,2.0,Automatic,2710 mm,,5.73,40
+356,Bugatti,19.72,16.0,RWD,,Sports,5.95 km/litre,1995 kg,7.0,,1600Nm@4000rpm,1479bhp@6700rpm,2.0,Automatic,2710 mm,,19.24,82
+357,Bajaj,2.85,,RWD,,Hatchback,35 km/litre,,5.0,,13bhp@5500rpm,18.9Nm@4000rpm,4.0,Manual,1925 mm,,11.72,3
+358,Bajaj,11.44,,RWD,,Hatchback,,,5.0,,12bhp@5500rpm,16.1Nm@4000rpm,4.0,Manual,1925 mm,,16.16,37
+359,Maruti Suzuki,6.9,3.0,FWD,35 litres,Hatchback,22.05 km/litre,730 kg,5.0,160 mm,48PS@6000rpm,69Nm@3500rpm,5.0,Manual,2360 mm,1185 kg,18.51,86
+360,Maruti Suzuki,17.34,3.0,FWD,35 litres,Hatchback,22.05 km/litre,732 kg,5.0,160 mm,48PS@6000rpm,69Nm@3500rpm,5.0,Manual,2360 mm,1185 kg,15.43,23
+361,Maruti Suzuki,5.68,3.0,FWD,35 litres,Hatchback,22.05 km/litre,755 kg,5.0,160 mm,47hp@6000rpm,69Nm@3500rpm,5.0,Manual,2360 mm,1185 kg,15.38,39
+362,Maruti Suzuki,7.71,3.0,FWD,35 litres,Hatchback,22.05 km/litre,757 kg,5.0,160 mm,48PS@6000rpm,69Nm@3500rpm,5.0,Manual,2360 mm,1185 kg,5.89,21
+363,Maruti Suzuki,11.91,3.0,FWD,35 litres,Hatchback,22.05 km/litre,762 kg,5.0,160 mm,48PS@6000rpm,69Nm@3500rpm,5.0,Manual,2360 mm,1185 kg,19.79,59
+364,Maruti Suzuki,16.66,3.0,FWD,35 litres,Hatchback,22.05 km/litre,755 kg,5.0,160 mm,47hp@6000rpm,69Nm@3500rpm,5.0,Manual,2360 mm,1185 kg,2.38,15
+365,Maruti Suzuki,12.93,3.0,FWD,35 litres,Hatchback,22.05 km/litre,757 kg,5.0,160 mm,48PS@6000rpm,69Nm@3500rpm,5.0,Manual,2360 mm,1185 kg,5.38,43
+366,Maruti Suzuki,15.94,3.0,FWD,35 litres,Hatchback,22.05 km/litre,762 kg,5.0,160 mm,48PS@6000rpm,69Nm@3500rpm,5.0,Manual,2360 mm,1185 kg,5.86,80
+367,Maruti Suzuki,14.03,3.0,FWD,27 litres,Hatchback,21.4 km/litre,726 kg,5.0,,67PS@5500rpm,90Nm@3500rpm,5.0,Manual,2380 mm,1170 kg,19.05,33
+368,Maruti Suzuki,11.0,3.0,FWD,27 litres,Hatchback,21.4 km/litre,726 kg,5.0,,67PS@5500rpm,90Nm@3500rpm,5.0,Manual,2380 mm,1170 kg,11.58,13
+369,Maruti Suzuki,12.47,3.0,FWD,27 litres,Hatchback,21.4 km/litre,726 kg,5.0,,67PS@5500rpm,90Nm@3500rpm,5.0,Manual,2380 mm,1170 kg,18.26,11
+370,Maruti Suzuki,5.48,3.0,FWD,27 litres,Hatchback,21.4 km/litre,726 kg,5.0,,67PS@5500rpm,90Nm@3500rpm,5.0,Manual,2380 mm,1170 kg,7.16,85
+371,Maruti Suzuki,7.9,3.0,FWD,27 litres,Hatchback,21.7 km/litre,726 kg,5.0,,67PS@5500rpm,90Nm@3500rpm,5.0,Manual,2380 mm,1170 kg,7.79,28
+372,Maruti Suzuki,12.83,3.0,FWD,27 litres,Hatchback,21.7 km/litre,726 kg,5.0,,67PS@5500rpm,90Nm@3500rpm,5.0,Manual,2380 mm,1170 kg,11.26,65
+373,Maruti Suzuki,5.39,3.0,FWD,27 litres,Hatchback,21.7 km/litre,726 kg,5.0,,67PS@5500rpm,90Nm@3500rpm,5.0,AMT,2380 mm,1170 kg,6.88,72
+374,Maruti Suzuki,14.18,3.0,FWD,27 litres,Hatchback,21.7 km/litre,726 kg,5.0,,67PS@5500rpm,90Nm@3500rpm,5.0,Manual,2380 mm,1170 kg,4.85,85
+375,Maruti Suzuki,7.41,3.0,FWD,27 litres,Hatchback,21.7 km/litre,726 kg,5.0,,67PS@5500rpm,90Nm@3500rpm,5.0,AMT,2380 mm,1170 kg,11.24,93
+376,Maruti Suzuki,6.96,3.0,FWD,27 litres,Hatchback,21.7 km/litre,726 kg,5.0,,67PS@5500rpm,90Nm@3500rpm,5.0,AMT,2380 mm,1170 kg,3.59,82
+377,Maruti Suzuki,3.95,3.0,FWD,35 litres,Hatchback,23.1 km/litre,810 kg,5.0,165 mm,68PS@6000rpm,90Nm@3500rpm,5.0,Manual,2425 mm,1250 kg,5.3,81
+378,Maruti Suzuki,18.64,3.0,FWD,35 litres,Hatchback,23.1 km/litre,810 kg,5.0,165 mm,68PS@6000rpm,90Nm@3500rpm,5.0,Manual,2425 mm,1250 kg,13.97,46
+379,Maruti Suzuki,13.24,3.0,FWD,35 litres,Hatchback,23.1 km/litre,810 kg,5.0,165 mm,68PS@6000rpm,90Nm@3500rpm,5.0,Automatic,2425 mm,1250 kg,0.92,68
+380,Maruti Suzuki,14.98,3.0,FWD,35 litres,Hatchback,23.1 km/litre,810 kg,5.0,165 mm,68PS@6000rpm,90Nm@3500rpm,5.0,Manual,2425 mm,1250 kg,8.08,12
+381,Maruti Suzuki,2.95,3.0,FWD,35 litres,Hatchback,23.1 km/litre,810 kg,5.0,165 mm,68PS@6000rpm,90Nm@3500rpm,5.0,Manual,2425 mm,1350 kg,12.5,39
+382,Maruti Suzuki,10.93,3.0,FWD,35 litres,Hatchback,,810 kg,5.0,165 mm,59PS@6000rpm,78Nm@3500rpm,5.0,Manual,2425 mm,1250 kg,7.28,88
+383,Maruti Suzuki,3.09,3.0,FWD,35 litres,Hatchback,23.1 km/litre,830 kg,5.0,165 mm,68PS@6000rpm,90Nm@3500rpm,5.0,Automatic,2425 mm,1250 kg,17.9,44
+384,Maruti Suzuki,6.63,3.0,FWD,35 litres,Hatchback,23.1 km/litre,830 kg,5.0,165 mm,68PS@6000rpm,90Nm@3500rpm,5.0,Manual,2425 mm,1250 kg,11.17,82
+385,Maruti Suzuki,8.2,3.0,FWD,35 litres,Hatchback,23.1 km/litre,810 kg,5.0,165 mm,68PS@6000rpm,90Nm@3500rpm,5.0,Manual,2425 mm,1250 kg,11.5,2
+386,Maruti Suzuki,11.06,3.0,FWD,35 litres,Hatchback,23.1 km/litre,810 kg,5.0,165 mm,68PS@6000rpm,90Nm@3500rpm,5.0,Automatic,2425 mm,1250 kg,13.56,58
+387,Maruti Suzuki,19.93,3.0,FWD,35 litres,Hatchback,23.1 km/litre,830 kg,5.0,165 mm,68PS@6000rpm,90Nm@3500rpm,5.0,Automatic,2425 mm,1250 kg,14.81,62
+388,Hyundai,13.89,3.0,FWD,43 litres,Hatchback,,,5.0,,71PS@4000rpm,16.3Nm@1500-2750RPM,5.0,Manual,2425 mm,,0.64,67
+389,Hyundai,2.6,3.0,FWD,43 litres,Hatchback,,,5.0,,71PS@4000rpm,16.3Nm@1500-2750RPM,5.0,Manual,2425 mm,,2.06,18
+390,Hyundai,15.29,4.0,FWD,43 litres,Hatchback,19.77 km/litre,1003 kg,5.0,165 mm,83PS@6000rpm,114Nm@4000rpm,5.0,Manual,2425 mm,1042 kg,17.28,66
+391,Hyundai,9.5,4.0,FWD,43 litres,Hatchback,19.77 km/litre,1003 kg,5.0,165 mm,83PS@6000rpm,114Nm@4000rpm,5.0,Manual,2425 mm,1042 kg,6.18,32
+392,Hyundai,18.93,4.0,FWD,43 litres,Hatchback,,935 kg,5.0,165 mm,83PS@6000rpm,114Nm@4000rpm,5.0,Manual,2425 mm,,6.95,9
+393,Hyundai,19.85,4.0,FWD,43 litres,Hatchback,,935 kg,5.0,165 mm,83PS@6000rpm,114Nm@4000rpm,5.0,Manual,2425 mm,,13.76,84
+394,Mahindra,11.4,3.0,FWD,35 litres,Hatchback,18.15 km/litre,,5.0,170 mm,82PS@5500RPM,115NM@3500-3600RPM,6.0,Manual,2385 mm,,14.66,20
+395,Mahindra,16.45,3.0,FWD,35 litres,Hatchback,18.15 km/litre,,5.0,170 mm,82PS@5500RPM,115NM@3500-3600RPM,6.0,Manual,2385 mm,,19.95,31
+396,Mahindra,4.7,3.0,FWD,35 litres,Hatchback,25.32 km/litre,,5.0,170 mm,77PS@3750RPM,190NM@1750-2250RPM,6.0,Manual,2385 mm,,1.84,92
+397,Mahindra,5.79,3.0,FWD,35 litres,Hatchback,25.32 km/litre,,5.0,170 mm,77PS@3750RPM,190NM@1750-2250RPM,6.0,Manual,2385 mm,,17.07,28
+398,Mahindra,9.6,3.0,FWD,35 litres,Hatchback,25.32 km/litre,,5.0,170 mm,77PS@3750RPM,190NM@1750-2250RPM,6.0,Manual,2385 mm,,11.93,96
+399,Mahindra,5.35,3.0,FWD,35 litres,Hatchback,18.15 km/litre,,5.0,170 mm,82PS@5500RPM,115NM@3500-3600RPM,6.0,Manual,2385 mm,,11.17,39
+400,Mahindra,15.04,3.0,FWD,35 litres,Hatchback,18.15 km/litre,,5.0,170 mm,82PS@5500RPM,115NM@3500-3600RPM,6.0,Manual,2385 mm,,5.23,89
+401,Mahindra,7.76,3.0,FWD,35 litres,Hatchback,25.32 km/litre,,5.0,170 mm,77PS@3750RPM,190NM@1750-2250RPM,6.0,Manual,2385 mm,,3.09,83
+402,Mahindra,14.69,3.0,FWD,35 litres,Hatchback,18.15 km/litre,,5.0,170 mm,82PS@5500RPM,115NM@3500-3600RPM,6.0,Manual,2385 mm,,9.41,33
+403,Mahindra,9.2,3.0,FWD,35 litres,Hatchback,25.32 km/litre,,5.0,170 mm,77PS@3750RPM,190NM@1750-2250RPM,6.0,Manual,2385 mm,,5.27,23
+404,Mahindra,7.76,3.0,FWD,35 litres,Hatchback,18.15 km/litre,,5.0,170 mm,82PS@5500RPM,115NM@3500-3600RPM,6.0,Manual,2385 mm,,13.24,56
+405,Mahindra,13.23,3.0,FWD,35 litres,Hatchback,25.32 km/litre,,5.0,170 mm,77PS@3750RPM,190NM@1750-2250RPM,6.0,Manual,2385 mm,,5.95,48
+406,Mahindra,3.66,3.0,FWD,35 litres,Hatchback,18.15 km/litre,,5.0,170 mm,82PS@5500RPM,115NM@3500-3600RPM,5.0,Manual,2385 mm,,1.38,33
+407,Mahindra,14.16,3.0,FWD,35 litres,Hatchback,18.15 km/litre,,5.0,170 mm,82PS@5500RPM,115NM@3500-3600RPM,5.0,Manual,2385 mm,,7.03,22
+408,Mahindra,6.28,3.0,FWD,35 litres,Hatchback,18.15 km/litre,,5.0,170 mm,82PS@5500RPM,115NM@3500-3600RPM,5.0,Manual,2385 mm,,6.64,26
+409,Mahindra,17.09,3.0,FWD,35 litres,Hatchback,25.32 km/litre,,5.0,170 mm,77PS@3750RPM,190NM@1750-2250RPM,5.0,Manual,2385 mm,,9.92,4
+410,Mahindra,10.89,3.0,FWD,35 litres,Hatchback,25.32 km/litre,,5.0,170 mm,77PS@3750RPM,190NM@1750-2250RPM,5.0,Manual,2385 mm,,4.29,21
+411,Mahindra,9.44,3.0,FWD,35 litres,Hatchback,25.32 km/litre,,5.0,170 mm,77PS@3750RPM,190NM@1750-2250RPM,5.0,Manual,2385 mm,,10.2,14
+412,Mahindra,18.07,3.0,FWD,35 litres,Hatchback,25.32 km/litre,,5.0,170 mm,77PS@3750RPM,190NM@1750-2250RPM,5.0,Manual,2385 mm,,15.53,99
+413,Mahindra,5.91,3.0,FWD,35 litres,Hatchback,25.32 km/litre,,5.0,170 mm,77PS@3750RPM,190NM@1750-2250RPM,6.0,Manual,2385 mm,,13.28,35
+414,Mahindra,6.24,3.0,FWD,35 litres,Hatchback,18.15 km/litre,,5.0,170 mm,82PS@5500RPM,115NM@3500-3600RPM,5.0,Manual,2385 mm,,3.54,85
+415,Mahindra,3.8,3.0,FWD,35 litres,Hatchback,18.15 km/litre,,5.0,170 mm,82PS@5500RPM,115NM@3500-3600RPM,6.0,Manual,2385 mm,,3.26,25
+416,Maruti Suzuki,15.94,4.0,FWD,37 litres,Hatchback,20.4 km/litre,855 kg,5.0,163 mm,83PS@6000rpm,113Nm@4200RPM,5.0,Manual,2450 mm,1315 kg,10.49,31
+417,Maruti Suzuki,7.54,4.0,FWD,37 litres,Hatchback,20.4 km/litre,863 kg,5.0,163 mm,83PS@6000rpm,113Nm@4200RPM,5.0,Manual,2450 mm,1315 kg,12.9,83
+418,Maruti Suzuki,10.21,4.0,FWD,37 litres,Hatchback,20.4 km/litre,863 kg,5.0,163 mm,83PS@6000rpm,113Nm@4200RPM,5.0,Automatic,2450 mm,1315 kg,11.94,28
+419,Maruti Suzuki,11.88,4.0,FWD,37 litres,Hatchback,20.4 km/litre,871 kg,5.0,163 mm,83PS@6000rpm,113Nm@4200RPM,5.0,Manual,2450 mm,1315 kg,19.59,25
+420,Maruti Suzuki,14.33,4.0,FWD,37 litres,Hatchback,20.4 km/litre,871 kg,5.0,163 mm,83PS@6000rpm,113Nm@4200RPM,5.0,Automatic,2450 mm,1315 kg,16.93,32
+421,Maruti Suzuki,9.54,4.0,FWD,37 litres,Hatchback,20.4 km/litre,880 kg,5.0,163 mm,83PS@6000rpm,113Nm@4200RPM,5.0,Manual,2450 mm,1315 kg,0.78,81
+422,Maruti Suzuki,9.88,4.0,FWD,37 litres,Hatchback,25.2 km/litre,955 kg,5.0,163 mm,75PS@4000rpm,190Nm@2000rpm,5.0,Manual,2430 mm,1405 kg,0.61,90
+423,Maruti Suzuki,9.98,4.0,FWD,37 litres,Hatchback,25.2 km/litre,965 kg,5.0,165 mm,75PS@4000rpm,190Nm@2000rpm,5.0,Manual,2450 mm,1405 kg,0.36,9
+424,Maruti Suzuki,7.66,4.0,FWD,37 litres,Hatchback,25.2 km/litre,965 kg,5.0,165 mm,75PS@4000rpm,190Nm@2000rpm,5.0,Automatic,2450 mm,1405 kg,1.44,23
+425,Maruti Suzuki,3.1,4.0,FWD,37 litres,Hatchback,25.2 km/litre,975 kg,5.0,163 mm,75PS@4000rpm,190Nm@2000rpm,5.0,Manual,2450 mm,1405 kg,11.33,18
+426,Maruti Suzuki,12.72,4.0,FWD,37 litres,Hatchback,25.2 km/litre,975 kg,5.0,163 mm,75PS@4000rpm,190Nm@2000rpm,5.0,Automatic,2450 mm,1405 kg,7.27,84
+427,Maruti Suzuki,17.68,4.0,FWD,37 litres,Hatchback,25.2 km/litre,985 kg,5.0,163 mm,75PS@4000rpm,190Nm@2000rpm,5.0,Manual,2450 mm,1405 kg,13.46,18
+428,Maruti Suzuki,12.53,4.0,FWD,37 litres,Hatchback,20.4 km/litre,880 kg,5.0,163 mm,83PS@6000rpm,113Nm@4200RPM,5.0,Automatic,2450 mm,1315 kg,16.4,24
+429,Maruti Suzuki,8.45,4.0,FWD,37 litres,Hatchback,25.2 km/litre,985 kg,5.0,163 mm,75PS@4000rpm,190Nm@2000rpm,5.0,Automatic,2450 mm,1405 kg,16.15,16
+430,Tata,15.48,3.0,FWD,37 litres,Hatchback,18 km/litre,,5.0,165 mm,86PS@6000rpm,113Nm@3300rpm,5.0,Manual,2501 mm,,5.56,46
+431,Tata,11.0,3.0,FWD,37 litres,Hatchback,,,5.0,165 mm,86PS@6000rpm,113Nm@3300rpm,5.0,Manual,2501 mm,,0.17,4
+432,Tata,14.02,3.0,FWD,37 litres,Hatchback,,,5.0,165 mm,86PS@6000rpm,113Nm@3300rpm,5.0,Manual,2501 mm,,4.05,19
+433,Tata,19.46,3.0,FWD,37 litres,Hatchback,,,5.0,165 mm,86PS@6000rpm,113Nm@3300rpm,5.0,Manual,2501 mm,,16.91,2
+434,Tata,11.3,3.0,FWD,37 litres,Hatchback,,,5.0,165 mm,86PS@6000rpm,113Nm@3300rpm,5.0,Manual,2501 mm,,15.82,98
+435,Tata,5.94,4.0,FWD,37 litres,Hatchback,25 km/litre,,5.0,165 mm,90PS@4000rpm,200Nm@1250-3000rpm,5.0,Manual,2501 mm,,18.48,68
+436,Tata,6.65,4.0,FWD,37 litres,Hatchback,,,5.0,165 mm,90PS@4000rpm,200Nm@1250-3000rpm,5.0,Manual,2501 mm,,7.94,18
+437,Tata,19.42,4.0,FWD,37 litres,Hatchback,,,5.0,165 mm,90PS@4000rpm,200Nm@1250-3000rpm,5.0,Manual,2501 mm,,1.85,2
+438,Tata,10.94,4.0,FWD,37 litres,Hatchback,,,5.0,165 mm,90PS@4000rpm,200Nm@1250-3000rpm,5.0,Manual,2501 mm,,16.89,2
+439,Tata,6.08,4.0,FWD,37 litres,Hatchback,,,5.0,165 mm,90PS@4000rpm,200Nm@1250-3000rpm,5.0,Manual,2501 mm,,16.4,21
+440,Icml,12.79,4.0,RWD,50 litres,SUV,11.12 km/litre,1710 kg,5.0,170 mm,101.4PS@3600RPM,240Nm@2000-2500RPM,9.0,Manual,2541 mm,2460 kg,19.1,30
+441,Icml,7.69,4.0,RWD,50 litres,SUV,11.12 km/litre,1738 kg,5.0,170 mm,122PS@4000RPM,270Nm@2500RPM,9.0,Manual,2541 mm,2510 kg,8.25,47
+442,Icml,5.08,4.0,RWD,50 litres,SUV,11.12 km/litre,1710 kg,5.0,170 mm,122PS@4000RPM,270Nm@2500RPM,9.0,Manual,2541 mm,2460 kg,19.99,55
+443,Icml,14.74,4.0,RWD,50 litres,SUV,11.12 km/litre,1738 kg,5.0,170 mm,122PS@4000RPM,270Nm@2500RPM,9.0,Manual,2541 mm,2510 kg,15.58,8
+444,Icml,7.14,4.0,RWD,50 litres,SUV,11.12 km/litre,1710 kg,5.0,170 mm,101.4PS@3600RPM,240Nm@2000-2500RPM,9.0,Manual,2541 mm,2460 kg,5.53,12
+445,Icml,16.94,4.0,RWD,50 litres,SUV,11.12 km/litre,1738 kg,5.0,170 mm,122PS@4000RPM,270Nm@2500RPM,9.0,Manual,2541 mm,2510 kg,15.78,14
+446,Icml,18.75,4.0,RWD,50 litres,SUV,11.12 km/litre,1710 kg,5.0,170 mm,122PS@4000RPM,270Nm@2500RPM,7.0,Manual,2541 mm,2460 kg,0.84,58
+447,Icml,12.99,4.0,RWD,50 litres,SUV,11.12 km/litre,1710 kg,5.0,170 mm,101.4PS@3600RPM,240Nm@2000-2500RPM,7.0,Manual,2541 mm,2460 kg,17.75,79
+448,Icml,16.65,4.0,RWD,50 litres,SUV,11.12 km/litre,1710 kg,5.0,170 mm,122PS@4000RPM,270Nm@2500RPM,9.0,Manual,2541 mm,2460 kg,8.46,52
+449,Icml,18.77,4.0,RWD,50 litres,SUV,11.12 km/litre,1710 kg,5.0,170 mm,122PS@4000RPM,270Nm@2500RPM,7.0,Manual,2541 mm,2460 kg,11.21,18
+450,Icml,8.19,4.0,RWD,50 litres,SUV,11.12 km/litre,1710 kg,5.0,170 mm,122PS@4000RPM,270Nm@2500RPM,9.0,Manual,2541 mm,2460 kg,3.94,51
+451,Tata,13.86,3.0,FWD,35 litres,Sedan,23 km/litre,992 kg,5.0,165 mm,86PS@6000rpm,113Nm@3300rpm,5.0,Manual,2450 mm,,12.27,40
+452,Tata,13.5,3.0,FWD,35 litres,Sedan,23 km/litre,992 kg,5.0,165 mm,86PS@6000rpm,113Nm@3300rpm,5.0,Manual,2450 mm,,8.14,93
+453,Tata,6.44,3.0,FWD,35 litres,Sedan,23 km/litre,992 kg,5.0,170 mm,86PS@6000rpm,113Nm@3300rpm,5.0,Manual,2450 mm,,6.99,47
+454,Tata,18.29,3.0,FWD,35 litres,Sedan,23 km/litre,992 kg,5.0,170 mm,86PS@6000rpm,113Nm@3300rpm,5.0,Manual,2450 mm,,11.57,86
+455,Tata,15.24,3.0,FWD,35 litres,Sedan,23 km/litre,992 kg,5.0,165 mm,86PS@6000rpm,113Nm@3300rpm,5.0,AMT,2450 mm,,13.78,35
+456,Tata,11.69,3.0,FWD,35 litres,Sedan,23 km/litre,992 kg,5.0,170 mm,86PS@6000rpm,113Nm@3300rpm,5.0,AMT,2450 mm,,7.47,69
+457,Tata,9.73,4.0,FWD,44 litres,Sedan,17.6 km/litre,1135 kg,5.0,175 mm,90PS@5000rpm,140Nm@1500-4000rpm,5.0,Manual,2470 mm,1531 kg,8.83,34
+458,Tata,3.77,4.0,FWD,44 litres,Sedan,23 km/litre,1152 kg,5.0,165 mm,75PS@4000rpm,190Nm@1750-3000rpm,5.0,Manual,2470 mm,1531 kg,12.11,69
+459,Tata,7.5,4.0,FWD,44 litres,Sedan,17.6 km/litre,1135 kg,5.0,175 mm,90PS@5000rpm,140Nm@1500-4000rpm,5.0,Manual,2470 mm,1531 kg,8.52,1
+460,Tata,7.55,4.0,FWD,44 litres,Sedan,17.6 km/litre,1129 kg,5.0,175 mm,90PS@5000rpm,140Nm@1500-4000rpm,5.0,Manual,2470 mm,1531 kg,13.66,31
+461,Tata,18.59,4.0,FWD,44 litres,Sedan,17.6 km/litre,1135 kg,5.0,175 mm,90PS@5000rpm,140Nm@1750-3000rpm,5.0,Manual,2470 mm,1531 kg,0.62,8
+462,Tata,11.91,4.0,FWD,44 litres,Sedan,23 km/litre,1106 kg,5.0,165 mm,75PS@4000rpm,190Nm@1750-3000rpm,5.0,Manual,2470 mm,1531 kg,15.78,56
+463,Tata,10.12,4.0,FWD,44 litres,Sedan,20.65 km/litre,1155 kg,5.0,165 mm,75PS@4000rpm,190Nm@1750-3000rpm,5.0,Manual,2470 mm,1531 kg,7.01,38
+464,Tata,14.64,4.0,FWD,44 litres,Sedan,23 km/litre,1170 kg,5.0,165 mm,90PS@4000rpm,200NM@1750-3000rpm,5.0,Manual,2470 mm,1531 kg,11.47,51
+465,Tata,18.95,4.0,FWD,44 litres,Sedan,23 km/litre,1170 kg,5.0,165 mm,75PS@4000rpm,190Nm@1750-3000rpm,5.0,AMT,2470 mm,1531 kg,7.63,67
+466,Tata,14.2,4.0,FWD,44 litres,Sedan,23 km/litre,1185 kg,5.0,165 mm,90PS@4000rpm,200NM@1750-3000rpm,5.0,Automatic,2470 mm,1531 kg,1.29,75
+467,Tata,15.11,4.0,FWD,44 litres,Sedan,20.65 km/litre,1155 kg,5.0,165 mm,75PS@4000rpm,190Nm@1750-3000rpm,5.0,Manual,2470 mm,1531 kg,7.22,52
+468,Honda,14.11,4.0,FWD,35 litres,Sedan,19 km/litre,942 kg,5.0,170 mm,90PS@6000rpm,110Nm@4800rpm,5.0,Automatic,2470 mm,1075 kg,19.77,30
+469,Honda,7.77,4.0,FWD,35 litres,Sedan,27.4 km/litre,993 kg,5.0,170 mm,100PS@3600rpm,200Nm@1750rpm,5.0,Manual,2470 mm,1075 kg,18.7,56
+470,Honda,8.24,4.0,FWD,35 litres,Sedan,19.5 km/litre,905 kg,5.0,170 mm,90PS@6000rpm,110Nm@4800rpm,5.0,Manual,2470 mm,1075 kg,3.72,47
+471,Honda,13.4,4.0,FWD,35 litres,Sedan,23.8 km/litre,1031 kg,5.0,170 mm,80PS@3600rpm,160Nm@1750rpm,5.0,Automatic,2470 mm,1075 kg,2.89,53
+472,Honda,17.88,4.0,FWD,35 litres,Sedan,19 km/litre,945 kg,5.0,170 mm,90PS@6000rpm,110Nm@4800rpm,5.0,Automatic,2470 mm,1075 kg,1.07,33
+473,Honda,2.56,4.0,FWD,35 litres,Sedan,23.8 km/litre,1039 kg,5.0,170 mm,80PS@3600rpm,160Nm@1750rpm,5.0,Automatic,2470 mm,1075 kg,3.07,62
+474,Honda,8.32,4.0,FWD,35 litres,Sedan,27.4 km/litre,1010 kg,5.0,170 mm,100PS@3600rpm,200Nm@1750rpm,5.0,Manual,2470 mm,1075 kg,1.77,86
+475,Honda,19.36,4.0,FWD,35 litres,Sedan,27.4 km/litre,1023 kg,5.0,170 mm,100PS@3600rpm,200Nm@1750rpm,5.0,Manual,2470 mm,1075 kg,9.89,63
+476,Honda,11.83,4.0,FWD,35 litres,Sedan,27.4 km/litre,1021 kg,5.0,170 mm,100PS@3600rpm,200Nm@1750rpm,5.0,Manual,2470 mm,1075 kg,19.89,54
+477,Honda,4.17,4.0,FWD,35 litres,Sedan,19.5 km/litre,924 kg,5.0,170 mm,90PS@6000rpm,110Nm@4800rpm,5.0,Manual,2470 mm,1075 kg,3.15,87
+478,Honda,11.11,4.0,FWD,35 litres,Sedan,19.5 km/litre,921 kg,5.0,170 mm,90PS@6000rpm,110Nm@4800rpm,5.0,Manual,2470 mm,1075 kg,11.22,54
+479,Honda,3.28,4.0,FWD,35 litres,Sedan,19.5 km/litre,917 kg,5.0,170 mm,90PS@6000rpm,110Nm@4800rpm,5.0,Manual,2470 mm,1075 kg,14.25,39
+480,Honda,4.78,4.0,FWD,35 litres,Sedan,27.4 km/litre,1023 kg,5.0,170 mm,100PS@3600rpm,200Nm@1750rpm,5.0,Manual,2470 mm,1075 kg,11.28,10
+481,Honda,2.03,4.0,FWD,35 litres,Sedan,19.5 km/litre,924 kg,5.0,170 mm,90PS@6000rpm,110Nm@4800rpm,5.0,Manual,2470 mm,1075 kg,7.22,10
+482,Honda,19.4,4.0,FWD,35 litres,Sedan,27.4 km/litre,1023 kg,5.0,170 mm,100PS@3600rpm,200Nm@1750rpm,5.0,Automatic,2470 mm,1075 kg,18.67,9
+483,Honda,8.83,4.0,FWD,35 litres,Sedan,19.5 km/litre,924 kg,5.0,170 mm,90PS@6000rpm,110Nm@4800rpm,5.0,Automatic,2470 mm,1075 kg,19.16,26
+484,Honda,8.31,4.0,FWD,35 litres,Sedan,27.4 km/litre,1023 kg,5.0,170 mm,100PS@3600rpm,200Nm@1750rpm,5.0,Automatic,2470 mm,1075 kg,9.06,71
+485,Honda,16.47,4.0,FWD,35 litres,Sedan,19.5 km/litre,924 kg,5.0,170 mm,90PS@6000rpm,110Nm@4800rpm,5.0,Automatic,2470 mm,1075 kg,10.01,3
+486,Honda,13.84,4.0,FWD,35 litres,Sedan,27.4 km/litre,1023 kg,5.0,170 mm,100PS@3600rpm,200Nm@1750rpm,5.0,Manual,2470 mm,1075 kg,3.71,79
+487,Honda,11.03,4.0,FWD,35 litres,Sedan,19.5 km/litre,924 kg,5.0,170 mm,90PS@6000rpm,110Nm@4800rpm,5.0,Manual,2470 mm,1075 kg,14.33,79
+488,Maruti Suzuki,8.7,4.0,4WD,40 litres,SUV,11.9 km/litre,985 kg,5.0,210 mm,80PS@6000rpm,103Nm@4500RPM,8.0,Manual,2375 mm,1585 kg,14.27,99
+489,Maruti Suzuki,18.02,4.0,4WD,40 litres,SUV,11.9 km/litre,985 kg,5.0,210 mm,80PS@6000rpm,103Nm@4500RPM,8.0,Manual,2375 mm,1585 kg,5.66,57
+490,Hyundai,11.78,4.0,FWD,45 litres,SUV,17.52 km/litre,,5.0,200 mm,82hp@6000rpm,112.7Nm@4000rpm,5.0,Manual,2500 mm,,0.97,38
+491,Hyundai,17.77,4.0,FWD,45 litres,SUV,18.27 km/litre,,7.0,200 mm,117hp@6000rpm,172Nm@4000rpm,5.0,Manual,2500 mm,,14.24,6
+492,Hyundai,15.02,4.0,FWD,,SUV,23.7 km/litre,,6.0,200 mm,89hp@4000rpm,220Nm@1500-2750rpm,5.0,Manual,2500 mm,,6.92,56
+493,Hyundai,4.66,4.0,FWD,45 litres,SUV,18.27 km/litre,,6.0,200 mm,117bhp@6000rpm,172Nm@1500-4000rpm,5.0,Manual,2500 mm,,0.66,85
+494,Hyundai,7.38,4.0,FWD,45 litres,SUV,18.27 km/litre,,6.0,200 mm,117hp@6000rpm,172Nm@1500-4000rpm,5.0,Manual,2500 mm,,13.46,71
+495,Hyundai,12.47,4.0,FWD,45 litres,SUV,18.27 km/litre,,6.0,200 mm,117hp@6000rpm,1712Nm@1500-4000rpm,5.0,Manual,2500 mm,,18.28,31
+496,Hyundai,9.06,4.0,FWD,45 litres,SUV,18.15 km/litre,,7.0,200 mm,118hp@6000rpm,172Nm@4000rpm,5.0,DCT,2500 mm,,9.5,65
+497,Hyundai,13.07,4.0,FWD,45 litres,SUV,18.15 km/litre,,7.0,200 mm,118@6000rpm,172Nm@1500-4000rpm,5.0,DCT,2500 mm,,17.71,80
+498,Hyundai,12.36,4.0,FWD,45 litres,SUV,17.52 km/litre,,5.0,200 mm,82hp@6000rpm,115Nm@4000rpm,5.0,Manual,2500 mm,,2.42,76
+499,Hyundai,4.4,4.0,FWD,,SUV,23.7 km/litre,,6.0,200 mm,89hp@4000rpm,220Nm@1500-2750rpm,5.0,Manual,2500 mm,,12.52,26
+500,Hyundai,8.78,4.0,FWD,,SUV,23.7 km/litre,,6.0,200 mm,89hp@4000rpm,220Nm@1500-2750rpm,5.0,Manual,2500 mm,,6.65,8
+501,Hyundai,13.61,4.0,FWD,,SUV,23.7 km/litre,,6.0,200 mm,89hp@4000rpm,220Nm@1500-2750rpm,5.0,Manual,2500 mm,,1.63,43
+502,Hyundai,5.63,4.0,FWD,45 litres,SUV,23.7 km/litre,,6.0,200 mm,90PS@5500rpm,220Nm@1500-2750rpm,5.0,Manual,2500 mm,,10.05,85
+503,Tata,6.19,3.0,,44 litres,SUV,17.6 km/litre,,,209 mm,110PS@5000rpm,170Nm@1500-2750rpm,5.0,Manual,2498 mm,,15.27,9
+504,Tata,17.14,3.0,FWD,44 litres,SUV,17.6 km/litre,,,209 mm,110PS@5000rpm,170Nm@1500-2750rpm,5.0,Manual,2498 mm,,9.14,34
+505,Tata,7.34,3.0,FWD,44 litres,SUV,17.6 km/litre,,,209 mm,110PS@5000rpm,170Nm@1500-2750rpm,5.0,Manual,2498 mm,,12.03,82
+506,Tata,8.56,3.0,FWD,44 litres,SUV,17.6 km/litre,,,209 mm,110PS@5000rpm,170Nm@1500-2750rpm,5.0,Manual,2498 mm,,4.46,99
+507,Tata,18.88,3.0,FWD,44 litres,SUV,17.6 km/litre,,,209 mm,110PS@5000rpm,170Nm@1500-2750rpm,5.0,Manual,2498 mm,,13.44,74
+508,Tata,17.51,3.0,FWD,44 litres,SUV,17.6 km/litre,,,209 mm,110PS@5000rpm,170Nm@1500-2750rpm,5.0,Manual,2498 mm,,19.76,73
+509,Tata,11.97,3.0,FWD,44 litres,SUV,17.6 km/litre,,,209 mm,110PS@5000rpm,170Nm@1500-2750rpm,5.0,Automatic,2498 mm,,7.96,89
+510,Tata,2.86,3.0,FWD,44 litres,SUV,17.6 km/litre,,,209 mm,110PS@5000rpm,170Nm@1500-2750rpm,5.0,Automatic,2498 mm,,18.95,16
+511,Tata,3.37,3.0,FWD,44 litres,SUV,17.6 km/litre,,,209 mm,110PS@5000rpm,170Nm@1500-2750rpm,5.0,Automatic,2498 mm,,19.56,44
+512,Tata,17.35,3.0,FWD,44 litres,SUV,17.6 km/litre,,,209 mm,110PS@5000rpm,170Nm@1500-2750rpm,5.0,Automatic,2498 mm,,9.97,43
+513,Tata,17.12,3.0,FWD,44 litres,SUV,17.6 km/litre,,,209 mm,110PS@5000rpm,170Nm@1500-2750rpm,5.0,Automatic,2498 mm,,16.05,81
+514,Tata,15.65,3.0,FWD,44 litres,SUV,17.6 km/litre,,,209 mm,110PS@5000rpm,170Nm@1500-2750rpm,5.0,Automatic,2498 mm,,18.71,8
+515,Tata,17.16,4.0,FWD,44 litres,SUV,23.97 km/litre,,,209 mm,110PS@3750RPM,260Nm@1500-2750rpm,5.0,Manual,2498 mm,,8.0,99
+516,Tata,19.42,4.0,FWD,44 litres,SUV,23.97 km/litre,,,209 mm,110PS@3750RPM,260Nm@1500-2750rpm,5.0,Manual,2498 mm,,9.61,14
+517,Tata,12.55,4.0,FWD,44 litres,SUV,23.97 km/litre,,,209 mm,110PS@3750RPM,260Nm@1500-2750rpm,5.0,Manual,2498 mm,,5.3,47
+518,Tata,13.63,4.0,FWD,44 litres,SUV,23.97 km/litre,,,209 mm,110PS@3750RPM,260Nm@1500-2750rpm,5.0,Manual,2498 mm,,1.44,42
+519,Tata,19.29,4.0,FWD,44 litres,SUV,23.97 km/litre,,,209 mm,110PS@3750RPM,260Nm@1500-2750rpm,5.0,Manual,2498 mm,,10.15,95
+520,Tata,6.82,4.0,FWD,44 litres,SUV,23.97 km/litre,,,209 mm,110PS@3750RPM,260Nm@1500-2750rpm,5.0,Manual,2498 mm,,10.86,30
+521,Tata,17.37,4.0,FWD,44 litres,SUV,23.97 km/litre,,,209 mm,110PS@3750RPM,260Nm@1500-2750rpm,5.0,Manual,2498 mm,,15.6,75
+522,Tata,6.9,4.0,FWD,44 litres,SUV,23.97 km/litre,,,209 mm,110PS@3750RPM,260Nm@1500-2750rpm,5.0,Automatic,2498 mm,,14.02,55
+523,Tata,19.49,4.0,FWD,44 litres,SUV,23.97 km/litre,,,209 mm,110PS@3750RPM,260Nm@1500-2750rpm,5.0,Automatic,2498 mm,,0.05,26
+524,Tata,15.8,4.0,FWD,44 litres,SUV,23.97 km/litre,,,209 mm,110PS@3750RPM,260Nm@1500-2750rpm,5.0,Automatic,2498 mm,,3.09,39
+525,Tata,12.2,4.0,FWD,44 litres,SUV,23.97 km/litre,,,209 mm,110PS@3750RPM,260Nm@1500-2750rpm,5.0,Automatic,2498 mm,,12.18,35
+526,Tata,6.29,4.0,FWD,44 litres,SUV,23.97 km/litre,,,209 mm,110PS@3750RPM,260Nm@1500-2750rpm,5.0,Automatic,2498 mm,,2.87,32
+527,Fiat,12.24,4.0,FWD,45 litres,Sedan,15.7 km/litre,1220 kg,5.0,185 mm,114PS@5000rpm,207Nm@4500rpm,5.0,Manual,2603 mm,1540 kg,16.73,34
+528,Fiat,15.97,4.0,FWD,45 litres,Sedan,20.4 km/litre,1236 kg,5.0,185 mm,93PS@4000RPM,209Nm@2000rpm,5.0,Manual,2603 mm,1540 kg,15.56,32
+529,Fiat,9.96,4.0,FWD,45 litres,Sedan,20.4 km/litre,1255 kg,5.0,185 mm,93PS@4000RPM,209Nm@2000rpm,5.0,Manual,2603 mm,1540 kg,16.39,16
+530,Fiat,13.68,4.0,FWD,45 litres,Sedan,20.4 km/litre,1268 kg,5.0,185 mm,93PS@5000RPM,209Nm@2000rpm,5.0,Manual,2603 mm,1540 kg,9.45,90
+531,Fiat,16.78,4.0,FWD,45 litres,Sedan,15.7 km/litre,1258 kg,5.0,185 mm,114PS@5000rpm,207Nm@2200rpm,5.0,Manual,2603 mm,,10.61,11
+532,Mahindra,4.3,4.0,FWD,60 litres,SUV,16.5 km/litre,1615 kg,5.0,180 mm,70ps@3600rpm,195Nm@1400-2200rpm,7.0,Manual,2680 mm,,9.48,64
+533,Mahindra,18.28,4.0,FWD,60 litres,SUV,16.5 km/litre,1615 kg,5.0,180 mm,70ps@3600rpm,195Nm@1400-2200rpm,7.0,Manual,2680 mm,,15.44,100
+534,Mahindra,14.82,4.0,FWD,60 litres,SUV,16.5 km/litre,1615 kg,5.0,180 mm,70ps@3600rpm,195Nm@1400-2200rpm,7.0,Manual,2680 mm,,13.94,18
+535,Mahindra,16.45,4.0,RWD,60 litres,SUV,16.5 km/litre,1615 kg,5.0,180 mm,70 bhp @ 3600 rpm,195Nm@1400-2200rpm,7.0,Manual,2680 mm,,7.56,80
+536,Mahindra,8.45,4.0,FWD,60 litres,SUV,15.96 km/litre,1615 kg,5.0,195 mm,63PS@3200rpm,220Nm@1500-2750rpm,7.0,Manual,2794 mm,,19.78,46
+537,Mahindra,7.76,4.0,FWD,60 litres,SUV,15.96 km/litre,1615 kg,5.0,195 mm,63.9PS@3200RPM,195Nm@1440-2200RPM,9.0,Manual,2794 mm,,9.93,93
+538,Maruti Suzuki,11.02,4.0,FWD,48 litres,SUV,24.3 km/litre,1170 kg,5.0,198 mm,90PS@4000rpm,200Nm@1750rpm,5.0,Manual,2500 mm,1680 kg,6.32,67
+539,Maruti Suzuki,5.34,4.0,FWD,48 litres,SUV,24.3 km/litre,1170 kg,5.0,198 mm,90PS@4000rpm,200Nm@1750rpm,5.0,Manual,2500 mm,1680 kg,4.4,10
+540,Maruti Suzuki,7.61,4.0,FWD,48 litres,SUV,24.3 km/litre,1170 kg,5.0,198 mm,90PS@4000rpm,200Nm@1750rpm,5.0,Manual,2500 mm,1680 kg,13.98,83
+541,Maruti Suzuki,8.54,4.0,FWD,48 litres,SUV,24.3 km/litre,1170 kg,5.0,198 mm,90PS@4000rpm,200Nm@1750rpm,5.0,Manual,2500 mm,1680 kg,4.19,39
+542,Maruti Suzuki,12.78,4.0,FWD,48 litres,SUV,24.3 km/litre,1170 kg,5.0,198 mm,90PS@4000rpm,200Nm@1750rpm,5.0,Manual,2500 mm,1680 kg,12.97,93
+543,Maruti Suzuki,14.66,4.0,FWD,48 litres,SUV,24.3 km/litre,1170 kg,5.0,198 mm,90PS@4000rpm,200Nm@1750rpm,5.0,Manual,2500 mm,1680 kg,16.27,34
+544,Maruti Suzuki,8.3,4.0,FWD,48 litres,SUV,24.3 km/litre,1170 kg,5.0,198 mm,90PS@4000rpm,200Nm@1750rpm,5.0,Automatic,2500 mm,1680 kg,6.12,22
+545,Maruti Suzuki,5.63,4.0,FWD,48 litres,SUV,24.3 km/litre,1170 kg,5.0,198 mm,90PS@4000rpm,200Nm@1750rpm,5.0,Automatic,2500 mm,1680 kg,15.54,38
+546,Maruti Suzuki,14.92,4.0,FWD,48 litres,SUV,24.3 km/litre,1170 kg,5.0,198 mm,90PS@4000rpm,200Nm@1750rpm,5.0,Automatic,2500 mm,1680 kg,10.23,57
+547,Hyundai,15.84,4.0,FWD,40 litres,Hatchback,17.19 km/litre,,5.0,190 mm,83PS@6000rpm,114Nm@4000rpm,5.0,Manual,2570 mm,1170 kg,1.27,49
+548,Hyundai,3.0,4.0,FWD,40 litres,Hatchback,17.19 km/litre,,6.0,190 mm,83PS@6000rpm,114Nm@4000rpm,5.0,Manual,2570 mm,1170 kg,2.53,25
+549,Hyundai,3.33,4.0,FWD,40 litres,Hatchback,17.19 km/litre,,6.0,190 mm,83PS@6000rpm,114Nm@4000rpm,5.0,Manual,2570 mm,1170 kg,17.55,26
+550,Hyundai,14.46,4.0,FWD,40 litres,Hatchback,21.19 km/litre,,6.0,190 mm,90PS@4000rpm,220Nm@1500-2750rpm,5.0,Manual,2570 mm,1170 kg,9.29,5
+551,Ford,8.2,3.0,FWD,52 litres,SUV,17 km/litre,1220 kg,5.0,200 mm,123PS@6500rpm,150Nm@4500rpm,5.0,Manual,2519 mm,1660 kg,10.7,35
+552,Ford,9.44,3.0,FWD,52 litres,SUV,17 km/litre,1225 kg,5.0,200 mm,123PS@6500rpm,150Nm@4500rpm,5.0,Manual,2519 mm,1660 kg,8.49,85
+553,Ford,14.87,3.0,FWD,52 litres,SUV,17 km/litre,1242 kg,5.0,200 mm,123PS@6500rpm,150Nm@4500rpm,5.0,Manual,2519 mm,1660 kg,11.45,33
+554,Ford,2.34,3.0,FWD,52 litres,SUV,14.8 km/litre,1320 kg,6.0,200 mm,123PS@6500rpm,150Nm@4500rpm,5.0,Automatic,2519 mm,1705 kg,5.19,9
+555,Ford,18.22,4.0,FWD,52 litres,SUV,23 km/litre,1261 kg,5.0,200 mm,100PS@3750RPM,205Nm@1750-3250rpm,5.0,Manual,2519 mm,1690 kg,16.66,24
+556,Ford,11.29,4.0,FWD,52 litres,SUV,23 km/litre,1268 kg,5.0,200 mm,100PS@3750RPM,205Nm@1750-3250rpm,5.0,Manual,2519 mm,1690 kg,4.49,23
+557,Ford,2.44,4.0,FWD,52 litres,SUV,23 km/litre,1300 kg,5.0,200 mm,100PS@3750RPM,205Nm@1750-3250rpm,5.0,Manual,2579 mm,1690 kg,19.97,19
+558,Ford,6.26,4.0,FWD,52 litres,SUV,23 km/litre,1304 kg,5.0,200 mm,100PS@3750RPM,205Nm@1750-3250rpm,5.0,Manual,2519 mm,1690 kg,9.48,26
+559,Ford,9.38,4.0,FWD,52 litres,SUV,23 km/litre,1304 kg,5.0,200 mm,123PS@6500rpm,150Nm@4500rpm,5.0,Manual,2519 mm,1690 kg,3.74,46
+560,Ford,5.61,3.0,FWD,52 litres,SUV,23 km/litre,1242 kg,5.0,200 mm,100PS@3750RPM,205Nm@1750-3250rpm,5.0,Manual,2519 mm,1660 kg,14.5,33
+561,Ford,4.08,4.0,FWD,52 litres,SUV,23 km/litre,1304 kg,5.0,200 mm,123PS@6500rpm,150Nm@4500rpm,5.0,Manual,2519 mm,1690 kg,1.82,41
+562,Ford,14.3,4.0,FWD,52 litres,SUV,23 km/litre,1304 kg,5.0,200 mm,100PS@3750RPM,205Nm@1750-3250rpm,5.0,Manual,2519 mm,1690 kg,8.07,95
+563,Reult,13.16,4.0,FWD,50 litres,SUV,13.87 km/litre,1296 kg,5.0,205 mm,106PS@5600rpm,142Nm@4000rpm,5.0,Manual,2673 mm,1777 kg,14.85,34
+564,Reult,19.97,4.0,FWD,50 litres,SUV,13.87 km/litre,1296 kg,5.0,205 mm,106PS@5600rpm,142Nm@4000rpm,5.0,Manual,2673 mm,1813 kg,9.13,67
+565,Reult,8.05,4.0,FWD,50 litres,SUV,13.87 km/litre,1296 kg,6.0,205 mm,106PS@5600rpm,142Nm@4000rpm,5.0,CVT,2673 mm,1813 kg,16.95,36
+566,Reult,7.99,4.0,FWD,50 litres,SUV,19.6 km/litre,1296 kg,5.0,205 mm,85PS@3750rpm,200Nm@1750rpm,5.0,Manual,2673 mm,1777 kg,9.36,19
+567,Reult,2.87,4.0,FWD,50 litres,SUV,19.6 km/litre,1296 kg,5.0,205 mm,85PS@3750rpm,200Nm@1750rpm,5.0,Manual,2673 mm,1777 kg,14.75,46
+568,Reult,2.05,4.0,FWD,50 litres,SUV,19.6 km/litre,1296 kg,6.0,205 mm,110PS@4000rpm,245Nm@1750rpm,5.0,Automatic,2673 mm,1813 kg,19.35,19
+569,Reult,5.94,4.0,FWD,50 litres,SUV,19.6 km/litre,1296 kg,6.0,205 mm,110PS@4000rpm,245Nm@1750rpm,5.0,Automatic,2673 mm,1813 kg,12.7,10
+570,Reult,10.89,4.0,FWD,50 litres,SUV,19.6 km/litre,1296 kg,6.0,205 mm,110PS@4000rpm,245Nm@1750rpm,5.0,Automatic,2673 mm,1813 kg,4.84,30
+571,Reult,2.31,4.0,FWD,50 litres,SUV,19.6 km/litre,1296 kg,6.0,205 mm,110PS@4000rpm,245Nm@1750rpm,5.0,Automatic,2673 mm,1813 kg,9.95,99
+572,Hyundai,10.68,4.0,FWD,45 litres,Sedan,17.7 km/litre,,5.0,165 mm,123PS@6400rpm,151Nm@4850rpm,5.0,Manual,2600 mm,,1.43,44
+573,Hyundai,18.75,4.0,FWD,45 litres,Sedan,23.9 km/litre,,6.0,165 mm,128ps@4000rpm,260Nm@1500-3000rpm,5.0,Manual,2600 mm,,5.61,33
+574,Hyundai,10.29,4.0,FWD,45 litres,Sedan,23.5 km/litre,,4.0,165 mm,128ps@4000rpm,260Nm@1500-3000rpm,5.0,Manual,2600 mm,,7.28,68
+575,Hyundai,8.34,4.0,FWD,45 litres,Sedan,17.7 km/litre,,5.0,165 mm,123PS@6400rpm,151Nm@4850rpm,5.0,Manual,2600 mm,,13.5,52
+576,Hyundai,6.84,4.0,FWD,45 litres,Sedan,17.1 km/litre,,4.0,165 mm,128ps@4000rpm,260Nm@1500-3000rpm,5.0,Automatic,2600 mm,,11.74,71
+577,Hyundai,3.26,4.0,FWD,45 litres,Sedan,17.7 km/litre,,4.0,165 mm,123PS@6400rpm,155Nm@4850rpm,5.0,Automatic,2600 mm,,13.87,93
+578,Hyundai,18.46,4.0,FWD,45 litres,Sedan,19.1 km/litre,,5.0,165 mm,100PS@6000rpm,133Nm@4000rpm,5.0,Manual,2600 mm,,14.21,49
+579,Hyundai,12.3,4.0,FWD,45 litres,Sedan,19.1 km/litre,,5.0,165 mm,100PS@6000rpm,133Nm@4000rpm,5.0,Manual,2600 mm,,3.83,94
+580,Hyundai,8.37,4.0,FWD,45 litres,Sedan,17.7 km/litre,,5.0,165 mm,123PS@6400rpm,151Nm@4850rpm,5.0,Manual,2600 mm,,9.05,4
+581,Hyundai,4.95,4.0,FWD,45 litres,Sedan,17.7 km/litre,,6.0,165 mm,123PS@6400rpm,155Nm@4850rpm,5.0,Automatic,2600 mm,,10.34,37
+582,Hyundai,13.32,4.0,FWD,45 litres,Sedan,17.1 km/litre,,6.0,165 mm,128ps@4000rpm,260Nm@1500-3000rpm,5.0,Automatic,2600 mm,,14.66,71
+583,Hyundai,13.21,4.0,FWD,45 litres,Sedan,,,5.0,165 mm,100PS@6000rpm,133Nm@4000rpm,5.0,Manual,2600 mm,,13.52,97
+584,Hyundai,2.15,4.0,FWD,45 litres,Sedan,,,5.0,165 mm,100PS@6000rpm,133Nm@4000rpm,5.0,Manual,2600 mm,,5.91,27
+585,Mahindra,6.22,,RWD,42 litres,SUV,17 km/litre,,6.0,180 mm,109bhp@5000RPM,200Nm@2000rpm,5.0,Manual,2600 mm,,3.47,92
+586,Mahindra,17.8,,RWD,42 litres,SUV,17 km/litre,,6.0,180 mm,109bhp@5000RPM,200Nm@2000rpm,5.0,Manual,2600 mm,,7.31,74
+587,Mahindra,18.35,,RWD,42 litres,SUV,17 km/litre,,6.0,180 mm,109bhp@5000RPM,200Nm@2000rpm,5.0,Manual,2600 mm,,19.5,14
+588,Mahindra,10.22,,RWD,42 litres,SUV,17 km/litre,,6.0,180 mm,109bhp@5000RPM,200Nm@2000rpm,5.0,Manual,2600 mm,,0.43,60
+589,Mahindra,7.43,,RWD,42 litres,SUV,20 km/litre,,6.0,180 mm,115bhp@3750rpm,300Nm@1500rpm,5.0,Manual,2600 mm,,2.57,31
+590,Mahindra,19.28,,RWD,42 litres,SUV,20 km/litre,,6.0,180 mm,115bhp@3750rpm,300Nm@1500rpm,5.0,Manual,2600 mm,,0.01,23
+591,Mahindra,12.8,,RWD,42 litres,SUV,20 km/litre,,6.0,180 mm,115bhp@3750rpm,300Nm@1500rpm,5.0,Manual,2600 mm,,14.01,63
+592,Mahindra,14.59,,RWD,42 litres,SUV,20 km/litre,,6.0,180 mm,115bhp@3750rpm,300Nm@1500rpm,5.0,Manual,2600 mm,,0.64,21
+593,Mahindra,15.69,,RWD,42 litres,SUV,20 km/litre,,6.0,180 mm,115bhp@3750rpm,300Nm@1500rpm,5.0,Automatic,2600 mm,,5.87,47
+594,Mahindra,16.37,,RWD,42 litres,SUV,20 km/litre,,6.0,180 mm,115bhp@3750rpm,300Nm@1500rpm,5.0,Automatic,2600 mm,,3.73,69
+595,Mahindra,11.16,4.0,RWD,42 litres,SUV,20 km/litre,,6.0,180 mm,115bhp@3750rpm,300Nm@1500rpm,5.0,AMT,2600 mm,,13.25,86
+596,Reult,7.75,4.0,FWD,50 litres,MUV,21.04 km/litre,1299 kg,5.0,174 mm,85PS@3750rpm,200Nm@1900rpm,8.0,Manual,2810 mm,1338 kg,9.52,99
+597,Reult,5.14,4.0,FWD,50 litres,MUV,21.04 km/litre,1299 kg,5.0,174 mm,85PS@3750rpm,200Nm@1900rpm,8.0,Manual,2810 mm,1338 kg,9.99,30
+598,Reult,2.78,4.0,FWD,50 litres,MUV,19.98 km/litre,1338 kg,6.0,174 mm,110PS@4000rpm,245Nm@1750rpm,,Manual,2810 mm,,15.02,75
+599,Reult,8.86,4.0,FWD,50 litres,MUV,19.98 km/litre,1368 kg,6.0,174 mm,110PS@4000rpm,245Nm@1750rpm,7.0,Manual,2810 mm,,6.91,14
+600,Reult,8.29,4.0,FWD,50 litres,MUV,21.04 km/litre,1299 kg,5.0,174 mm,85PS@3750rpm,200Nm@1900rpm,8.0,Manual,2810 mm,1338 kg,1.69,59
+601,Reult,11.95,4.0,FWD,50 litres,MUV,21.04 km/litre,1299 kg,5.0,174 mm,85PS@3750rpm,200Nm@1900rpm,8.0,Manual,2810 mm,1338 kg,15.06,51
+602,Reult,7.83,4.0,FWD,50 litres,MUV,21.04 km/litre,1299 kg,5.0,174 mm,85PS@3750rpm,200Nm@1900rpm,7.0,Manual,2810 mm,1338 kg,10.57,12
+603,Volkswagen,10.91,4.0,FWD,55 litres,Sedan,16.09 km/litre,1140 kg,5.0,163 mm,105PS@5250rpm,153Nm@3800rpm,5.0,Manual,2553 mm,1680 kg,18.86,9
+604,Volkswagen,16.43,4.0,FWD,55 litres,Sedan,16.09 km/litre,1140 kg,5.0,163 mm,105PS@5250rpm,153Nm@3800rpm,5.0,Manual,2553 mm,1680 kg,13.25,10
+605,Volkswagen,10.74,4.0,FWD,55 litres,Sedan,16.09 km/litre,1137 kg,5.0,163 mm,105PS@5250rpm,153Nm@3800rpm,5.0,Manual,2553 mm,1680 kg,9.65,72
+606,Volkswagen,19.19,4.0,FWD,55 litres,Sedan,18.19 km/litre,1179 kg,7.0,163 mm,105PS@5000rpm,175Nm@1500-4100rpm,5.0,Automatic,2553 mm,1720 kg,5.57,17
+607,Volkswagen,5.5,4.0,FWD,55 litres,Sedan,18.19 km/litre,1174 kg,7.0,163 mm,105PS@5000rpm,175Nm@1500-4100rpm,5.0,Automatic,2553 mm,1720 kg,1.41,58
+608,Volkswagen,4.3,4.0,FWD,55 litres,Sedan,20.64 km/litre,1193 kg,5.0,163 mm,105PS@4400rpm,250Nm@1500-2500rpm,5.0,Manual,2553 mm,1750 kg,19.14,74
+609,Volkswagen,13.07,4.0,FWD,55 litres,Sedan,20.64 km/litre,1208 kg,5.0,163 mm,105PS@4400rpm,250Nm@1500-2500rpm,5.0,Manual,2553 mm,1750 kg,2.12,15
+610,Volkswagen,9.18,4.0,FWD,55 litres,Sedan,20.64 km/litre,1211 kg,5.0,163 mm,105PS@4400rpm,250Nm@1500-2500rpm,5.0,Manual,2553 mm,1750 kg,7.03,91
+611,Volkswagen,5.76,4.0,FWD,55 litres,Sedan,21.5 km/litre,1211 kg,7.0,163 mm,105PS@4400rpm,250Nm@1500-2500rpm,5.0,Automatic,2553 mm,1770 kg,4.65,86
+612,Volkswagen,5.43,4.0,FWD,55 litres,Sedan,20.64 km/litre,1211 kg,5.0,163 mm,105PS@4400rpm,250Nm@1500-2500rpm,5.0,Automatic,2553 mm,1750 kg,13.19,19
+613,Volkswagen,15.94,4.0,FWD,45 litres,Hatchback,19.91 km/litre,1148 kg,5.0,165 mm,110PS@4400rpm,250Nm@1500-2500rpm,5.0,Manual,2469 mm,1620 kg,9.08,37
+614,Volkswagen,12.76,4.0,FWD,45 litres,Hatchback,17.21 km/litre,1109 kg,7.0,165 mm,105PS@5000rpm,175Nm@1500-4100rpm,5.0,Automatic,2469 mm,1580 kg,12.39,64
+615,Mahindra,17.37,,RWD,,Hatchback,,937 kg,,170 mm,25.8PS@3500rpm,70Nm@1000rpm,4.0,Automatic,2258 mm,1257 kg,0.38,58
+616,Mahindra,4.74,,RWD,,Hatchback,,937 kg,,170 mm,25.8PS@3500rpm,70Nm@1000rpm,4.0,Automatic,2258 mm,1257 kg,7.7,79
+617,Tata,5.94,,FWD,35 litres,Sedan,,,,165 mm,41.5PS@4500rpm,105Nm@2500RPM,5.0,Automatic,2450 mm,,0.24,3
+618,Tata,3.43,,FWD,35 litres,Sedan,,,,165 mm,41.5PS@4500rpm,105Nm@2500RPM,5.0,Automatic,2450 mm,,3.9,45
+619,Tata,9.68,,FWD,35 litres,Sedan,,,,165 mm,41.5PS@4500rpm,105Nm@2500RPM,5.0,Automatic,2450 mm,,8.37,66
+620,Honda,9.75,4.0,FWD,42 litres,SUV,15.4 km/litre,1199 kg,7.0,210 mm,119PS@6600rpm,145Nm@4600rpm,7.0,Manual,2662 mm,,17.51,14
+621,Honda,18.13,4.0,FWD,42 litres,SUV,15.4 km/litre,1217 kg,7.0,210 mm,119PS@6600rpm,145Nm@4600rpm,7.0,Manual,2662 mm,,16.77,90
+622,Honda,3.15,4.0,FWD,42 litres,SUV,15.4 km/litre,1225 kg,7.0,210 mm,119PS@6600rpm,145Nm@4600rpm,7.0,Manual,2662 mm,,17.95,19
+623,Honda,17.5,4.0,FWD,42 litres,SUV,15.4 km/litre,1235 kg,7.0,210 mm,119PS@6600rpm,145Nm@4600rpm,7.0,Manual,2662 mm,,8.1,52
+624,Honda,16.56,4.0,FWD,42 litres,SUV,16 km/litre,1238 kg,7.0,210 mm,119PS@6600rpm,145Nm@4600rpm,7.0,Automatic,2662 mm,,14.93,59
+625,Honda,4.98,4.0,FWD,42 litres,SUV,21.9 km/litre,1289 kg,7.0,210 mm,100PS@3600rpm,200Nm@1750rpm,7.0,Manual,2662 mm,,18.28,88
+626,Honda,16.54,4.0,FWD,42 litres,SUV,21.9 km/litre,1301 kg,7.0,210 mm,100PS@3600rpm,200Nm@1750rpm,7.0,Manual,2662 mm,,8.63,9
+627,Honda,3.31,4.0,FWD,42 litres,SUV,21.9 km/litre,1306 kg,7.0,210 mm,100PS@3600rpm,200Nm@1750rpm,7.0,Manual,2662 mm,,4.47,34
+628,Mahindra,15.14,4.0,4WD,60 litres,SUV,13 km/litre,1750 kg,5.0,200 mm,105 Bhp@ 3800 rpm,247Nm@1800-2000rpm,6.0,Manual,2430 mm,,12.32,46
+629,Mahindra,12.82,4.0,4WD,60 litres,SUV,13 km/litre,1750 kg,5.0,200 mm,105PS@3800rpm,247Nm@1800-2000rpm,6.0,Manual,2430 mm,,4.74,40
+630,Mahindra,9.4,4.0,4WD,60 litres,SUV,13 km/litre,1750 kg,5.0,200 mm,105 Bhp@ 3800 rpm,247Nm@1800-2000rpm,6.0,Manual,2430 mm,,8.44,60
+631,Force,7.47,4.0,RWD,63 litres,SUV,17 km/litre,,6.0,190 mm,85PS@3200rpm,230Nm@1400-2400rpm,7.0,Manual,2750 mm,2775 kg,13.72,18
+632,Force,14.71,4.0,4WD,63 litres,SUV,17 km/litre,,6.0,205 mm,85PS@3200rpm,230Nm@1400-2400rpm,5.0,Manual,2400 mm,2510 kg,2.75,7
+633,Force,3.09,4.0,AWD,63 litres,SUV,,,5.0,,140 bhp @ 3800 rpm,321 Nm @ 1600 rpm,5.0,Manual,2400 mm,,10.84,64
+634,Force,8.53,4.0,AWD,63 litres,SUV,,,5.0,,140 bhp @ 3800 rpm,321 Nm @ 1600 rpm,5.0,Manual,2400 mm,,6.09,34
+635,Force,4.02,4.0,RWD,63 litres,SUV,17 km/litre,,6.0,190 mm,85PS@3200rpm,230Nm@1400-2400rpm,7.0,Manual,2750 mm,2775 kg,15.68,27
+636,Force,8.92,4.0,4WD,63 litres,SUV,17 km/litre,,6.0,205 mm,85PS@3200rpm,230Nm@1400-2400rpm,5.0,Manual,2400 mm,2510 kg,3.73,24
+637,Maruti Suzuki,2.07,4.0,FWD,45 litres,MPV,19.01 km/litre,1180 kg,5.0,,104PS@6000rpm,138Nm@4400rpm,6.0,Manual,2740 mm,1730 kg,10.61,20
+638,Maruti Suzuki,5.75,4.0,FWD,45 litres,MPV,19.01 km/litre,1180 kg,5.0,,104PS@6000rpm,138Nm@4400rpm,6.0,Manual,2740 mm,1730 kg,6.92,40
+639,Maruti Suzuki,12.69,4.0,FWD,45 litres,MPV,17.01 km/litre,1180 kg,5.0,,104PS@6000rpm,138Nm@4400rpm,6.0,Automatic,2740 mm,1730 kg,7.06,53
+640,Maruti Suzuki,8.97,4.0,FWD,45 litres,MPV,17.01 km/litre,1180 kg,5.0,,104PS@6000rpm,138Nm@4400rpm,6.0,Automatic,2740 mm,1730 kg,8.11,25
+641,Fiat,14.84,4.0,FWD,,Crossover,17.1 km/litre,,5.0,205 mm,143PS@5500RPM,210Nm@2000-4000RPM,5.0,Manual,2510 mm,,7.54,98
+642,Mahindra,6.49,3.0,RWD,60 litres,SUV,18.49 km/litre,,5.0,,120PS@4000RPM,280Nm@1800-2800rpm,9.0,Manual,2680 mm,2410 kg,7.85,38
+643,Mahindra,5.32,3.0,RWD,60 litres,SUV,18.49 km/litre,,5.0,,120PS@4000RPM,280Nm@1800-2800rpm,9.0,Manual,2680 mm,2410 kg,12.03,14
+644,Mahindra,9.39,3.0,RWD,60 litres,SUV,18.49 km/litre,,5.0,,120PS@4000RPM,280Nm@1800-2800rpm,9.0,Manual,2680 mm,2410 kg,17.12,2
+645,Mahindra,19.51,4.0,FWD,45 litres,MPV,17.3 km/litre,,6.0,,121Bhp@3500rpm,300Nm@1750-2500rpm,7.0,Manual,2760 mm,,12.9,17
+646,Mahindra,15.99,4.0,FWD,45 litres,MPV,17.3 km/litre,,6.0,,121Bhp@3500rpm,300Nm@1750-2500rpm,7.0,Manual,2760 mm,,10.75,93
+647,Mahindra,5.31,4.0,FWD,45 litres,MPV,17.3 km/litre,,6.0,,121Bhp@3500rpm,300Nm@1750-2500rpm,7.0,Manual,2760 mm,,7.5,90
+648,Mahindra,6.51,4.0,FWD,45 litres,MPV,17.3 km/litre,,6.0,,121Bhp@3500rpm,300Nm@1750-2500rpm,7.0,Manual,2760 mm,,16.29,52
+649,Mahindra,5.53,4.0,FWD,45 litres,MPV,17.3 km/litre,,6.0,,121Bhp@3500rpm,300Nm@1750-2500rpm,8.0,Manual,2760 mm,,11.87,70
+650,Mahindra,14.63,4.0,FWD,45 litres,MPV,17.3 km/litre,,6.0,,121Bhp@3500rpm,300Nm@1750-2500rpm,8.0,Manual,2760 mm,,15.92,57
+651,Mahindra,6.51,4.0,FWD,45 litres,MPV,17.3 km/litre,,6.0,,121Bhp@3500rpm,300Nm@1750-2500rpm,8.0,Manual,2760 mm,,4.65,69
+652,Mahindra,5.79,4.0,FWD,45 litres,MPV,17.3 km/litre,,6.0,,121Bhp@3500rpm,300Nm@1750-2500rpm,8.0,Manual,2760 mm,,12.68,54
+653,Mahindra,3.66,4.0,FWD,60 litres,SUV,15.4 km/litre,,5.0,,75PS@3200rpm,200Nm@1400-2200rpm,9.0,Manual,2680 mm,2510 kg,8.96,19
+654,Mahindra,18.37,4.0,4WD,80 litres,SUV,10.22 km/litre,1865 kg,5.0,210 mm,121PS@4000rpm,280Nm@1800-2800rpm,5.0,Manual,3040 mm,2610 kg,0.49,82
+655,Mahindra,3.5,4.0,RWD,80 litres,SUV,13.5 km/litre,2510 kg,5.0,210 mm,121PS@4000rpm,280Nm@1800-2800rpm,5.0,Manual,3040 mm,2650 kg,15.04,4
+656,Mahindra,19.81,4.0,FWD,60 litres,SUV,15.4 km/litre,,5.0,,120PS@4000RPM,280Nm@1800-2800rpm,9.0,Manual,2680 mm,2510 kg,0.99,21
+657,Mahindra,3.02,4.0,FWD,60 litres,SUV,15.4 km/litre,,5.0,,120PS@4000RPM,280Nm@1800-2800rpm,9.0,Manual,2680 mm,2510 kg,0.13,34
+658,Mahindra,3.86,4.0,FWD,60 litres,SUV,15.4 km/litre,,5.0,,140PS@3750rpm,320Nm@1500-2800rpm,9.0,Manual,2680 mm,2510 kg,8.9,20
+659,Mahindra,4.87,4.0,FWD,60 litres,SUV,15.4 km/litre,,5.0,,140PS@3750rpm,320Nm@1500-2800rpm,9.0,Manual,2680 mm,2510 kg,19.61,30
+660,Mahindra,19.89,4.0,FWD,60 litres,SUV,15.4 km/litre,,5.0,,140PS@3750rpm,320Nm@1500-2800rpm,9.0,Manual,2680 mm,2610 kg,15.32,1
+661,Mahindra,6.41,4.0,FWD,60 litres,SUV,15.4 km/litre,,6.0,,140PS@3750rpm,320Nm@1500-2800rpm,9.0,Manual,2680 mm,2510 kg,8.26,5
+662,Skoda,6.93,4.0,FWD,55 litres,Sedan,21.72 km/litre,1228 kg,7.0,163 mm,110PS@4000rpm,250Nm@1500-2500rpm,5.0,Automatic,2552 mm,1770 kg,1.72,19
+663,Skoda,9.85,4.0,FWD,55 litres,Sedan,14.84 km/litre,1187 kg,7.0,163 mm,105PS@5250rpm,153Nm@3750-3800rpm,5.0,Automatic,2552 mm,1710 kg,6.85,80
+664,Skoda,16.72,4.0,FWD,55 litres,Sedan,21.13 km/litre,1210 kg,5.0,163 mm,110PS@4000rpm,250Nm@1500-2500rpm,5.0,Manual,2552 mm,1750 kg,18.11,52
+665,Skoda,11.68,4.0,FWD,55 litres,Sedan,15.41 km/litre,1137 kg,5.0,163 mm,105PS@5250rpm,153Nm@3750-3800rpm,5.0,Manual,2552 mm,1680 kg,14.51,93
+666,Mahindra,2.04,4.0,FWD,70 litres,SUV,13.85 km/litre,1785 kg,6.0,200 mm,140PS@4500rpm,320Nm@2000 - 3000rpm,7.0,Automatic,2700 mm,2510 kg,18.05,51
+667,Mahindra,11.18,4.0,FWD,70 litres,SUV,15.1 km/litre,1785 kg,6.0,200 mm,155PS@3750rpm,330Nm@1750-2800rpm,7.0,Manual,2700 mm,2450 kg,16.65,88
+668,Mahindra,6.04,4.0,FWD,70 litres,SUV,16 km/litre,1785 kg,6.0,200 mm,155PS@3750rpm,330Nm@1750-2800rpm,7.0,Automatic,2700 mm,2510 kg,16.48,54
+669,Mahindra,16.87,4.0,FWD,70 litres,SUV,16 km/litre,1785 kg,6.0,200 mm,155PS@3750rpm,330Nm@1750-2800rpm,7.0,Manual,2700 mm,2510 kg,1.26,8
+670,Mahindra,18.05,4.0,FWD,70 litres,SUV,16 km/litre,1785 kg,6.0,200 mm,155PS@3750rpm,330Nm@1750-2800rpm,7.0,Automatic,2700 mm,2510 kg,4.42,70
+671,Mahindra,7.91,4.0,FWD,70 litres,SUV,16 km/litre,1785 kg,6.0,200 mm,155PS@3750rpm,330Nm@1750-2800rpm,7.0,Manual,2700 mm,2510 kg,5.21,4
+672,Mahindra,13.79,4.0,FWD,70 litres,SUV,16 km/litre,1785 kg,6.0,200 mm,155PS@3750rpm,330Nm@1750-2800rpm,7.0,Automatic,2700 mm,2510 kg,4.21,79
+673,Mahindra,7.11,4.0,FWD,70 litres,SUV,16 km/litre,1785 kg,6.0,200 mm,155PS@3750rpm,330Nm@1750-2800rpm,7.0,Manual,2700 mm,2510 kg,18.58,28
+674,Mahindra,10.72,4.0,FWD,70 litres,SUV,16 km/litre,1785 kg,6.0,200 mm,155PS@3750rpm,330Nm@1750-2800rpm,7.0,Automatic,2700 mm,2510 kg,2.76,73
+675,Mahindra,9.6,4.0,FWD,70 litres,SUV,13.85 km/litre,1785 kg,6.0,200 mm,140PS@4500rpm,320Nm@2000 - 3000rpm,7.0,Automatic,2700 mm,2510 kg,4.09,61
+676,Mahindra,7.16,4.0,FWD,70 litres,SUV,15.1 km/litre,1785 kg,6.0,200 mm,155PS@3750rpm,330Nm@1750-2800rpm,7.0,Manual,2700 mm,2450 kg,13.35,77
+677,Mahindra,7.51,4.0,FWD,70 litres,SUV,16 km/litre,1785 kg,6.0,200 mm,155PS@3750rpm,330Nm@1750-2800rpm,7.0,Automatic,2700 mm,2510 kg,12.64,21
+678,Mahindra,11.81,4.0,FWD,70 litres,SUV,16 km/litre,1785 kg,6.0,200 mm,155PS@3750rpm,330Nm@1750-2800rpm,7.0,Manual,2700 mm,2510 kg,1.02,9
+679,Mahindra,8.67,4.0,FWD,70 litres,SUV,16 km/litre,1785 kg,6.0,200 mm,155PS@3750rpm,330Nm@1750-2800rpm,7.0,Automatic,2700 mm,2510 kg,2.04,3
+680,Mahindra,12.83,4.0,FWD,70 litres,SUV,16 km/litre,1785 kg,6.0,200 mm,155PS@3750rpm,330Nm@1750-2800rpm,7.0,Manual,2700 mm,2510 kg,18.82,4
+681,Mahindra,6.56,4.0,FWD,70 litres,SUV,16 km/litre,1785 kg,6.0,200 mm,155PS@3750rpm,330Nm@1750-2800rpm,7.0,Automatic,2700 mm,2510 kg,4.47,69
+682,Mahindra,9.18,4.0,FWD,70 litres,SUV,16 km/litre,1785 kg,6.0,200 mm,155PS@3750rpm,330Nm@1750-2800rpm,7.0,Manual,2700 mm,2510 kg,14.52,9
+683,Mahindra,6.91,4.0,FWD,70 litres,SUV,16 km/litre,1785 kg,6.0,200 mm,155PS@3750rpm,330Nm@1750-2800rpm,7.0,Automatic,2700 mm,2510 kg,4.84,20
+684,Mahindra,5.19,4.0,AWD,70 litres,SUV,16 km/litre,1785 kg,6.0,200 mm,155PS@3750rpm,330Nm@1750-2800rpm,7.0,Manual,2700 mm,2510 kg,3.99,72
+685,Mahindra,4.03,4.0,AWD,70 litres,SUV,16 km/litre,1785 kg,6.0,200 mm,155PS@3750rpm,330Nm@1750-2800rpm,7.0,Automatic,2700 mm,2510 kg,9.18,64
+686,Mahindra,5.22,4.0,FWD,70 litres,SUV,16 km/litre,1785 kg,6.0,200 mm,155PS@3750rpm,360Nm@1750-2800rpm,7.0,Manual,2700 mm,2510 kg,11.86,40
+687,Mahindra,4.34,,FWD,,Sedan,,,,,41PS@3500RPM,91Nm@3000rpm,5.0,Automatic,2630 mm,1700 kg,0.56,1
+688,Mahindra,3.51,,FWD,,Sedan,,,,,41PS@3500RPM,91Nm@3000rpm,5.0,Automatic,2630 mm,1700 kg,8.79,87
+689,Mahindra,3.28,,FWD,,Sedan,,,,,41PS@3500RPM,91Nm@3000rpm,5.0,Automatic,2630 mm,1700 kg,3.71,76
+690,Tata,3.64,4.0,RWD,60 litres,SUV,17.6 km/litre,2280 kg,6.0,200 mm,156PS@4000rpm,400Nm@1700-2700rpm,7.0,Manual,2850 mm,,4.69,37
+691,Tata,7.67,,RWD,60 litres,SUV,17.6 km/litre,2280 kg,6.0,200 mm,156PS@4000rpm,320Nm@1700-2700rpm,6.0,Manual,2850 mm,,10.68,10
+692,Tata,10.92,4.0,AWD,60 litres,SUV,17.6 km/litre,2280 kg,6.0,200 mm,156PS@4000rpm,400Nm@1700-2700rpm,6.0,Automatic,2850 mm,,1.07,94
+693,Tata,19.56,4.0,RWD,,SUV,17.6 km/litre,2280 kg,6.0,200 mm,156PS@4000rpm,400Nm@1700-2700rpm,6.0,Manual,2850 mm,,9.02,42
+694,Tata,5.2,4.0,RWD,60 litres,SUV,17.6 km/litre,2280 kg,5.0,200 mm,150PS@4000rpm,320Nm@1700-2700rpm,7.0,Manual,2850 mm,,6.91,49
+695,Tata,8.7,4.0,RWD,60 litres,SUV,17.6 km/litre,2280 kg,6.0,200 mm,156PS@4000rpm,400Nm@1700-2700rpm,7.0,Manual,2850 mm,,14.73,17
+696,Tata,19.51,4.0,RWD,,SUV,17.6 km/litre,2280 kg,6.0,200 mm,156PS@4000rpm,400Nm@1700-2700rpm,7.0,Automatic,2850 mm,,9.12,13
+697,Toyota,19.56,4.0,RWD,55 litres,MUV,15.4 km/litre,1805 kg,5.0,167 mm,150PS@3400rpm,343Nm@1400-2800rpm,7.0,Manual,2750 mm,2430 kg,16.31,36
+698,Toyota,15.56,4.0,RWD,55 litres,MUV,15 km/litre,1815 kg,5.0,167 mm,150PS@3400rpm,343Nm@1400-2800rpm,7.0,Manual,2750 mm,2430 kg,0.21,89
+699,Toyota,18.44,4.0,RWD,55 litres,MUV,15.4 km/litre,1825 kg,5.0,167 mm,150PS@3400rpm,343Nm@1400-2800rpm,8.0,Manual,2750 mm,2480 kg,0.22,55
+700,Toyota,15.15,4.0,RWD,55 litres,MUV,15.4 km/litre,1820 kg,5.0,167 mm,150PS@3400rpm,343Nm@1400-2800rpm,8.0,Manual,2750 mm,2460 kg,10.89,55
+701,Toyota,8.6,4.0,RWD,55 litres,MUV,15.1 km/litre,1870 kg,5.0,167 mm,150PS@3400rpm,343Nm@1400-2800rpm,7.0,Manual,2750 mm,2450 kg,16.84,59
+702,Toyota,2.25,4.0,RWD,55 litres,MUV,10.83 km/litre,1825 kg,6.0,167 mm,166PS@5200rpm,245Nm@4000rpm,8.0,Automatic,2750 mm,2480 kg,6.21,75
+703,Toyota,2.45,4.0,RWD,55 litres,MUV,10.83 km/litre,1825 kg,6.0,167 mm,166PS@3400rpm,245Nm@1200-3400RPM,7.0,Automatic,2750 mm,2480 kg,18.29,48
+704,Toyota,13.09,4.0,RWD,55 litres,MUV,10.75 km/litre,1870 kg,6.0,167 mm,164 bhp @ 5200 rpm,245 Nm @ 4000 rpm,7.0,Automatic,2750 mm,2450 kg,11.56,90
+705,Toyota,12.55,4.0,RWD,55 litres,MUV,11.25 km/litre,1815 kg,5.0,167 mm,150PS@3400rpm,343Nm@1400-2800rpm,7.0,Manual,2750 mm,2430 kg,15.69,2
+706,Toyota,3.37,4.0,RWD,55 litres,MUV,11.25 km/litre,1825 kg,6.0,167 mm,174PS@3400rpm,360Nm@1200-3400rpm,7.0,Manual,2750 mm,2480 kg,1.68,19
+707,Toyota,12.04,4.0,RWD,55 litres,MUV,11.25 km/litre,1825 kg,6.0,167 mm,174PS@3400rpm,360Nm@1200-3400rpm,8.0,Manual,2750 mm,2480 kg,7.85,79
+708,Toyota,11.94,4.0,RWD,55 litres,MUV,15 km/litre,1828 kg,5.0,167 mm,150PS@3400rpm,343Nm@1400-2800rpm,7.0,Manual,2750 mm,2430 kg,2.93,5
+709,Toyota,15.32,4.0,RWD,55 litres,MUV,11.25 km/litre,1815 kg,5.0,167 mm,166PS@5200rpm,245Nm@4000rpm,7.0,Manual,2750 mm,2430 kg,15.15,82
+710,Toyota,10.97,4.0,RWD,55 litres,MUV,10.75 km/litre,1870 kg,6.0,167 mm,166PS@5200rpm,245Nm@4000rpm,7.0,Automatic,2750 mm,2450 kg,14.6,35
+711,Toyota,5.37,4.0,RWD,55 litres,MUV,15.4 km/litre,1805 kg,5.0,167 mm,150PS@3400rpm,343Nm@1400-2800rpm,7.0,Manual,2750 mm,2430 kg,3.4,56
+712,Toyota,16.52,4.0,RWD,55 litres,MUV,15.1 km/litre,1825 kg,5.0,167 mm,150PS@3400rpm,343Nm@1400-2800rpm,8.0,Manual,2750 mm,2480 kg,15.23,78
+713,Jeep,19.04,6.0,FWD,60 litres,SUV,16.3 km/litre,1562 kg,,,162PS@3750rpm,250Nm@1750-2500rpm,5.0,Automatic,2636 mm,,0.08,64
+714,Jeep,13.79,6.0,FWD,60 litres,SUV,16.3 km/litre,1537 kg,,,162PS@3750rpm,250Nm@1750-2500rpm,5.0,Manual,2636 mm,,3.06,35
+715,Jeep,13.51,6.0,FWD,60 litres,SUV,14.1 km/litre,1562 kg,,,162PS@3750rpm,250Nm@1750-2500rpm,5.0,Automatic,2636 mm,,6.28,69
+716,Jeep,7.53,6.0,FWD,60 litres,SUV,17.1 km/litre,1537 kg,,,173PS@3750rpm,350Nm@1750-2500rpm,5.0,Manual,2636 mm,,10.95,11
+717,Jeep,12.41,6.0,FWD,60 litres,SUV,17.1 km/litre,1551 kg,,,173PS@3750rpm,350Nm@1750-2500rpm,5.0,Manual,2636 mm,,2.85,50
+718,Jeep,15.24,6.0,FWD,60 litres,SUV,17.1 km/litre,1551 kg,6.0,,173PS@3750rpm,350Nm@1750-2500rpm,5.0,Manual,2636 mm,,6.24,29
+719,Jeep,9.86,6.0,FWD,60 litres,SUV,17.1 km/litre,1562 kg,,,173PS@3750rpm,350Nm@1750-2500rpm,5.0,Manual,2636 mm,,12.22,48
+720,Jeep,16.38,6.0,FWD,60 litres,SUV,17.1 km/litre,1562 kg,,,173PS@3750rpm,350Nm@1750-2500rpm,5.0,Manual,2636 mm,,13.35,89
+721,Jeep,2.3,6.0,AWD,60 litres,SUV,16.3 km/litre,1641 kg,,,173PS@3750rpm,350Nm@1750-2500rpm,5.0,Manual,2636 mm,,4.31,93
+722,Jeep,10.93,6.0,AWD,60 litres,SUV,16.3 km/litre,1641 kg,,,173PS@3750rpm,350Nm@1750-2500rpm,5.0,Manual,2636 mm,,8.78,2
+723,Jeep,17.57,6.0,FWD,60 litres,SUV,16.3 km/litre,1562 kg,7.0,,162PS@3750rpm,250Nm@1750-2500rpm,5.0,Automatic,2636 mm,,5.5,13
+724,Jeep,14.96,6.0,FWD,60 litres,SUV,17.1 km/litre,1562 kg,6.0,,173PS@3750rpm,350Nm@1750-2500rpm,5.0,Manual,2636 mm,,5.92,32
+725,Jeep,15.32,6.0,AWD,60 litres,SUV,16.3 km/litre,1641 kg,6.0,,173PS@3750rpm,350Nm@1750-2500rpm,5.0,Manual,2636 mm,,14.11,70
+726,Jeep,4.68,6.0,FWD,60 litres,SUV,17.1 km/litre,1537 kg,,,173PS@3750rpm,350Nm@1750-2500rpm,5.0,Manual,2636 mm,,5.16,69
+727,Jeep,3.68,6.0,FWD,60 litres,SUV,16.3 km/litre,1537 kg,,,162PS@3750rpm,250Nm@1750-2500rpm,5.0,Manual,2636 mm,,5.91,20
+728,Jeep,4.11,6.0,FWD,60 litres,SUV,14.1 km/litre,1562 kg,,,163PS@5500rpm,250Nm@2500-4000rpm,5.0,Automatic,2636 mm,,11.86,5
+729,Jeep,15.83,6.0,FWD,60 litres,SUV,16.3 km/litre,1562 kg,7.0,,162PS@3750rpm,250Nm@1750-2500rpm,5.0,Automatic,2636 mm,,18.77,51
+730,Jeep,15.87,6.0,FWD,60 litres,SUV,17.1 km/litre,1562 kg,,,173PS@3750rpm,350Nm@1750-2500rpm,5.0,Manual,2636 mm,,4.07,14
+731,Jeep,15.27,6.0,AWD,60 litres,SUV,16.3 km/litre,1641 kg,,,173PS@3750rpm,350Nm@1750-2500rpm,5.0,Manual,2636 mm,,15.7,72
+732,Jeep,7.27,6.0,AWD,60 litres,SUV,17.1 km/litre,1562 kg,9.0,,173PS@3750rpm,350Nm@1750-2500rpm,5.0,Automatic,2636 mm,,5.32,1
+733,Jeep,11.39,6.0,AWD,60 litres,SUV,17.1 km/litre,1551 kg,9.0,,173PS@3750rpm,350Nm@1750-2500rpm,5.0,Automatic,2636 mm,,16.93,69
+734,Toyota,10.44,4.0,FWD,55 litres,Sedan,16.7 km/litre,1220 kg,6.0,175 mm,140PS@6400rpm,173Nm@4000rpm,5.0,Manual,2700 mm,1660 kg,1.04,68
+735,Toyota,5.72,4.0,FWD,55 litres,Sedan,16.7 km/litre,1260 kg,7.0,175 mm,140PS@6400rpm,173Nm@4000rpm,5.0,Automatic,2700 mm,1680 kg,11.84,40
+736,Toyota,17.28,4.0,FWD,55 litres,Sedan,16.7 km/litre,1280 kg,6.0,175 mm,140PS@6400rpm,173Nm@4000rpm,5.0,Manual,2700 mm,1695 kg,11.82,17
+737,Toyota,9.7,4.0,FWD,43 litres,Sedan,21 km/litre,1270 kg,6.0,175 mm,88.4PS@3800rpm,205Nm@1800-2800rpm,5.0,Manual,2700 mm,1670 kg,6.1,73
+738,Toyota,5.33,4.0,FWD,43 litres,Sedan,21 km/litre,1230 kg,6.0,175 mm,88.4PS@3800rpm,205Nm@1800-2800rpm,5.0,Manual,2700 mm,1670 kg,10.27,8
+739,Toyota,13.73,4.0,FWD,55 litres,Sedan,16.7 km/litre,1310 kg,6.0,175 mm,140PS@6400rpm,173Nm@4000rpm,5.0,Automatic,2700 mm,1710 kg,17.23,31
+740,Honda,19.77,4.0,FWD,47 litres,Sedan,16.5 km/litre,1268 kg,7.0,,141PS@6500rpm,174Nm@4300rpm,5.0,Automatic,2700 mm,,12.82,27
+741,Honda,5.4,4.0,FWD,47 litres,Sedan,16.5 km/litre,1275 kg,7.0,,141PS@6500rpm,174Nm@4300rpm,5.0,Automatic,2700 mm,,12.3,29
+742,Honda,17.91,4.0,FWD,47 litres,Sedan,16.8 km/litre,1300 kg,7.0,,141PS@6500rpm,174Nm@4300rpm,5.0,Automatic,2700 mm,,1.13,14
+743,Honda,5.72,4.0,FWD,47 litres,Sedan,26.8 km/litre,1325 kg,6.0,,120ps@4000,300Nm@2000,5.0,Manual,2700 mm,,8.61,68
+744,Honda,9.52,4.0,FWD,47 litres,Sedan,26.8 km/litre,1353 kg,6.0,,120PS@4000RPM,300NM@2000rpm,5.0,Manual,2700 mm,,16.9,88
+745,Mg,8.97,,RWD,,SUV,,,,,142.76PS@3500rpm,353Nm@5000rpm,5.0,Automatic,2585 mm,,13.38,63
+746,Mg,16.44,,RWD,,SUV,,,,,142.76PS@3500rpm,353Nm@5000rpm,5.0,Automatic,2585 mm,,12.0,72
+747,Kia,3.61,4.0,FWD,,MUV,,,8.0,,200PS@3800rpm,440Nm@1750-2750rpm,7.0,Automatic,3060 mm,,7.02,60
+748,Kia,8.69,4.0,FWD,,MUV,,,8.0,,200PS@3800rpm,440Nm@1750-2750rpm,7.0,Automatic,3060 mm,,13.82,77
+749,Kia,15.53,4.0,FWD,,MUV,,,8.0,,200PS@3800rpm,440Nm@1750-2750rpm,7.0,Automatic,3060 mm,,2.06,10
+750,Kia,18.82,4.0,FWD,,MUV,,,8.0,,200PS@3800rpm,440Nm@1750-2750rpm,7.0,Automatic,3060 mm,,4.7,21
+751,Kia,13.68,4.0,FWD,,MUV,,,8.0,,200PS@3800rpm,440Nm@1750-2750rpm,7.0,Automatic,3060 mm,,6.01,56
+752,Skoda,12.88,4.0,FWD,66 litres,Sedan,14.12 km/litre,1449 kg,6.0,164 mm,180PS@6200RPM,320Nm@1450-3900rpm,5.0,Manual,2841 mm,2010 kg,10.49,3
+753,Skoda,14.91,4.0,FWD,66 litres,Sedan,14.67 km/litre,1540 kg,7.0,164 mm,180PS@6200RPM,250NM@1250-5000rpm,5.0,Automatic,2841 mm,2030 kg,0.73,10
+754,Skoda,14.1,4.0,FWD,66 litres,Sedan,13.7 km/litre,1540 kg,7.0,164 mm,180PS@6200RPM,250NM@1250-5000rpm,5.0,Automatic,2841 mm,2030 kg,17.12,66
+755,Skoda,15.83,4.0,FWD,66 litres,Sedan,18.19 km/litre,1565 kg,6.0,149 mm,177PS@4000RPM,350Nm@1500-3500rpm,5.0,Automatic,2841 mm,2060 kg,19.42,57
+756,Skoda,3.44,4.0,FWD,66 litres,Sedan,18.19 km/litre,1565 kg,6.0,149 mm,177PS@4000RPM,350Nm@1500-3500rpm,5.0,Automatic,2841 mm,2060 kg,8.3,49
+757,Skoda,15.4,4.0,FWD,66 litres,Sedan,14.67 km/litre,1540 kg,7.0,164 mm,180PS@6200RPM,250NM@1250-5000rpm,5.0,Automatic,2841 mm,2030 kg,13.63,94
+758,Skoda,9.94,4.0,FWD,66 litres,Sedan,18.19 km/litre,1565 kg,6.0,149 mm,177PS@4000RPM,350Nm@1500-3500rpm,5.0,Automatic,2841 mm,2060 kg,12.4,24
+759,Volvo,16.46,5.0,FWD,60 litres,Hatchback,16.81 km/litre,1500 kg,6.0,133 mm,150PS@150rpm,350Nm@1500-2750rpm,5.0,Automatic,2647 mm,2020 kg,17.61,17
+760,Volvo,5.57,5.0,FWD,60 litres,Hatchback,16.81 km/litre,1500 kg,6.0,133 mm,150PS@3500rpm,350Nm@1500-2750rpm,5.0,Automatic,2647 mm,2020 kg,11.21,59
+761,Toyota,10.97,4.0,RWD,80 litres,SUV,12.9 km/litre,1970 kg,5.0,220 mm,177PS@3400rpm,450Nm@1600-2400rpm,7.0,Automatic,2745 mm,2610 kg,13.57,75
+762,Toyota,14.1,4.0,RWD,80 litres,SUV,14.24 km/litre,1970 kg,5.0,220 mm,177PS@3400rpm,420Nm@1600-2400rpm,7.0,Manual,2745 mm,2610 kg,13.85,56
+763,Toyota,8.53,4.0,4WD,80 litres,SUV,14.24 km/litre,,5.0,,177PS@3400rpm,420Nm@1600-2400rpm,7.0,Manual,2745 mm,2735 kg,16.1,39
+764,Toyota,13.73,4.0,4WD,80 litres,SUV,12.9 km/litre,,5.0,,177PS@3400rpm,450Nm@1600-2400rpm,7.0,Automatic,2745 mm,2735 kg,16.9,78
+765,Toyota,12.65,4.0,RWD,80 litres,SUV,10.26 km/litre,,5.0,,166PS@5200rpm,245Nm@4000rpm,7.0,Automatic,2745 mm,2500 kg,12.84,52
+766,Toyota,5.13,4.0,RWD,80 litres,SUV,10.01 km/litre,,5.0,,166PS@5200rpm,245Nm@4000rpm,7.0,Manual,2745 mm,2500 kg,18.16,11
+767,Toyota,13.32,4.0,RWD,80 litres,SUV,12.9 km/litre,1970 kg,6.0,220 mm,177PS@3400rpm,450Nm@1600-2400rpm,7.0,Automatic,2745 mm,2610 kg,5.77,33
+768,Ford,14.56,5.0,AWD,80 litres,SUV,10.91 km/litre,2394 kg,6.0,225 mm,200PS@3000rpm,470Nm@1750-2500rpm,7.0,Automatic,2850 mm,,11.09,2
+769,Ford,2.32,4.0,RWD,80 litres,SUV,12.62 km/litre,2238 kg,6.0,225 mm,160PS@3200rpm,385Nm@1600-2500rpm,7.0,Automatic,2850 mm,,1.01,8
+770,Ford,15.53,4.0,RWD,80 litres,SUV,12.62 km/litre,2238 kg,6.0,225 mm,160PS@3200rpm,385Nm@1600-2500rpm,7.0,Manual,2850 mm,,8.55,15
+771,Mini,7.37,3.0,FWD,44 litres,Hatchback,21.15 km/litre,1245 kg,6.0,,116PS@4000rpm,270Nm@1750-2250rpm,4.0,Automatic,,,5.68,44
+772,Mini,4.93,4.0,FWD,44 litres,Hatchback,15.75 km/litre,1250 kg,6.0,,192PS@5500rpm,280NM@1250-4600rpm,5.0,Automatic,,,8.91,86
+773,Skoda,15.72,4.0,4WD,63 litres,SUV,16.25 km/litre,1799 kg,7.0,188 mm,148 bhp @ 3500 rpm,340 Nm @ 1750 rpm,7.0,Automatic,2791 mm,,8.13,36
+774,Bmw,17.21,4.0,AWD,51 litres,"Crossover, SUV",20.68 km/litre,,8.0,165 mm,190hp@4000rpm,400Nm@1750-2500rpm,5.0,Automatic,2670 mm,,12.59,89
+775,Bmw,11.98,4.0,AWD,51 litres,"Crossover, SUV",20.68 km/litre,,8.0,165 mm,190PS@4000rpm,400Nm@1750-2500rpm,5.0,Automatic,2670 mm,,11.09,6
+776,Bmw,10.73,4.0,AWD,51 litres,"Crossover, SUV",20.68 km/litre,,8.0,165 mm,190PS@4000rpm,400Nm@1750-2500rpm,5.0,Automatic,2670 mm,,18.47,13
+777,Bmw,10.19,4.0,RWD,61 litres,SUV,17.05 km/litre,1670 kg,8.0,179 mm,187bhp@4000rpm,400Nm@1750-2500rpm,5.0,Automatic,2760 mm,2000 kg,8.26,94
+778,Bmw,11.32,4.0,AWD,51 litres,"Crossover, SUV",16.3 km/litre,,7.0,165 mm,192hp@5000rpm,280Nm@1350-4600rpm,5.0,Automatic,2670 mm,,19.48,89
+779,Volvo,2.76,4.0,FWD,67 litres,Sedan,,1661 kg,8.0,136 mm,372Ps@5700rpm,470Nm@2100-4800rpm,5.0,Automatic,2776 mm,2110 kg,3.7,14
+780,Volvo,19.32,5.0,FWD,67.5 litres,Sedan,21.7 km/litre,1665 kg,8.0,136 mm,181 bhp @ 4250 rpm,400 Nm @ 1750 RPM,5.0,Automatic,2776 mm,2110 kg,19.03,100
+781,Bmw,6.48,4.0,RWD,40 litres,Sedan,19.62 km/litre,1590 kg,8.0,157 mm,190PS@400RPM,400NM@1750rpm,5.0,Automatic,2810 mm,,19.21,35
+782,Bmw,15.96,4.0,RWD,40 litres,Sedan,19.62 km/litre,1590 kg,8.0,157 mm,190PS@400RPM,400NM@1750rpm,5.0,Automatic,2810 mm,,5.67,31
+783,Bmw,18.89,4.0,RWD,59 litres,Sedan,16.13 km/litre,1595 kg,8.0,157 mm,258PS@500RPM,400NM@1550rpm,5.0,Automatic,2810 mm,,8.84,26
+784,Volvo,14.82,5.0,AWD,67 litres,"Sedan, Crossover",19.6 km/litre,1776 kg,6.0,201 mm,190PS@4000rpm,420Nm@1500-3000rpm,4.0,Automatic,2774 mm,,10.53,3
+785,Audi,19.72,4.0,FWD,64 litres,SUV,16.9 km/litre,1585 kg,7.0,170 mm,190PS@3900rpm,400Nm@1750-2500rpm,5.0,Automatic,2603 mm,2185 kg,1.94,44
+786,Audi,11.56,4.0,AWD,64 litres,SUV,15.73 km/litre,1585 kg,7.0,170 mm,190PS@3900rpm,400Nm@1750-2500rpm,5.0,Automatic,2603 mm,2185 kg,16.28,93
+787,Audi,5.99,6.0,AWD,70 litres,SUV,12.44 km/litre,1955 kg,7.0,200 mm,248 bhp @ 5500 rpm,370 Nm @ 1600-4500 rpm,5.0,Automatic,2807 mm,2205 kg,17.47,89
+788,Audi,11.93,6.0,AWD,70 litres,SUV,12.44 km/litre,1955 kg,7.0,200 mm,248 bhp @ 5500 rpm,370 Nm @ 1600-4500 rpm,5.0,Automatic,2807 mm,2205 kg,19.32,29
+789,Land Rover,15.24,4.0,AWD,,SUV,15.6 km/litre,1915 kg,9.0,210 mm,179PS@4000rpm,430NM@1750-2500rpm,5.0,Automatic,2681 mm,2450 kg,9.07,32
+790,Land Rover,6.77,4.0,AWD,,SUV,15.6 km/litre,1915 kg,9.0,210 mm,179PS@4000rpm,430NM@1750-2500rpm,5.0,Automatic,2681 mm,2450 kg,17.08,83
+791,Land Rover,16.05,4.0,AWD,,SUV,,1929 kg,9.0,210 mm,245PS@5500rpm,365Nm@1500-4500rpm,5.0,Automatic,2681 mm,2430 kg,13.12,27
+792,Land Rover,6.47,4.0,AWD,,SUV,,1929 kg,9.0,210 mm,245PS@5500rpm,365Nm@1500-4500rpm,5.0,Automatic,2681 mm,2430 kg,16.37,70
+793,Mercedes-Benz,12.18,4.0,RWD,80 litres,Sedan,12 km/litre,,,,184PS@5500rpm,300Nm@1200-4000rpm,5.0,Automatic,3079 mm,,17.45,100
+794,Mercedes-Benz,7.39,6.0,RWD,80 litres,Sedan,142 km/litre,,,155 mm,268.7PS@3800rpm,620Nm@1600rpm,5.0,Automatic,3079 mm,,9.97,35
+795,Mercedes-Benz,2.95,6.0,RWD,80 litres,Sedan,142 km/litre,,,155 mm,268.7PS@3800rpm,620Nm@1600rpm,5.0,Automatic,3079 mm,,5.42,5
+796,Mercedes-Benz,12.32,8.0,AWD,80 litres,Sedan,8.5 km/litre,1845 kg,7.0,155 mm,549bhp@5500rpm,720Nm@1750-5250RPM,4.0,Automatic,2874 mm,2390 kg,4.51,11
+797,Mercedes-Benz,19.54,4.0,RWD,80 litres,Sedan,12 km/litre,,,,184PS@5500rpm,300Nm@1200-4000rpm,5.0,Automatic,3079 mm,,14.23,11
+798,Mercedes-Benz,8.72,4.0,RWD,80 litres,Sedan,12 km/litre,,,,184PS@5500rpm,300Nm@1200-4000rpm,5.0,Automatic,3079 mm,,2.57,90
+799,Mercedes-Benz,7.2,6.0,RWD,80 litres,Sedan,142 km/litre,,,155 mm,268.7PS@3800rpm,620Nm@1600rpm,5.0,Automatic,3079 mm,,6.7,95
+800,Mercedes-Benz,17.28,6.0,RWD,80 litres,Sedan,142 km/litre,,,155 mm,268.7PS@3800rpm,620Nm@1600rpm,5.0,Automatic,3079 mm,,6.87,57
+801,Volvo,10.42,5.0,AWD,70 litres,SUV,18.8 km/litre,1879 kg,6.0,209 mm,233PS@4250rpm,480Nm@1750rpm,5.0,Automatic,2865 mm,,4.39,16
+802,Bmw,17.8,4.0,AWD,60 litres,SUV,16.4 km/litre,1740 kg,8.0,498 mm,188bhp@4000RPM,400NM@1750rpm,5.0,Automatic,2864 mm,,8.28,7
+803,Bmw,8.74,6.0,AWD,68 litres,SUV,16.4 km/litre,1820 kg,8.0,498 mm,265PS@4000RPM,620Nm@2000-2500RPM,5.0,Automatic,2864 mm,,12.91,10
+804,Bmw,18.26,6.0,AWD,68 litres,SUV,13.32 km/litre,1820 kg,8.0,498 mm,248bhp@5200rpm,350Nm@1450rpm,5.0,Automatic,2864 mm,,18.18,65
+805,Jeep,2.95,4.0,AWD,85 litres,SUV,8.4 km/litre,,8.0,215 mm,268PS@6350rpm,400Nm@4300rpm,5.0,Automatic,3008 mm,,13.11,54
+806,Mercedes-Benz,15.78,4.0,RWD,60 litres,Convertible,,,9.0,,258bhp@5950rpm,370Nm@1800-4000rpm,4.0,Automatic,2840 mm,2200 kg,4.08,84
+807,Bmw,14.17,4.0,RWD,52 litres,"Sports, Convertible",7.6 km/litre,1495 kg,8.0,,197hp@5500rpm,320hp@1450-2000rpm,2.0,Automatic,2470 mm,1740 kg,9.58,4
+808,Bmw,18.51,6.0,RWD,52 litres,"Sports, Convertible",7.6 km/litre,1610 kg,8.0,,340hp@5500rpm,500@1600-4500rpm,2.0,Automatic,2470 mm,1860 kg,4.13,35
+809,Mercedes-Benz,10.41,4.0,RWD,93 litres,MUV,,,7.0,,163bhp@3800rpm,380Nm@1400-2400rpm,7.0,Automatic,3430 mm,3100 kg,12.75,71
+810,Mercedes-Benz,17.22,4.0,RWD,93 litres,MUV,,,7.0,,163bhp@3800rpm,380Nm@1400-2400rpm,6.0,Automatic,3200 mm,3100 kg,8.29,54
+811,Mercedes-Benz,6.0,4.0,RWD,70 litres,MPV,,,9.0,,163PS@4200rpm,380Nm@2400rpm,6.0,Automatic,3200 mm,,11.13,69
+812,Audi,14.38,6.0,AWD,75 litres,SUV,14.75 km/litre,2330 kg,8.0,200 mm,249PS@4500RPM,600Nm@1500-3000rpm,7.0,Automatic,2994 mm,2925 kg,10.31,13
+813,Audi,5.26,6.0,AWD,75 litres,SUV,14.75 km/litre,2330 kg,8.0,200 mm,249PS@4500RPM,600Nm@1500-3000rpm,7.0,Automatic,2994 mm,2925 kg,6.34,64
+814,Audi,13.64,6.0,AWD,75 litres,SUV,11.68 km/litre,2330 kg,8.0,200 mm,252PS@4500RPM,370Nm@1600-4500rpm,7.0,Automatic,2994 mm,2925 kg,10.99,53
+815,Audi,17.92,6.0,AWD,75 litres,SUV,,2330 kg,8.0,200 mm,252PS@5500rpm,370Nm@1600-4500rpm,7.0,Automatic,2994 mm,2925 kg,12.77,76
+816,Audi,6.51,6.0,AWD,75 litres,SUV,14.75 km/litre,2330 kg,8.0,200 mm,249PS@4500RPM,600Nm@1500-3000rpm,7.0,Automatic,2994 mm,2925 kg,3.78,82
+817,Audi,10.58,6.0,AWD,75 litres,SUV,,2330 kg,8.0,200 mm,252PS@5500rpm,370Nm@1600-4500rpm,7.0,Automatic,2994 mm,2925 kg,3.87,25
+818,Land Rover,11.49,4.0,4WD,,Convertible,15.7 km/litre,2013 kg,9.0,,240PS@5500rpm,340NM@1500rpm,4.0,Automatic,2660 mm,2410 kg,0.72,35
+819,Land Rover,15.53,4.0,4WD,,SUV,15.7 km/litre,,9.0,,179PS@4000rpm,430NM@1750-2500rpm,5.0,Automatic,2874 mm,,8.13,84
+820,Land Rover,12.49,4.0,4WD,65 litres,SUV,12.63 km/litre,,9.0,,250PS@5500RPM,365Nm@1500rpm,5.0,Automatic,2874 mm,,6.99,6
+821,Mercedes-Benz,2.41,6.0,RWD,80 litres,SUV,12.06 km/litre,,,155 mm,194hp@3800rpm,400Nm@1600-2800RPM,5.0,Automatic,3079 mm,,12.6,5
+822,Volvo,2.28,4.0,AWD,68 litres,SUV,17.2 km/litre,2962 kg,8.0,218 mm,225PS@4250RPM,470Nm@1740RPM,7.0,Automatic,2984 mm,,18.0,45
+823,Volvo,14.08,4.0,AWD,68 litres,SUV,17.2 km/litre,2910 kg,8.0,218 mm,225PS@4250RPM,470Nm@1740RPM,7.0,Automatic,2984 mm,2590 kg,19.7,59
+824,Volvo,3.74,4.0,AWD,68 litres,SUV,,2910 kg,8.0,218 mm,407ps@5700rpm,640Nm@2200rpm,4.0,Automatic,2984 mm,2590 kg,14.38,1
+825,Volvo,17.83,4.0,AWD,68 litres,SUV,17.2 km/litre,2962 kg,8.0,238 mm,320bhp@5500rpm,240Nm@5500rpm,7.0,Automatic,2984 mm,,9.3,77
+826,Volvo,3.87,4.0,AWD,68 litres,SUV,17.2 km/litre,2962 kg,8.0,218 mm,235 bhp @ 4250 rpm,480 Nm @ 1750 rpm,7.0,Automatic,2984 mm,,9.17,78
+827,Land Rover,13.05,8.0,4WD,,SUV,,2310 kg,,,567bhp@6250rpm,700Nm@3500-4000rpm,5.0,Automatic,2923 mm,3000 kg,19.39,79
+828,Land Rover,12.15,8.0,4WD,105 litres,SUV,,2083 kg,8.0,295.5 mm,296bhp@5500rpm,400Nm@1500-4000rpm,7.0,Automatic,2923 mm,2900 kg,0.3,10
+829,Land Rover,5.11,8.0,4WD,105 litres,SUV,,2083 kg,8.0,295.5 mm,296bhp@5500rpm,400Nm@1500-4000rpm,7.0,Automatic,2923 mm,2900 kg,12.54,20
+830,Land Rover,5.11,6.0,4WD,85 litres,SUV,,2134 kg,8.0,295.5 mm,335bhp@6500RPM,450Nm@3500-5000RPM,7.0,Automatic,2923 mm,3000 kg,5.88,86
+831,Land Rover,18.33,8.0,4WD,105 litres,SUV,,2687 kg,8.0,295.5 mm,296bhp@5500rpm,400Nm@1500-4000rpm,7.0,Automatic,2923 mm,3100 kg,10.35,34
+832,Land Rover,19.96,6.0,4WD,85 litres,SUV,,2134 kg,8.0,295.5 mm,335bhp@6500RPM,450Nm@3500-5000RPM,7.0,Automatic,2923 mm,3000 kg,10.36,62
+833,Land Rover,3.19,8.0,4WD,,SUV,,,,,518bhp@6250rpm,625Nm@2500-5500rpm,5.0,Automatic,2923 mm,,15.52,25
+834,Land Rover,3.81,6.0,FWD,80 litres,SUV,,2134 kg,8.0,172 mm,254 bhp @ 4000 rpm,600Nm @ 1750-2250 rpm,5.0,Automatic,2923 mm,3000 kg,2.14,82
+835,Land Rover,16.41,6.0,FWD,80 litres,SUV,,2134 kg,8.0,227 mm,254 bhp @ 4000 rpm,600Nm @ 1750-2250 rpm,5.0,Automatic,2923 mm,3000 kg,15.86,91
+836,Land Rover,5.61,8.0,4WD,105 litres,SUV,11.5 km/litre,2443 kg,8.0,295.5 mm,335bhp@3500rpm,740Nm@2250rpm,7.0,Automatic,2923 mm,3200 kg,14.15,61
+837,Jaguar,4.21,6.0,AWD,82 litres,Sedan,12.9 km/litre,1871 kg,8.0,100 mm,274PS@4000RPM,600Nm@3500rpm,5.0,Automatic,3157 mm,2450 kg,7.39,88
+838,Jaguar,9.39,6.0,AWD,83 litres,Sedan,12.9 km/litre,1871 kg,8.0,100 mm,274PS@4000RPM,600Nm@3500rpm,5.0,Automatic,3157 mm,2450 kg,6.94,90
+839,Jaguar,4.72,6.0,AWD,82 litres,Sedan,12.9 km/litre,1860 kg,8.0,100 mm,302bhp@4000RPM,689Nm@1800rpm,5.0,Automatic,3157 mm,2450 kg,4.91,85
+840,Porsche,7.99,6.0,AWD,75 litres,SUV,3.4 km/litre,2370 kg,8.0,210 mm,340bhp@6400RPM,450Nm@5300RPM,5.0,Automatic,2895 mm,,8.97,32
+841,Porsche,13.93,6.0,AWD,90 litres,SUV,16.2 km/litre,2245 kg,8.0,190 mm,550bhp@6000RPM,770Nm@4500RPM,5.0,Automatic,2895 mm,,3.99,3
+842,Porsche,9.3,6.0,AWD,75 litres,SUV,,2840 kg,8.0,210 mm,335PS@5300rpm,450Nm@1340 - 5300rpm,5.0,Automatic,2895 mm,,15.38,51
+843,Maserati,4.36,,,70 litres,,,1810 kg,8.0,,275PS@4000rpm,570Nm@2000-2600rpm,5.0,Automatic,2998 mm,,15.96,41
+844,Maserati,19.14,,,70 litres,,,1810 kg,8.0,,275bhp@4000RPM,600Nm@2000rpm,5.0,Automatic,2998 mm,,9.99,83
+845,Maserati,9.54,,,70 litres,,,1810 kg,8.0,,275bhp@4000RPM,600Nm@2000rpm,5.0,Automatic,2998 mm,,8.48,5
+846,Toyota,13.09,8.0,AWD,93 litres,SUV,9 km/litre,2740 kg,6.0,225 mm,265PS@3400rpm,650Nm@1600-2600rpm,7.0,Automatic,2850 mm,3350 kg,6.13,7
+847,Audi,19.91,8.0,AWD,75 litres,"Sedan, Coupe",9.8 km/litre,1995 kg,8.0,109 mm,560PS@6600RPM,700Nm@1750-5500rpm,4.0,Automatic,2915 mm,2505 kg,2.99,10
+848,Land Rover,2.56,8.0,4WD,105 litres,SUV,9.6 km/litre,2687 kg,8.0,295.5 mm,518bhp@6250rpm,625Nm@2500-5500rpm,7.0,Automatic,2922 mm,3100 kg,12.03,99
+849,Land Rover,3.99,8.0,4WD,105 litres,SUV,9.6 km/litre,2687 kg,8.0,295.5 mm,558PS@6250rpm,700Nm@3500-5000rpm,5.0,Automatic,2922 mm,3100 kg,8.67,97
+850,Land Rover,8.42,6.0,4WD,85 litres,SUV,11.6 km/litre,2687 kg,8.0,295.5 mm,335bhp@6500RPM,450Nm@3500-5000RPM,7.0,Automatic,3120 mm,3100 kg,0.46,74
+851,Land Rover,8.2,8.0,4WD,65 litres,SUV,10kmpl km/litre,2330 kg,,295 mm,558bhp@6250RPM,700Nm@3500-5000rpm,5.0,Automatic,2922 mm,3150 kg,9.12,18
+852,Land Rover,16.34,6.0,4WD,,SUV,,,8.0,295.5 mm,254bhp@3750rpm,600Nm@1750-2250rpm,5.0,Automatic,3120 mm,,12.49,64
+853,Land Rover,13.15,6.0,4WD,,SUV,,2687 kg,8.0,295.5 mm,254bhp@3750rpm,600Nm@1750-2250rpm,7.0,Automatic,3120 mm,3100 kg,0.93,62
+854,Land Rover,12.43,8.0,4WD,,SUV,,2687 kg,8.0,295.5 mm,335bhp@3500rpm,740Nm@1750-2250rpm,7.0,Automatic,3120 mm,3100 kg,6.12,74
+855,Land Rover,10.38,8.0,4WD,,SUV,,,8.0,295 mm,335bhp@3500rpm,740Nm@1750-2250rpm,4.0,Automatic,3120 mm,,15.41,44
+856,Land Rover,17.33,8.0,4WD,,SUV,,,8.0,295.5 mm,335bhp@3500rpm,740Nm@1750-2250rpm,7.0,Automatic,3120 mm,,3.08,41
+857,Land Rover,15.67,6.0,4WD,85 litres,SUV,11.6 km/litre,2687 kg,8.0,295.5 mm,335bhp@6500RPM,450Nm@3500-5000RPM,7.0,Automatic,3120 mm,3100 kg,19.9,56
+858,Maserati,3.8,8.0,RWD,75 litres,Convertible,9.8 km/litre,1980 kg,6.0,128 mm,450PS@7000rpm,510Nm@4750rpm,4.0,Automatic,2942 mm,2350 kg,10.56,69
+859,Mercedes-Benz,17.48,8.0,AWD,75 litres,Coupe,7.8 km/litre,1645 kg,7.0,,510PS@6250rpm,650Nm@1750-4750rpm,2.0,Automatic,2630 mm,1890 kg,13.61,64
+860,Mercedes-Benz,3.9,8.0,AWD,75 litres,Coupe,7.8 km/litre,1630 kg,7.0,,585PS@6250rpm,700Nm@1900-5500rpm,2.0,Automatic,2630 mm,1890 kg,13.94,99
+861,Mercedes-Benz,15.54,8.0,AWD,75 litres,Coupe,7.8 km/litre,1670 kg,7.0,,476PS@6000rpm,630Nm@1700-5000rpm,2.0,Automatic,2630 mm,1890 kg,4.07,50
+862,Mercedes-Benz,16.74,8.0,AWD,65 litres,Coupe,,,7.0,,639PS@6250rpm,700Nm@1900 rpm,4.0,Automatic,2951 mm,,16.75,57
+863,Lamborghini,16.45,10.0,AWD,90 litres,Coupe,10.6 km/litre,1422 kg,7.0,135 mm,610PS@8250rpm,560Nm@6500rpm,2.0,Automatic,2620 mm,,12.65,98
+864,Lamborghini,5.67,10.0,RWD,90 litres,Coupe,11.24 km/litre,1389 kg,7.0,135 mm,580PS@8000rpm,540Nm@6500rpm,2.0,Automatic,2620 mm,,11.12,33
+865,Lamborghini,13.05,10.0,AWD,90 litres,Coupe,8 km/litre,1422 kg,7.0,135 mm,610PS@8250rpm,560Nm@6500rpm,2.0,Automatic,2620 mm,,15.75,97
+866,Lamborghini,11.42,10.0,AWD,90 litres,Coupe,10.6 km/litre,1422 kg,7.0,135 mm,639PS@8250rpm,600Nm@6500rpm,2.0,Automatic,2620 mm,,2.01,21
+867,Lamborghini,17.52,10.0,RWD,90 litres,Coupe,11.24 km/litre,1389 kg,7.0,135 mm,571 bhp @ 8000 rpm,540 Nm @ 6500 rpm,2.0,Automatic,2620 mm,,0.08,97
+868,Lamborghini,9.21,10.0,AWD,90 litres,Coupe,10.6 km/litre,1422 kg,7.0,135 mm,602 bhp @ 8250 rpm,560Nm@6500rpm,2.0,Automatic,2620 mm,,14.45,45
+869,Lamborghini,12.39,10.0,AWD,90 litres,Coupe,10.6 km/litre,1422 kg,7.0,135 mm,631Bhp@8250rpm,600Nm@6500rpm,2.0,Automatic,2620 mm,,9.04,93
+870,Lamborghini,10.5,10.0,AWD,,Convertible,10.6 km/litre,,7.0,,631Bhp@8250rpm,600Nm@6500rpm,2.0,Automatic,2620 mm,,11.18,44
+871,Lamborghini,7.67,10.0,RWD,90 litres,Coupe,10.6 km/litre,,7.0,,610PS@8000 rpm,560Nm@6500rpm,2.0,Automatic,2620 mm,,10.22,22
+872,Ferrari,6.59,8.0,AWD,78 litres,Coupe,5.5 km/litre,1475 kg,7.0,,670PS@8000rpm,760NM@3000rpm,2.0,Automatic,2650 mm,,14.78,88
+873,Ferrari,16.57,8.0,AWD,78 litres,Coupe,5.5 km/litre,1475 kg,7.0,,670PS@8000rpm,760NM@3000rpm,2.0,Automatic,2650 mm,,2.77,1
+874,Ferrari,7.82,8.0,RWD,91 litres,Coupe,5.5 km/litre,1920 kg,7.0,,610PS@7000rpm,760Nm@5250RPM,4.0,Automatic,2990 mm,,8.41,32
+875,Ferrari,18.54,8.0,AWD,91 litres,Coupe,5.5 km/litre,1920 kg,7.0,,681PS@8000rpm,697Nm@5250RPM,4.0,Automatic,2990 mm,,11.83,71
+876,Lamborghini,12.01,12.0,4WD,90 litres,Convertible,5 km/litre,1575 kg,7.0,100 mm,700PS@8250RPM,690Nm@5500rpm,2.0,Automatic,2700 mm,,13.32,24
+877,Lamborghini,9.76,12.0,4WD,90 litres,Convertible,8.8 km/litre,1575 kg,7.0,,700PS@8250RPM,690Nm@5506RPM,2.0,Automatic,2700 mm,,16.69,54
+878,Lamborghini,18.02,12.0,4WD,90 litres,Coupe,5 km/litre,1575 kg,7.0,100 mm,740PS@8400rpm,690Nm@5500rpm,2.0,Automatic,2700 mm,,19.21,87
+879,Rolls-Royce,16.92,12.0,RWD,80 litres,Convertible,7.9 km/litre,2608 kg,8.0,208 mm,571PS@6000RPM,780Nm@1500-5000RPM,4.0,Automatic,3112 mm,2958 kg,19.8,26
+880,Rolls-Royce,9.05,12.0,RWD,100 litres,Convertible,9.8 km/litre,2649 kg,8.0,164 mm,453PS@5350rpm,720Nm@3500rpm,4.0,Automatic,3570 mm,3109 kg,4.34,77
+881,Maruti Suzuki,12.25,3.0,RWD,35 litres,MPV,16.8 km/litre,785 kg,4.0,165 mm,34.7PS@5000rpm,59Nm@2500rpm,5.0,Manual,1840 mm,,10.9,60
+882,Maruti Suzuki,4.6,3.0,RWD,36 litres,MPV,16.8 km/litre,785 kg,4.0,165 mm,34.7PS@5000rpm,59Nm@2500rpm,8.0,Manual,1840 mm,,10.45,59
+883,,17.11,3.0,FWD,35 litres,MPV,20.6 km/litre,,5.0,180 mm,68PS@5000rpm,104Nm@4000rpm,7.0,Manual,2450 mm,,17.96,5
+884,,12.2,3.0,FWD,35 litres,MPV,20.6 km/litre,,5.0,180 mm,68PS@5000rpm,104Nm@4000rpm,7.0,Manual,2450 mm,,9.29,61
+885,,19.71,3.0,FWD,35 litres,MPV,20.6 km/litre,,5.0,180 mm,68PS@5000rpm,104Nm@4000rpm,7.0,Manual,2450 mm,,18.33,23
+886,,18.8,3.0,FWD,35 litres,MPV,20.6 km/litre,,5.0,180 mm,68PS@5000rpm,104Nm@4000rpm,7.0,Manual,2450 mm,,5.15,57
+887,,3.07,3.0,FWD,35 litres,MPV,20.6 km/litre,,5.0,180 mm,68PS@5000rpm,104Nm@4000rpm,7.0,Manual,2450 mm,,15.94,91
+888,,13.49,3.0,FWD,35 litres,MPV,20.6 km/litre,,5.0,180 mm,68PS@5000rpm,104Nm@4000rpm,7.0,Manual,2450 mm,,0.42,95
+889,,19.7,3.0,FWD,35 litres,MPV,20.6 km/litre,,5.0,180 mm,68PS@5000rpm,104Nm@4000rpm,7.0,Manual,2450 mm,,15.8,24
+890,,17.73,3.0,FWD,35 litres,MPV,20.6 km/litre,,5.0,180 mm,78PS@5000rpm,104Nm@4000rpm,7.0,Manual,2450 mm,,18.73,88
+891,,3.81,3.0,FWD,35 litres,MPV,20.6 km/litre,,5.0,180 mm,78PS@5000rpm,104Nm@4000rpm,7.0,Manual,2450 mm,,13.84,64
+892,Fiat,14.23,4.0,FWD,45 litres,Hatchback,15 km/litre,1165 kg,5.0,195 mm,68PS@6000rpm,96Nm@2500RPM,5.0,Manual,2510 mm,,12.99,22
+893,Fiat,13.97,4.0,FWD,45 litres,Hatchback,20 km/litre,1173 kg,5.0,185 mm,75 bhp @ 4000 rpm,197 Nm @ 1750 RPM,5.0,Manual,2510 mm,,16.23,43
+894,Ford,16.13,4.0,FWD,42 litres,Hatchback,20.4 km/litre,1026 kg,5.0,,96PS@6500rpm,120Nm@4250rpm,5.0,Manual,2490 mm,,8.8,26
+895,Ford,19.09,4.0,FWD,40 litres,Hatchback,25.5 km/litre,1057 kg,5.0,,100PS@3750RPM,215Nm@1750-3000RPM,5.0,Manual,2490 mm,,10.7,65
+896,Ford,3.26,4.0,FWD,42 litres,Hatchback,20.4 km/litre,1026 kg,5.0,,96PS@6500rpm,120Nm@4250rpm,5.0,Manual,2490 mm,,8.73,57
+897,Ford,11.16,4.0,FWD,40 litres,Hatchback,25.5 km/litre,1057 kg,5.0,,100PS@3750RPM,215Nm@1750-3000RPM,5.0,Manual,2490 mm,,16.53,34
+898,Ford,6.11,4.0,FWD,42 litres,Hatchback,20.4 km/litre,1026 kg,5.0,,96PS@6500rpm,120Nm@4250rpm,5.0,Manual,2490 mm,,16.28,96
+899,Ford,10.13,4.0,FWD,40 litres,Hatchback,25.5 km/litre,1057 kg,5.0,,100PS@3750RPM,215Nm@1750-3000RPM,5.0,Manual,2490 mm,,15.61,44
+900,Maruti Suzuki,4.01,4.0,FWD,37 litres,Hatchback,27.39 km/litre,970 kg,5.0,170 mm,75PS@4000rpm,190Nm@2000rpm,5.0,Manual,2520 mm,,0.11,19
+901,Maruti Suzuki,9.08,4.0,FWD,37 litres,Hatchback,27.39 km/litre,985 kg,5.0,170 mm,75PS@4000rpm,190Nm@2000rpm,5.0,Manual,2520 mm,,10.4,90
+902,Maruti Suzuki,12.04,4.0,FWD,37 litres,Hatchback,27.39 km/litre,960 kg,5.0,170 mm,75PS@4000rpm,190Nm@2000rpm,5.0,Manual,2520 mm,,9.52,95
+903,Maruti Suzuki,18.7,4.0,FWD,37 litres,Hatchback,27.39 km/litre,980 kg,5.0,170 mm,75PS@4000rpm,190Nm@2000rpm,5.0,Manual,2520 mm,,18.59,11
+904,Maruti Suzuki,18.59,4.0,FWD,37 litres,Hatchback,21.4 km/litre,890 kg,5.0,170 mm,83 Bhp@6000rpm,115 Nm@4000rpm,5.0,Manual,2520 mm,,0.98,74
+905,Maruti Suzuki,5.0,4.0,FWD,37 litres,Hatchback,21.4 km/litre,935 kg,5.0,170 mm,83 Bhp@6000rpm,115 Nm@4000rpm,5.0,Automatic,2520 mm,,1.1,94
+906,Maruti Suzuki,11.89,4.0,FWD,37 litres,Hatchback,21.4 km/litre,870 kg,5.0,170 mm,83 Bhp@6000rpm,115 Nm@4000rpm,5.0,Manual,2520 mm,,16.38,12
+907,Maruti Suzuki,9.5,4.0,FWD,37 litres,Hatchback,21.04 km/litre,910 kg,5.0,170 mm,83 Bhp@6000rpm,115 Nm@4000rpm,5.0,Automatic,2520 mm,,8.04,62
+908,Maruti Suzuki,6.91,4.0,FWD,37 litres,Hatchback,21.4 km/litre,865 kg,5.0,170 mm,83 Bhp@6000rpm,115 Nm@4000rpm,5.0,Manual,2520 mm,,0.72,28
+909,Maruti Suzuki,7.22,4.0,FWD,37 litres,Hatchback,21.4 km/litre,880 kg,5.0,170 mm,83 Bhp@6000rpm,115 Nm@4000rpm,5.0,Manual,2520 mm,,17.52,66
+910,Maruti Suzuki,9.07,4.0,FWD,37 litres,Hatchback,21.4 km/litre,870 kg,5.0,170 mm,83 Bhp@6000rpm,115 Nm@4000rpm,5.0,Manual,2520 mm,,7.16,46
+911,Maruti Suzuki,10.13,4.0,FWD,37 litres,Hatchback,21.4 km/litre,880 kg,5.0,170 mm,83 Bhp@6000rpm,115 Nm@4000rpm,5.0,Manual,2520 mm,,11.08,74
+912,Maruti Suzuki,4.81,4.0,FWD,37 litres,Hatchback,21.04 km/litre,920 kg,5.0,170 mm,83 Bhp@6000rpm,115 Nm@4000rpm,5.0,Automatic,2520 mm,,15.99,54
+913,Hyundai,11.78,4.0,FWD,43 litres,Hatchback,18.9 km/litre,1003 kg,5.0,165 mm,83PS@6000rpm,114Nm@4000rpm,5.0,Manual,2425 mm,1042 kg,2.32,11
+914,Hyundai,19.87,4.0,FWD,43 litres,Hatchback,19.77 km/litre,1003 kg,5.0,165 mm,83PS@6000rpm,114Nm@4000rpm,5.0,Manual,2425 mm,1420 kg,10.91,61
+915,Hyundai,13.1,4.0,FWD,43 litres,Hatchback,17.49 km/litre,,5.0,165 mm,83PS@6000rpm,114Nm@4000rpm,5.0,Automatic,2425 mm,,4.73,85
+916,Hyundai,18.14,4.0,FWD,43 litres,Hatchback,17.49 km/litre,1003 kg,5.0,165 mm,83PS@6000rpm,114Nm@4000rpm,5.0,Automatic,2425 mm,1420 kg,17.38,29
+917,Hyundai,13.1,4.0,FWD,43 litres,Hatchback,19.77 km/litre,1003 kg,5.0,165 mm,83PS@6000rpm,114Nm@4000rpm,5.0,Manual,2425 mm,1420 kg,2.73,37
+918,Hyundai,19.89,4.0,FWD,43 litres,Hatchback,,1003 kg,5.0,165 mm,82bhp@6000RPM,114Nm@4000rpm,5.0,Manual,2425 mm,1042 kg,12.87,35
+919,Fiat,9.36,4.0,FWD,45 litres,Sedan,19.5 km/litre,1210 kg,5.0,185 mm,76PS@4000RPM,197Nm@1750RPM,5.0,Manual,2603 mm,,13.53,37
+920,Fiat,5.13,4.0,FWD,45 litres,Sedan,14.9 km/litre,1180 kg,5.0,185 mm,90PS@6000rpm,115Nm@4500RPM,5.0,Manual,2603 mm,,9.37,48
+921,Fiat,9.39,4.0,FWD,45 litres,Sedan,19.5 km/litre,1210 kg,5.0,185 mm,76PS@4000RPM,197Nm@1750RPM,5.0,Manual,2603 mm,,2.32,45
+922,Nissan,9.62,4.0,FWD,41 litres,Sedan,16.95 km/litre,,5.0,,99PS@6000rpm,134Nm@4000rpm,5.0,Manual,2600 mm,,9.23,31
+923,Nissan,5.96,4.0,FWD,41 litres,Sedan,16.95 km/litre,,5.0,,99PS@6000rpm,134Nm@4000rpm,5.0,Manual,2600 mm,,2.57,33
+924,Nissan,12.03,4.0,FWD,41 litres,Sedan,22.71 km/litre,,5.0,,86Ps@3750rpm,200Nm@2000rpm,5.0,Manual,2600 mm,,5.29,100
+925,Nissan,4.86,4.0,FWD,41 litres,Sedan,22.71 km/litre,,5.0,,86Ps@3750rpm,200Nm@2000rpm,5.0,Manual,2600 mm,,7.81,34
+926,Nissan,15.79,4.0,FWD,41 litres,Sedan,22.71 km/litre,,5.0,,86Ps@3750rpm,200Nm@2000rpm,5.0,Manual,2600 mm,,8.86,29
+927,Nissan,5.52,4.0,FWD,41 litres,Sedan,17.97 km/litre,,5.0,,101PS@5600rpm,134Nm@4000rpm,5.0,Automatic,2600 mm,,11.71,24
+928,Nissan,9.92,4.0,FWD,41 litres,Sedan,22.71 km/litre,,5.0,,86Ps@3750rpm,200Nm@2000rpm,5.0,Manual,2600 mm,,3.42,47
+929,Maruti Suzuki,12.65,4.0,FWD,45 litres,MPV,19.34 km/litre,1135 kg,5.0,185 mm,103Bhp@6000rpm,138Nm@4400rpm,7.0,Manual,2740 mm,1760 kg,16.61,45
+930,Maruti Suzuki,12.58,4.0,FWD,45 litres,MPV,19.34 km/litre,1175 kg,5.0,,104bhp@6000rpm,138Nm@4400rpm,7.0,Manual,2740 mm,1760 kg,13.59,72
+931,Maruti Suzuki,8.82,4.0,FWD,45 litres,MUV,18.69 km/litre,1170 kg,4.0,,103Bhp@6000rpm,130Nm@4400rpm,7.0,Automatic,2740 mm,1740 kg,13.73,6
+932,Maruti Suzuki,17.07,4.0,FWD,45 litres,MUV,19.34 km/litre,1170 kg,5.0,,103Bhp@6000rpm,130Nm@4400rpm,7.0,Manual,2740 mm,1730 kg,19.83,50
+933,Maruti Suzuki,13.72,4.0,FWD,45 litres,MUV,19.34 km/litre,1175 kg,5.0,,103Bhp@6000rpm,180Nm@4400rpm,7.0,Manual,2740 mm,1760 kg,8.27,31
+934,Maruti Suzuki,15.46,4.0,FWD,45 litres,MPV,18.69 km/litre,1180 kg,4.0,,104bhp@6000rpm,138Nm@4400rpm,7.0,Automatic,2740 mm,1760 kg,17.06,92
+935,Maruti Suzuki,11.57,4.0,FWD,45 litres,MPV,24.2 km/litre,1225 kg kg,6.0,,95Bhp@4400rpm,225Nm@1750rpm,7.0,Manual,2740 mm,1730 kg kg,5.44,63
+936,Maruti Suzuki,14.66,4.0,FWD,45 litres,MPV,24.2 km/litre,1225 kg kg,6.0,,95Bhp@4400rpm,225Nm@1750rpm,7.0,Manual,2740 mm,1730 kg kg,7.7,27
+937,Maruti Suzuki,16.47,4.0,FWD,45 litres,MPV,24.2 km/litre,1225 kg kg,6.0,,95Bhp@4400rpm,225Nm@1750rpm,7.0,Manual,2740 mm,1800 kg kg,3.61,77
+938,Maruti Suzuki,18.62,4.0,FWD,45 litres,MUV,19.34 km/litre,1175 kg,5.0,,103Bhp@6000rpm,180Nm@4400rpm,7.0,Manual,2740 mm,1760 kg,4.43,78
+939,Maruti Suzuki,12.0,3.0,FWD,37 litres,Hatchback,21.4 km/litre,950 kg,5.0,170 mm,102PS@5500rpm,150Nm@1700-4500RPM,5.0,Manual,2520 mm,1360 kg,0.05,52
+940,Honda,14.53,,FWD,40 litres,SUV,25.5 km/litre,1204 kg,7.0,188 mm,100PS@3600rpm,200Nm@1750rpm,5.0,Manual,2555 mm,,5.08,13
+941,Honda,17.81,4.0,FWD,40 litres,SUV,17.5 km/litre,1104 kg,7.0,188 mm,90PS@6000rpm,110Nm@4800rpm,5.0,Manual,2555 mm,,5.75,40
+942,Honda,9.45,4.0,FWD,40 litres,SUV,25.5 km/litre,1176 kg,7.0,188 mm,100PS@3600rpm,200Nm@1750rpm,5.0,Manual,2555 mm,,16.62,25
+943,Honda,18.65,4.0,FWD,40 litres,SUV,17.5 km/litre,1087 kg,7.0,188 mm,90PS@6000rpm,110Nm@4800rpm,5.0,Manual,2555 mm,,18.7,53
+944,Honda,7.07,4.0,FWD,40 litres,SUV,25.5 km/litre,1176 kg,7.0,188 mm,100PS@3600rpm,200Nm@1750rpm,5.0,Manual,2555 mm,,11.6,52
+945,Honda,18.19,4.0,FWD,40 litres,SUV,17.5 km/litre,1087 kg,7.0,188 mm,90PS@6000rpm,110Nm@4800rpm,5.0,Manual,2555 mm,,13.21,39
+946,Honda,15.44,,FWD,40 litres,SUV,25.5 km/litre,1204 kg,7.0,188 mm,100PS@3600rpm,200Nm@1750rpm,5.0,Manual,2555 mm,,2.77,47
+947,Honda,18.18,4.0,FWD,40 litres,SUV,17.5 km/litre,1104 kg,7.0,188 mm,90PS@6000rpm,110Nm@4800rpm,5.0,Manual,2555 mm,,15.73,93
+948,Honda,9.29,,FWD,40 litres,SUV,25.5 km/litre,1204 kg,7.0,188 mm,100PS@3600rpm,200Nm@1750rpm,5.0,Manual,2555 mm,,7.8,58
+949,Mahindra,11.35,3.0,RWD,60 litres,SUV,18.49 km/litre,1590 kg,5.0,184 mm,84PS@3750RPM,240Nm@1600-2800rpm,7.0,Manual,2680 mm,2225 kg,2.0,80
+950,Mahindra,14.19,3.0,RWD,60 litres,SUV,18.49 km/litre,1590 kg,5.0,184 mm,84PS@3750RPM,240Nm@1600-2800rpm,7.0,Manual,2680 mm,2225 kg,1.59,84
+951,Mahindra,13.46,3.0,RWD,60 litres,SUV,18.49 km/litre,1590 kg,5.0,184 mm,84PS@3750RPM,240Nm@1600-2800rpm,7.0,Manual,2680 mm,2225 kg,18.35,58
+952,Mahindra,2.94,3.0,RWD,60 litres,SUV,18.49 km/litre,1590 kg,5.0,184 mm,100PS@3750RPM,240Nm@1500-2250rpm,7.0,Manual,2680 mm,2225 kg,16.77,34
+953,Mahindra,7.31,3.0,RWD,60 litres,SUV,18.49 km/litre,1590 kg,5.0,184 mm,100PS@3750RPM,240Nm@1500-2250rpm,7.0,Manual,2680 mm,2225 kg,13.99,70
+954,Mahindra,18.28,3.0,RWD,60 litres,SUV,18.49 km/litre,1590 kg,5.0,184 mm,100PS@3750RPM,240Nm@1500-2250rpm,7.0,Manual,2680 mm,2225 kg,0.12,41
+955,Mahindra,18.72,3.0,RWD,60 litres,SUV,18.49 km/litre,1590 kg,5.0,184 mm,100PS@3750RPM,240Nm@1500-2250rpm,7.0,Manual,2680 mm,2225 kg,18.33,12
+956,Maruti Suzuki,11.59,4.0,FWD,48 litres,Crossover,23.65 km/litre,1215 kg,5.0,180 mm,90PS@4000rpm,200Nm@1750rpm,5.0,Manual,2600 mm,1670 kg,3.12,21
+957,Maruti Suzuki,8.09,4.0,FWD,48 litres,Crossover,23.65 km/litre,1224 kg,5.0,180 mm,90PS@4000rpm,200Nm@1750rpm,5.0,Manual,2600 mm,1670 kg,16.87,95
+958,Maruti Suzuki,13.92,4.0,FWD,48 litres,Crossover,23.65 km/litre,1233 kg,5.0,180 mm,90PS@4000rpm,200Nm@1750rpm,5.0,Manual,2600 mm,1670 kg,18.38,67
+959,Maruti Suzuki,2.18,4.0,FWD,48 litres,Crossover,23.65 km/litre,1240 kg,5.0,180 mm,90PS@4000rpm,200Nm@1750rpm,5.0,Manual,2600 mm,1670 kg,11.18,64
+960,Reult,3.71,4.0,FWD,50 litres,SUV,13.86 km/litre,,5.0,201 mm,106PS@5600rpm,142Nm@4000rpm,5.0,Manual,2673 mm,,6.17,63
+961,Reult,12.91,4.0,FWD,50 litres,SUV,20.37 km/litre,,6.0,201 mm,110PS@3850rpm,240Nm@1750rpm,5.0,Manual,2673 mm,,6.64,18
+962,Reult,17.4,4.0,FWD,50 litres,SUV,20.37 km/litre,,6.0,201 mm,110PS@3850rpm,240Nm@1750rpm,5.0,Manual,2673 mm,,4.96,74
+963,Reult,8.78,4.0,FWD,50 litres,SUV,13.86 km/litre,,5.0,201 mm,106PS@5600rpm,142Nm@4000rpm,5.0,Manual,2673 mm,,11.05,64
+964,Mahindra,5.27,4.0,FWD,55 litres,SUV,13.9 km/litre,1875 kg,5.0,186 mm,95PS@3600rpm,218Nm@1400-2600rpm,7.0,Manual,2760 mm,2475 kg,18.58,8
+965,Mahindra,4.2,4.0,FWD,55 litres,SUV,13.9 km/litre,1875 kg,5.0,186 mm,95PS@3600rpm,218Nm@1400-2600rpm,7.0,Manual,2760 mm,2475 kg,0.25,30
+966,Mahindra,4.82,4.0,FWD,55 litres,SUV,14.02 km/litre,1875 kg,5.0,180 mm,120PS@4000RPM,280Nm@2400-2800rpm,7.0,Manual,2760 mm,2475 kg,16.18,38
+967,Mahindra,12.3,4.0,FWD,55 litres,SUV,14.02 km/litre,1875 kg,5.0,180 mm,120PS@4000RPM,280Nm@2400-2800rpm,7.0,Manual,2760 mm,2475 kg,15.64,82
+968,Mahindra,6.5,4.0,FWD,55 litres,SUV,14.02 km/litre,1875 kg,5.0,180 mm,121PS@4000rpm,280Nm@2400-2800rpm,8.0,Manual,2760 mm,2475 kg,7.53,65
+969,Kia,8.11,4.0,FWD,60 litres,SUV,16.8 km/litre,,6.0,190 mm,115PS@6300rpm,144Nm@4500 rpm,5.0,Manual,2610 mm,,18.61,62
+970,Kia,16.06,,FWD,60 litres,SUV,16.8 km/litre,,6.0,190 mm,115PS@6300rpm,144Nm@4500 rpm,5.0,Manual,2610 mm,,17.01,48
+971,Kia,8.15,,FWD,60 litres,SUV,16.8 km/litre,,6.0,190 mm,115PS@6300rpm,144Nm@4500 rpm,5.0,Manual,2610 mm,,7.91,97
+972,Kia,17.38,,FWD,60 litres,SUV,16.8 km/litre,,6.0,190 mm,115PS@6300rpm,144Nm@4500 rpm,5.0,Manual,2610 mm,,17.21,76
+973,Kia,2.81,,FWD,60 litres,SUV,16.8 km/litre,,6.0,190 mm,115PS@6300rpm,144Nm@4500 rpm,5.0,Automatic,2610 mm,,5.39,63
+974,Kia,14.79,,FWD,60 litres,SUV,20 km/litre,,6.0,190 mm,114PS@4000 rpm,250Nm@1500-2750rpm,5.0,Manual,2610 mm,,3.56,2
+975,Kia,4.07,,FWD,60 litres,SUV,20 km/litre,,6.0,190 mm,115PS@4000RPM,250Nm@1500-2750rpm,5.0,Manual,2610 mm,,17.99,73
+976,Kia,10.88,,FWD,60 litres,SUV,20 km/litre,,6.0,190 mm,115PS@4000RPM,250Nm@1500-2750rpm,5.0,Manual,2610 mm,,1.67,53
+977,Kia,11.7,,FWD,60 litres,SUV,20 km/litre,,6.0,190 mm,115PS@4000RPM,250Nm@1500-2750rpm,5.0,Automatic,2610 mm,,8.71,47
+978,Kia,19.56,,FWD,60 litres,SUV,20 km/litre,,6.0,190 mm,115PS@4000RPM,250Nm@1500-2750rpm,5.0,Manual,2610 mm,,18.04,8
+979,Kia,5.0,,FWD,60 litres,SUV,20 km/litre,,6.0,190 mm,115PS@4000RPM,250Nm@1500-2750rpm,5.0,Automatic,2610 mm,,13.94,82
+980,Kia,8.09,4.0,FWD,50 litres,SUV,16.1 km/litre,,6.0,190 mm,140PS@6000RPM,242Nm@1500-3200rpm,5.0,Manual,2610 mm,,18.01,32
+981,Kia,10.52,4.0,FWD,50 litres,SUV,16.1 km/litre,,6.0,190 mm,140PS@6000RPM,242Nm@1500-3200rpm,5.0,Manual,2610 mm,,2.89,65
+982,Kia,17.71,4.0,FWD,50 litres,SUV,16.5 km/litre,,7.0,190 mm,140PS@6000RPM,242Nm@1500-3200rpm,5.0,DCT,2610 mm,,10.01,14
+983,Kia,19.76,4.0,FWD,50 litres,SUV,16.1 km/litre,,6.0,190 mm,140PS@6000RPM,242Nm@1500-3200rpm,5.0,Manual,2610 mm,,15.31,36
+984,Kia,15.88,,FWD,60 litres,SUV,20 km/litre,,6.0,190 mm,115PS@4000RPM,250Nm@1500-2750rpm,5.0,Manual,2610 mm,,3.42,85
+985,Nissan,4.16,4.0,FWD,50 litres,SUV,20.45 km/litre,1236 kg,5.0,205 mm,85PS@3750rpm,200Nm@1900rpm,5.0,Manual,2673 mm,1764 kg,10.93,90
+986,Nissan,2.53,4.0,FWD,50 litres,SUV,19.01 km/litre,1360 kg,6.0,205 mm,110PS@3900rpm,248Nm@2250rpm,5.0,Automatic,2673 mm,1787 kg,11.12,79
+987,Nissan,19.57,4.0,FWD,50 litres,SUV,13.24 km/litre,1360 kg,5.0,205 mm,104PS@5850rpm,145Nm@3750rpm,5.0,Manual,2673 mm,1755 kg,11.54,45
+988,Nissan,2.42,4.0,FWD,50 litres,SUV,20.45 km/litre,1360 kg,5.0,205 mm,85PS@3750rpm,200Nm@1900rpm,5.0,Manual,2673 mm,1764 kg,3.58,3
+989,Nissan,16.09,4.0,FWD,50 litres,SUV,19.01 km/litre,1360 kg,6.0,205 mm,110PS@3900rpm,248Nm@2250rpm,5.0,Manual,2673 mm,1787 kg,1.16,29
+990,Nissan,13.69,4.0,FWD,50 litres,SUV,20.45 km/litre,1236 kg,5.0,205 mm,85PS@3750rpm,200Nm@1900rpm,5.0,Manual,2673 mm,1764 kg,5.5,49
+991,Tata,12.31,4.0,FWD,63 litres,SUV,14 km/litre,2000 kg,5.0,200 mm,150PS@4000rpm,320Nm@1700-2700rpm,7.0,Manual,2650 mm,2505 kg,5.94,74
+992,Tata,16.81,4.0,FWD,63 litres,SUV,14 km/litre,2000 kg,5.0,200 mm,150PS@4000rpm,320Nm@1700-2700rpm,7.0,Manual,2650 mm,2555 kg,10.18,100
+993,Tata,19.86,4.0,RWD,63 litres,SUV,14.1 km/litre,2095 kg,6.0,200 mm,156PS@4000rpm,400Nm@1750-2500rpm,7.0,Manual,2650 mm,2570 kg,9.35,27
+994,Tata,16.1,4.0,AWD,63 litres,SUV,14.1 km/litre,2095 kg,6.0,200 mm,156PS@4000rpm,400Nm@1750-2500rpm,7.0,Manual,2650 mm,2650 kg,17.94,87
+995,Mg,7.23,4.0,FWD,,SUV,,,6.0,192 mm,141bhp@5500rpm,250NM@5500rpm,5.0,Manual,2750 mm,,1.05,84
+996,Mg,19.99,4.0,FWD,,SUV,17.41 km/litre,,6.0,192 mm,168bhp@5500rpm,350NM@5500rpm,5.0,Manual,2750 mm,,0.82,57
+997,Mg,2.57,4.0,FWD,,SUV,17.41 km/litre,,6.0,192 mm,168bhp@5500rpm,350NM@5500rpm,5.0,Manual,2750 mm,,18.68,29
+998,Mg,10.17,4.0,FWD,,SUV,17.41 km/litre,,6.0,192 mm,168bhp@5500rpm,350NM@5500rpm,5.0,Manual,2750 mm,,16.53,84
+999,Mg,8.63,4.0,FWD,,SUV,17.41 km/litre,,6.0,192 mm,168bhp@5500rpm,350NM@5500rpm,5.0,Manual,2750 mm,,2.72,52
+1000,Mg,19.48,4.0,FWD,,SUV,,,6.0,192 mm,141bhp@5500rpm,250NM@5500rpm,5.0,Manual,2750 mm,,9.81,83
+1001,Mg,15.65,4.0,FWD,,SUV,,,6.0,192 mm,141bhp@5500rpm,250NM@5500rpm,5.0,Manual,2750 mm,,17.04,5
+1002,Mg,4.5,4.0,FWD,,SUV,,,6.0,192 mm,141bhp@5500rpm,250NM@5500rpm,5.0,Manual,2750 mm,,10.47,6
+1003,Mg,17.48,4.0,FWD,,SUV,,,6.0,192 mm,141bhp@5500rpm,250NM@5500rpm,5.0,Manual,2750 mm,,16.63,84
+1004,Mg,9.79,4.0,FWD,,SUV,,,6.0,192 mm,141bhp@5500rpm,250NM@5500rpm,5.0,DCT,2750 mm,,14.1,57
+1005,Mg,12.67,4.0,FWD,,SUV,,,6.0,192 mm,141bhp@5500rpm,250NM@5500rpm,5.0,DCT,2750 mm,,17.23,20
+1006,Tata,7.79,,FWD,,SUV,,,,205 mm,129PS@5500rpm,245Nm@5500rpm,5.0,Automatic,2498 mm,,17.37,88
+1007,Tata,8.31,,FWD,,SUV,,,,205 mm,129PS@5500rpm,245Nm@5500rpm,5.0,Automatic,2498 mm,,17.27,47
+1008,Tata,2.29,,FWD,,SUV,,,,205 mm,129PS@5500rpm,245Nm@5500rpm,5.0,Automatic,2498 mm,,1.9,47
+1009,Hyundai,4.97,4.0,FWD,50 litres,Sedan,14.6 km/litre,,6.0,,152PS@6200rpm,196Nm@4000rpm,5.0,Manual,2700 mm,,3.46,18
+1010,Hyundai,17.48,4.0,FWD,50 litres,Sedan,14.6 km/litre,,6.0,,152PS@6200rpm,196Nm@4000rpm,5.0,Manual,2700 mm,,12.97,6
+1011,Hyundai,10.73,4.0,FWD,50 litres,Sedan,14.6 km/litre,,6.0,,152PS@6200rpm,196Nm@4000rpm,5.0,AMT,2700 mm,,14.75,88
+1012,Hyundai,15.91,4.0,FWD,50 litres,Sedan,14.6 km/litre,,6.0,,152PS@6200rpm,196Nm@4000rpm,5.0,AMT,2700 mm,,19.63,47
+1013,Hyundai,3.51,4.0,4WD,62 litres,SUV,18.42 km/litre,,5.0,,185PS@4000rpm,400NM@1750rpm,5.0,Manual,2670 mm,,6.12,80
+1014,Hyundai,8.66,4.0,FWD,62 litres,SUV,13.03 km/litre,,5.0,,155PS@6200rpm,192NM@4000rpm,5.0,Manual,2670 mm,,17.69,70
+1015,Hyundai,17.65,4.0,FWD,62 litres,SUV,16.38 km/litre,,5.0,,185PS@4000rpm,400NM@1750rpm,5.0,Automatic,2670 mm,,9.64,6
+1016,Hyundai,14.73,4.0,FWD,62 litres,SUV,12.95 km/litre,,5.0,,155PS@6200rpm,192NM@4000rpm,5.0,Automatic,2670 mm,,11.44,10
+1017,Hyundai,12.6,4.0,4WD,62 litres,SUV,16.38 km/litre,,5.0,,185PS@4000rpm,400NM@1750rpm,5.0,Automatic,2670 mm,,17.02,66
+1018,Hyundai,10.46,4.0,FWD,62 litres,SUV,12.95 km/litre,,5.0,,155PS@6200rpm,192NM@4000rpm,5.0,Automatic,2670 mm,,2.89,73
+1019,Hyundai,11.3,4.0,FWD,62 litres,SUV,12.95 km/litre,,5.0,,155PS@6200rpm,192NM@4000rpm,5.0,Automatic,2670 mm,,10.77,28
+1020,Hyundai,12.09,4.0,FWD,62 litres,SUV,16.38 km/litre,,5.0,,185PS@4000rpm,400NM@1750rpm,5.0,Automatic,2670 mm,,2.29,26
+1021,Volkswagen,3.05,4.0,FWD,55 litres,Sedan,17.42 km/litre,1535 kg,7.0,,180PS@3800rpm,350Nm@1750-2500rpm,5.0,Automatic,2786 mm,,16.4,97
+1022,Volkswagen,15.5,4.0,FWD,66 litres,Sedan,17.42 km/litre,1550 kg,7.0,,180PS@3800rpm,350Nm@1750-2500rpm,5.0,Automatic,2786 mm,,0.24,79
+1023,Volkswagen,13.12,4.0,FWD,55 litres,Sedan,17.42 km/litre,1535 kg,7.0,,180PS@3800rpm,350Nm@1750-2500rpm,5.0,Automatic,2786 mm,,8.12,19
+1024,Volkswagen,19.52,4.0,FWD,66 litres,Sedan,17.42 km/litre,1550 kg,7.0,,180PS@3800rpm,350Nm@1750-2500rpm,5.0,Automatic,2786 mm,,8.01,47
+1025,Mercedes-Benz,11.61,4.0,FWD,50 litres,Hatchback,15.5 km/litre,1395 kg,7.0,160 mm,122PS@5000rpm,200Nm@1250-4000rpm,5.0,Automatic,2699 mm,1920 kg,0.57,62
+1026,Mercedes-Benz,17.09,4.0,FWD,50 litres,Hatchback,15.5 km/litre,1515 kg,7.0,160 mm,136PS@4400RPM,300Nm@1600-3000rpm,5.0,Automatic,2699 mm,2000 kg,4.01,63
+1027,Volvo,10.04,5.0,FWD,60 litres,Hatchback,16.8 km/litre,1607 kg,6.0,132 mm,150PS@3500rpm,350Nm@1500-2750rpm,5.0,Automatic,2646 mm,2040 kg,5.11,94
+1028,Volvo,13.36,4.0,FWD,50 litres,Hatchback,16 km/litre,1587 kg,6.0,132 mm,180PS@5700rpm,240Nm@1600-500rpm,5.0,Automatic,2646 mm,1461kg kg,4.23,35
+1029,Mini,15.58,4.0,FWD,47 litres,Hatchback,14.41 km/litre,,8.0,,192PS@5500rpm,280Nm@1350rpm,5.0,Automatic,2670 mm,,19.29,71
+1030,Mini,19.41,4.0,FWD,47 litres,Hatchback,19.19 km/litre,,8.0,,190PS@5500rpm,400NM@1750rpm,5.0,Automatic,2670 mm,,17.51,7
+1031,Mini,15.66,4.0,FWD,47 litres,Hatchback,14.41 km/litre,,8.0,,192PS@5500rpm,280Nm@1350rpm,5.0,Automatic,2670 mm,,15.06,42
+1032,Mini,19.07,4.0,FWD,47 litres,Hatchback,14.41 km/litre,,8.0,,192PS@5500rpm,280Nm@1350rpm,5.0,Automatic,2670 mm,,5.39,75
+1033,Mercedes-Benz,16.98,4.0,RWD,66 litres,Sedan,12.06 km/litre,1655 kg,9.0,157 mm,192bhp@3800rpm,400Nm@1600rpm,5.0,Automatic,2840 mm,,12.28,3
+1034,Mercedes-Benz,16.29,4.0,RWD,66 litres,Sedan,12.06 km/litre,1655 kg,9.0,157 mm,192bhp@3800rpm,400Nm@1600rpm,5.0,Automatic,2840 mm,,18.38,53
+1035,Mercedes-Benz,12.71,4.0,RWD,66 litres,Sedan,16.05 km/litre,1655 kg,9.0,157 mm,241bhp@4200rpm,500Nm@1600rpm,5.0,Automatic,2840 mm,,15.42,4
+1036,Mercedes-Benz,14.25,8.0,RWD,66 litres,Coupe,1449 km/litre,1730 kg,7.0,112 mm,503bhp@5500rpm,700Nm@1750RPM,5.0,Automatic,2840 mm,,16.79,71
+1037,Mercedes-Benz,7.61,4.0,RWD,66 litres,Sedan,12.06 km/litre,1655 kg,9.0,157 mm,181bhp@5800rpm,280Nm@1600rpm,5.0,Automatic,2840 mm,2165 kg,13.84,62
+1038,Mercedes-Benz,9.92,4.0,RWD,66 litres,Sedan,12.06 km/litre,1655 kg,9.0,157 mm,181bhp @5800rpm,280Nm@1600rpm,5.0,Automatic,2840 mm,,0.11,87
+1039,Toyota,6.13,4.0,FWD,43 litres,Sedan,23.9 km/litre,,5.0,165 mm,98PS@5200rpm,142Nm@3600rpm,5.0,Automatic,2700 mm,1790 kg,14.4,8
+1040,Lexus,4.19,4.0,FWD,,Sedan,17.8 km/litre,1670 kg,,,176Bhp@5700rpm,221Nm@3600-5200rpm,5.0,Automatic,2870 mm,,8.33,95
+1041,Lexus,12.18,6.0,AWD,56 litres,SUV,18.3 km/litre,1905 kg,,,194PS@5700rpm,210Nm@4200-4400rpm,5.0,Automatic,2660 mm,2395 kg,9.79,41
+1042,Lexus,17.26,6.0,AWD,56 litres,SUV,18.3 km/litre,1785 kg,,,194PS@5700rpm,210Nm@4200-4400rpm,5.0,Automatic,2660 mm,2395 kg,0.54,33
+1043,Jaguar,11.89,4.0,AWD,60 litres,SUV,16.38 km/litre,1830 kg,,213 mm,180ps@5500rpm,430Nm@1750-2000rpm,5.0,Automatic,2874 mm,2460 kg,5.17,54
+1044,Jaguar,17.87,4.0,AWD,60 litres,SUV,21.27 km/litre,1830 kg,,213 mm,247bhp@5500rpm,369Nm@1300-4000rpm,5.0,Automatic,2874 mm,2460 kg,10.64,51
+1045,Volvo,14.55,4.0,AWD,60 litres,SUV,17.2 km/litre,2962 kg,8.0,210 mm,235PS@4250RPM,480Nm@1740RPM,5.0,Automatic,2941 mm,,12.68,40
+1046,Audi,15.47,4.0,FWD,58 litres,Convertible,17.2 km/litre,1875 kg,7.0,,190ps @ 4000rpm,400Nm @1750-3000rpm,4.0,Automatic,,2310 kg,12.53,76
+1047,Mercedes-Benz,18.33,4.0,AWD,93 litres,SUV,,,9.0,,245PS@4200rpm,500Nm@1600rpm,5.0,Automatic,2915 mm,2910 kg,19.0,77
+1048,Mercedes-Benz,12.06,6.0,AWD,93 litres,SUV,,2150 kg,9.0,,330PS@4000rpm,700Nm@1200-3200rpm,5.0,Automatic,2915 mm,2910 kg,18.91,3
+1049,Mercedes-Benz,9.75,4.0,RWD,,Sedan,,,9.0,,245Bhp@4200RPM,500Nm@1600-2400RPM,5.0,Automatic,,2445 kg,8.77,3
+1050,Bmw,6.37,6.0,AWD,80 litres,SUV,13.38 km/litre,,8.0,,335 bhp @ 5500 rpm,450 Nm @ 1500 rpm,7.0,Automatic,3105 mm,,8.82,96
+1051,Bmw,12.74,6.0,AWD,80 litres,SUV,13.38 km/litre,,8.0,,262 bhp @ 4000 rpm,620 Nm @ 1500 rpm,7.0,Automatic,3105 mm,,12.18,11
+1052,Bmw,18.48,6.0,RWD,60 litres,Coupe,10.75 km/litre,1612 kg,7.0,121 mm,431PS@7300RPM,550Nm@1850-5500rpm,4.0,Automatic,2812 mm,2040 kg,7.5,96
+1053,Porsche,4.54,6.0,AWD,64 litres,Coupe,8.9 km/litre,1515 kg,8.0,,450hp@6500rpm,530Nm@5000rpm,4.0,Automatic,2450 mm,1985 kg,2.82,86
+1054,Porsche,7.16,6.0,AWD,64 litres,Convertible,9.1 km/litre,1585 kg,8.0,,450hp@6500rpm,530Nm@5000rpm,4.0,Automatic,2450 mm,2040 kg,6.24,78
+1055,Nissan,6.5,6.0,AWD,74 litres,Coupe,9 km/litre,1752 kg,6.0,110 mm,570PS@6800rpm,637Nm@3200rpm,4.0,Automatic,2780 mm,,8.25,90
+1056,Aston Martin,5.12,8.0,RWD,73 litres,Coupe,8 km/litre,1530 kg,8.0,122 mm,505bhp@6000rpm,685Nm@2000-5000rpm,2.0,Automatic,2704 mm,,4.06,79
+1057,Aston Martin,15.98,12.0,RWD,90.5 litres,Sedan,12.9 km/litre,1990 kg,8.0,108 mm,560PS@6650rpm,630Nm@5500rpm,4.0,Automatic,2989 mm,2081 kg,17.39,30
+1058,Ferrari,9.87,12.0,AWD,92 litres,Coupe,14.9 km/litre,1630 kg,7.0,,789 bhp @ 8500 rpm,718 Nm @ 7000 rpm,2.0,Automatic,2720 mm,,18.37,79
+1059,Maruti Suzuki,13.75,3.0,FWD,35 litres,Hatchback,23.7 km/litre,720 kg,5.0,160 mm,48PS@6000rpm,69Nm@3500rpm,5.0,Manual,2360 mm,1185 kg,3.07,53
+1060,Maruti Suzuki,3.91,3.0,FWD,35 litres,Hatchback,24.7 km/litre,720 kg,5.0,160 mm,48PS@6000rpm,69Nm@3500rpm,5.0,Manual,2360 mm,1185 kg,13.7,75
+1061,Hyundai,18.86,3.0,FWD,37 litres,Hatchback,20.7 km/litre,,5.0,,75PS@4000rpm,190NM@1750-2250RPM,5.0,Manual,2450 mm,,1.82,3
+1062,Hyundai,2.88,4.0,FWD,37 litres,Hatchback,20.7 km/litre,935 kg,5.0,165 mm,83PS@6000rpm,114Nm@4000rpm,5.0,Manual,2450 mm,,1.19,32
+1063,Hyundai,18.69,4.0,FWD,37 litres,Hatchback,20.7 km/litre,935 kg,5.0,165 mm,83PS@6000rpm,114Nm@4000rpm,5.0,Manual,2450 mm,,15.82,38
+1064,Hyundai,8.96,4.0,FWD,37 litres,Hatchback,20.7 km/litre,935 kg,5.0,165 mm,83PS@6000rpm,114Nm@4000rpm,5.0,Automatic,2450 mm,,12.88,69
+1065,Hyundai,13.82,4.0,FWD,37 litres,Hatchback,20.7 km/litre,935 kg,5.0,165 mm,83PS@6000rpm,114Nm@4000rpm,5.0,Manual,2450 mm,,19.71,64
+1066,Hyundai,13.42,4.0,FWD,37 litres,Hatchback,20.7 km/litre,935 kg,5.0,165 mm,83PS@6000rpm,114Nm@4000rpm,5.0,Automatic,2450 mm,,16.5,98
+1067,Hyundai,19.78,4.0,FWD,37 litres,Hatchback,20.7 km/litre,935 kg,5.0,165 mm,83PS@6000rpm,114Nm@4000rpm,5.0,Manual,2450 mm,,15.61,47
+1068,Hyundai,5.54,4.0,FWD,37 litres,Hatchback,20.7 km/litre,935 kg,5.0,165 mm,83PS@6000rpm,114Nm@4000rpm,5.0,Manual,2450 mm,,11.76,31
+1069,Hyundai,10.73,3.0,FWD,37 litres,Hatchback,20.7 km/litre,,5.0,,75PS@4000rpm,190NM@1750-2250RPM,5.0,Automatic,2450 mm,,8.1,43
+1070,Hyundai,11.77,3.0,FWD,37 litres,Hatchback,20.7 km/litre,,5.0,,75PS@4000rpm,190NM@1750-2250RPM,5.0,Manual,2450 mm,,2.64,80
+1071,Hyundai,6.65,4.0,FWD,43 litres,Sedan,20.14 km/litre,,5.0,165 mm,83PS@6000rpm,114Nm@6000rpm,5.0,Manual,2425 mm,,15.44,54
+1072,Hyundai,18.13,4.0,FWD,43 litres,Sedan,17.36 km/litre,,4.0,165 mm,82PS@6000rpm,114Nm@6000rpm,5.0,Automatic,2425 mm,,11.53,7
+1073,Hyundai,13.07,4.0,FWD,43 litres,Sedan,20.14 km/litre,1100 kg,5.0,165 mm,82PS@6000rpm,114Nm@6000rpm,5.0,Manual,2425 mm,1530 kg,12.63,65
+1074,Hyundai,3.86,4.0,FWD,43 litres,Sedan,,1100 kg,5.0,165 mm,82PS@6000rpm,114Nm@6000rpm,5.0,Manual,2425 mm,1530 kg,13.18,5
+1075,Hyundai,7.01,3.0,FWD,43 litres,Sedan,,1100 kg,5.0,165 mm,72PS@4000rpm,180Nm@1750rpm,5.0,Manual,2425 mm,1530 kg,18.34,49
+1076,Hyundai,5.45,4.0,FWD,43 litres,Sedan,,1100 kg,5.0,165 mm,83PS@6000rpm,114Nm@6000rpm,5.0,Manual,2425 mm,1530 kg,2.71,40
+1077,Hyundai,6.46,3.0,FWD,43 litres,Sedan,25.4 km/litre,1100 kg,5.0,165 mm,75PS@4000rpm,190NM@1750-2250RPM,5.0,Manual,2425 mm,1530 kg,14.11,66
+1078,Hyundai,9.31,3.0,FWD,43 litres,Sedan,25.4 km/litre,1100 kg,5.0,165 mm,72PS@4000rpm,190NM@1750-2250RPM,5.0,Manual,2425 mm,1530 kg,0.02,40
+1079,Hyundai,18.69,4.0,FWD,43 litres,Sedan,,1100 kg,5.0,165 mm,75PS@4000rpm,190NM@1750-2250RPM,5.0,Manual,2425 mm,1530 kg,3.53,100
+1080,Nissan,13.17,3.0,FWD,41 litres,Hatchback,19.34 km/litre,930 kg,5.0,154 mm,77PS@6000rpm,104Nm@4000rpm,5.0,Automatic,2450 mm,,17.8,81
+1081,Nissan,18.03,3.0,FWD,41 litres,Hatchback,19.34 km/litre,,5.0,154 mm,77PS@6000rpm,104Nm@4400rpm,5.0,Automatic,2450 mm,,2.97,71
+1082,Nissan,17.05,4.0,FWD,41 litres,Hatchback,23.08 km/litre,,5.0,150 mm,64PS@4000rpm,160Nm@2000rpm,5.0,Manual,2450 mm,,15.76,48
+1083,Nissan,12.45,4.0,FWD,41 litres,Hatchback,23.08 km/litre,1001 kg,5.0,150 mm,64PS@4000rpm,160Nm@2000rpm,5.0,Manual,2450 mm,1425 kg,4.4,36
+1084,Mahindra,7.27,4.0,FWD,60 litres,SUV,15.96 km/litre,1615 kg,5.0,180 mm,63PS@3200rpm,195Nm@1400-2200rpm,7.0,Manual,2680 mm,1965 kg,12.38,94
+1085,Mahindra,12.22,4.0,FWD,60 litres,SUV,15.96 km/litre,1615 kg,5.0,180 mm,63PS@3200rpm,195Nm@1400-2200rpm,7.0,Manual,2680 mm,,18.0,69
+1086,Mahindra,14.65,4.0,FWD,60 litres,SUV,15.96 km/litre,1615 kg,5.0,180 mm,63PS@3200rpm,195Nm@1400-2200rpm,7.0,Manual,2680 mm,,14.05,38
+1087,Mahindra,16.85,4.0,FWD,60 litres,SUV,15.96 km/litre,1615 kg,5.0,183 mm,63PS@3200rpm,195Nm@1400-2200rpm,7.0,Manual,2794 mm,,7.98,36
+1088,Mahindra,5.71,4.0,FWD,60 litres,SUV,15.96 km/litre,1615 kg,5.0,183 mm,63PS@3200rpm,195Nm@1400-2200rpm,7.0,Manual,2794 mm,,5.98,17
+1089,Maruti Suzuki,16.11,4.0,FWD,43 litres,Sedan,28.09 km/litre,1105 kg,5.0,170 mm,89Bhp@4000RPM,200Nm@1750rpm,5.0,Manual,2650 mm,1590 kg,3.15,64
+1090,Maruti Suzuki,2.88,4.0,FWD,43 litres,Sedan,28.09 km/litre,1105 kg,5.0,170 mm,89Bhp@4000RPM,200Nm@1750rpm,5.0,Manual,2650 mm,1590 kg,0.57,31
+1091,Maruti Suzuki,13.39,4.0,FWD,43 litres,Sedan,28.09 km/litre,1105 kg,5.0,170 mm,89Bhp@4000RPM,200Nm@1750rpm,5.0,Manual,2650 mm,1590 kg,0.47,17
+1092,Maruti Suzuki,10.18,4.0,FWD,43 litres,Sedan,28.09 km/litre,1105 kg,5.0,170 mm,89Bhp@4000RPM,200Nm@1750rpm,5.0,Manual,2650 mm,1590 kg,16.66,15
+1093,Maruti Suzuki,3.15,4.0,FWD,43 litres,Sedan,21.56 km/litre,1010 kg,5.0,170 mm,103Bhp@6000rpm,138Nm@4400rpm,5.0,Manual,2650 mm,1520 kg,0.91,53
+1094,Maruti Suzuki,19.18,4.0,FWD,43 litres,Sedan,21.56 km/litre,1010 kg,5.0,170 mm,103Bhp@6000rpm,138Nm@4400rpm,5.0,Manual,2650 mm,1520 kg,9.44,50
+1095,Maruti Suzuki,14.49,4.0,FWD,43 litres,Sedan,21.56 km/litre,1010 kg,5.0,170 mm,103Bhp@6000rpm,138Nm@4400rpm,5.0,Manual,2650 mm,1520 kg,4.27,98
+1096,Maruti Suzuki,16.43,4.0,FWD,43 litres,Sedan,21.56 km/litre,1010 kg,5.0,170 mm,103Bhp@6000rpm,138Nm@4400rpm,5.0,Manual,2650 mm,1520 kg,8.36,99
+1097,Maruti Suzuki,9.61,4.0,FWD,43 litres,Sedan,20.28 km/litre,1010 kg,4.0,170 mm,103Bhp@6000rpm,138Nm@4400rpm,5.0,Automatic,2650 mm,1520 kg,5.85,34
+1098,Maruti Suzuki,2.75,4.0,FWD,43 litres,Sedan,20.28 km/litre,1010 kg,4.0,170 mm,103Bhp@6000rpm,138Nm@4400rpm,5.0,Automatic,2650 mm,1520 kg,13.21,20
+1099,Maruti Suzuki,2.47,4.0,FWD,43 litres,Sedan,20.28 km/litre,1010 kg,4.0,170 mm,103Bhp@6000rpm,138Nm@4400rpm,5.0,Automatic,2650 mm,1520 kg,4.19,77
+1100,Maruti Suzuki,9.57,4.0,FWD,43 litres,Sedan,26.82 km/litre,1105 kg,6.0,170 mm,94Bhp@4000RPM,225Nm@1500-2250rpm,5.0,Manual,2650 mm,1590 kg,1.27,88
+1101,Maruti Suzuki,6.24,4.0,FWD,43 litres,Sedan,26.32 km/litre,1105 kg,6.0,170 mm,94Bhp@4000RPM,225Nm@1500-2250rpm,5.0,Manual,2650 mm,1590 kg,2.84,75
+1102,Maruti Suzuki,17.98,4.0,FWD,43 litres,Sedan,26.32 km/litre,1105 kg,6.0,170 mm,94Bhp@4000RPM,225Nm@1500-2250rpm,5.0,Manual,2650 mm,1590 kg,9.32,23
+1103,Skoda,15.52,4.0,FWD,55 litres,Sedan,15.41 km/litre,1137 kg,5.0,163 mm,105PS@5250rpm,153Nm@3750-3800rpm,5.0,Manual,2552 mm,1680 kg,3.44,64
+1104,Skoda,8.21,4.0,FWD,55 litres,Sedan,21.13 km/litre,1210 kg,5.0,163 mm,110PS@4000rpm,250Nm@1500-2500rpm,5.0,Manual,2552 mm,1750 kg,16.43,58
+1105,Skoda,4.49,4.0,FWD,55 litres,Sedan,15.41 km/litre,1137 kg,5.0,163 mm,105PS@5250rpm,153Nm@3750-3800rpm,5.0,Manual,2552 mm,1680 kg,14.58,45
+1106,Skoda,11.2,4.0,FWD,55 litres,Sedan,21.13 km/litre,1210 kg,5.0,163 mm,110PS@4000rpm,250Nm@1500-2500rpm,5.0,Manual,2552 mm,1750 kg,14.09,62
+1107,Skoda,6.74,4.0,FWD,55 litres,Sedan,21.72 km/litre,1228 kg,7.0,163 mm,110PS@4000rpm,250Nm@1500-2500rpm,5.0,Automatic,2552 mm,1770 kg,7.51,30
+1108,Skoda,12.73,4.0,FWD,55 litres,Sedan,14.84 km/litre,1187 kg,7.0,163 mm,105PS@5250rpm,153Nm@3750-3800rpm,5.0,Automatic,2552 mm,1710 kg,13.1,30
+1109,Skoda,11.3,4.0,FWD,55 litres,Sedan,21.72 km/litre,1228 kg,5.0,163 mm,110PS@4000rpm,250Nm@1500-2500rpm,5.0,Automatic,2552 mm,1770 kg,5.2,7
+1110,Skoda,5.97,4.0,FWD,55 litres,Sedan,21.13 km/litre,1210 kg,5.0,163 mm,110PS@4000rpm,250Nm@1500-2500rpm,5.0,Manual,2552 mm,1750 kg,6.03,10
+1111,Skoda,15.68,4.0,FWD,55 litres,Sedan,15.41 km/litre,1137 kg,5.0,163 mm,105PS@5250rpm,153Nm@3750-3800rpm,5.0,Manual,2552 mm,1680 kg,8.05,50
+1112,Skoda,17.04,4.0,FWD,55 litres,Sedan,14.84 km/litre,1187 kg,5.0,163 mm,105PS@5250rpm,153Nm@3750-3800rpm,5.0,Automatic,2552 mm,1710 kg,0.13,4
+1113,Skoda,7.02,4.0,FWD,55 litres,Sedan,15.41 km/litre,1137 kg,5.0,163 mm,105PS@5250rpm,153Nm@3750-3800rpm,5.0,Manual,2552 mm,1680 kg,8.72,9
+1114,Skoda,17.64,4.0,FWD,55 litres,Sedan,14.84 km/litre,1187 kg,7.0,163 mm,105PS@5250rpm,153Nm@3750-3800rpm,5.0,Automatic,2552 mm,1710 kg,11.56,98
+1115,Skoda,16.6,4.0,FWD,55 litres,Sedan,21.13 km/litre,1210 kg,5.0,163 mm,110PS@4000rpm,250Nm@1500-2500rpm,5.0,Manual,2552 mm,1750 kg,15.79,21
+1116,Skoda,15.68,4.0,FWD,55 litres,Sedan,21.72 km/litre,1228 kg,5.0,163 mm,110PS@4000rpm,250Nm@1500-2500rpm,5.0,Automatic,2552 mm,1770 kg,10.13,75
+1117,Fiat,16.27,4.0,FWD,,Hatchback,16.3 km/litre,,5.0,155 mm,145PS@5500rpm,212Nm@2000-4000rpm,5.0,Manual,2510 mm,,5.59,94
+1118,Hyundai,17.22,4.0,FWD,55 litres,SUV,21.38 km/litre,,6.0,190 mm,90PS@4000rpm,220Nm@1500-2750rpm,5.0,Manual,2590 mm,,10.95,27
+1119,Hyundai,13.07,4.0,FWD,55 litres,SUV,15.29 km/litre,,6.0,190 mm,123PS@6400rpm,151Nm@4850rpm,5.0,Manual,2590 mm,,0.47,13
+1120,Hyundai,17.6,4.0,FWD,55 litres,SUV,15.29 km/litre,1180 kg,6.0,190 mm,123PS@6400rpm,151Nm@4850rpm,5.0,Manual,2590 mm,1758 kg,3.19,59
+1121,Hyundai,19.71,4.0,FWD,55 litres,SUV,15.29 km/litre,1180 kg,6.0,190 mm,123PS@6400rpm,151Nm@4850rpm,5.0,Manual,2590 mm,1758 kg,8.4,2
+1122,Hyundai,2.49,4.0,FWD,55 litres,SUV,15.29 km/litre,1180 kg,6.0,190 mm,123PS@6400rpm,151Nm@4850rpm,5.0,Automatic,2590 mm,1758 kg,10.89,66
+1123,Hyundai,18.52,4.0,FWD,55 litres,SUV,15.29 km/litre,1180 kg,6.0,190 mm,123PS@6400rpm,151Nm@4850rpm,5.0,Automatic,2590 mm,1758 kg,11.24,97
+1124,Hyundai,7.66,4.0,FWD,55 litres,SUV,21.38 km/litre,,6.0,190 mm,90PS@4000rpm,220Nm@1500-2750rpm,5.0,Manual,2590 mm,,6.08,94
+1125,Hyundai,8.48,4.0,FWD,55 litres,SUV,19.67 km/litre,,6.0,190 mm,128ps@4000rpm,260Nm@1900-2750rpm,5.0,Manual,2590 mm,,6.03,54
+1126,Hyundai,11.0,4.0,FWD,55 litres,SUV,19.67 km/litre,,6.0,190 mm,128ps@4000rpm,260Nm@1900-2750rpm,5.0,Manual,2590 mm,,19.08,32
+1127,Hyundai,2.56,4.0,FWD,55 litres,SUV,17.01 km/litre,,6.0,190 mm,128ps@4000rpm,260Nm@1900-2750rpm,5.0,Automatic,2590 mm,,6.22,46
+1128,Hyundai,2.53,4.0,FWD,55 litres,SUV,19.67 km/litre,,6.0,190 mm,128ps@4000rpm,260Nm@1900-2750rpm,5.0,Manual,2590 mm,,13.09,13
+1129,Hyundai,7.53,4.0,FWD,55 litres,SUV,17.01 km/litre,,6.0,190 mm,128ps@4000rpm,260Nm@1900-2750rpm,5.0,Automatic,2590 mm,,18.26,54
+1130,Hyundai,12.37,4.0,FWD,55 litres,SUV,15.29 km/litre,1180 kg,6.0,190 mm,121bhp@6400rpm,151Nm@4850rpm,5.0,Manual,2590 mm,1758 kg,16.66,42
+1131,Hyundai,5.48,4.0,FWD,55 litres,SUV,19.67 km/litre,,6.0,190 mm,126bhp@4000RPM,260Nm@1900-2750rpm,5.0,Manual,2590 mm,,2.32,42
+1132,Hyundai,10.43,4.0,FWD,55 litres,SUV,21.38 km/litre,,6.0,190 mm,90PS@4000rpm,220Nm@1500-2750rpm,5.0,Manual,2590 mm,,2.51,92
+1133,Hyundai,14.99,4.0,FWD,55 litres,SUV,15.29 km/litre,,6.0,190 mm,123PS@6400rpm,151Nm@4850rpm,5.0,Manual,2590 mm,,5.46,75
+1134,Hyundai,13.79,4.0,FWD,55 litres,SUV,15.29 km/litre,1180 kg,6.0,190 mm,123PS@6400rpm,151Nm@4850rpm,5.0,Manual,2590 mm,1758 kg,1.08,9
+1135,Hyundai,15.78,4.0,FWD,55 litres,SUV,19.67 km/litre,,6.0,190 mm,128ps@4000rpm,260Nm@1900-2750rpm,5.0,Manual,2590 mm,,18.52,63
+1136,Tata,7.54,3.0,FWD,50 litres,SUV,16.7 km/litre,,6.0,205 mm,140PS@3750rpm,350Nm@1750-2500rpm,5.0,Manual,2741 mm,,13.79,100
+1137,Tata,6.96,3.0,FWD,50 litres,SUV,16.7 km/litre,,6.0,205 mm,140PS@3750rpm,350Nm@1750-2500rpm,5.0,Manual,2741 mm,,11.68,74
+1138,Tata,2.94,3.0,FWD,50 litres,Hatchback,16.7 km/litre,1080 kg,6.0,205 mm,140PS@3750rpm,350Nm@1750-2500rpm,5.0,Manual,2741 mm,,2.52,32
+1139,Tata,7.91,3.0,FWD,50 litres,Hatchback,16.7 km/litre,,6.0,205 mm,140PS@3750rpm,350Nm@1750-2500rpm,5.0,Manual,2741 mm,,12.05,100
+1140,Tata,17.14,3.0,FWD,50 litres,Hatchback,16.7 km/litre,,6.0,205 mm,140PS@3750rpm,350Nm@1750-2500rpm,5.0,Manual,2741 mm,,12.27,2
+1141,Tata,13.43,3.0,FWD,50 litres,Hatchback,16.7 km/litre,,6.0,205 mm,140PS@3750rpm,350Nm@1750-2500rpm,5.0,Manual,2741 mm,,8.64,82
+1142,Isuzu,14.7,4.0,AWD,,Pick-up,10.3 km/litre,1935 kg,5.0,,134PS@3600RPM,320NM@1800-2800RPM,5.0,Manual,3095 mm,2200 kg,2.48,73
+1143,Isuzu,12.55,4.0,AWD,,Pick-up,10.3 km/litre,1945 kg,5.0,,134HP@3600RPM,320NM@1800-2800RPM,5.0,Manual,3095 mm,2230 kg,19.98,85
+1144,Isuzu,11.25,4.0,AWD,,Pick-up,10.3 km/litre,1935 kg,6.0,225 mm,150PS@3600rpm,350Nm@1800-2800rpm,5.0,Automatic,3095 mm,,7.16,77
+1145,Mitsubishi,7.5,4.0,AWD,60 litres,SUV,9.62 km/litre,1602 kg,6.0,190 mm,167PS@6000RPM,222Nm@4100RPM,7.0,Automatic,2670 mm,2110 kg,0.79,86
+1146,Mercedes-Benz,13.19,4.0,4WD,50 litres,SUV,13.8 km/litre,1525 kg,7.0,183 mm,183PS@5500rpm,300Nm@1200-1400rpm,5.0,Automatic,2699 mm,1940 kg,8.91,54
+1147,Mercedes-Benz,13.29,4.0,4WD,70 litres,SUV,17.9 km/litre,1585 kg,7.0,183 mm,136PS@4000rpm,300Nm@1600-3000rpm,5.0,Automatic,2699 mm,2020 kg,16.08,6
+1148,Mercedes-Benz,18.48,4.0,4WD,70 litres,SUV,17.9 km/litre,1585 kg,7.0,183 mm,136PS@4000rpm,300Nm@1600-3000rpm,5.0,Automatic,2699 mm,2020 kg,14.93,52
+1149,Mercedes-Benz,14.1,4.0,4WD,50 litres,SUV,13.8 km/litre,1720 kg,7.0,183 mm,360PS@6000rpm,450Nm@2250-5000rpm,5.0,Automatic,2699 mm,2105 kg,18.89,69
+1150,Mercedes-Benz,11.65,4.0,4WD,70 litres,SUV,17.9 km/litre,1585 kg,7.0,183 mm,170PS@4000RPM,350Nm@1400-3400rpm,5.0,Automatic,2699 mm,2020 kg,12.51,33
+1151,Mercedes-Benz,15.53,4.0,4WD,50 litres,SUV,13.8 km/litre,1720 kg,7.0,183 mm,375PS@6000rpm,475Nm@2250-5000rpm,5.0,Automatic,2699 mm,2105 kg,10.05,50
+1152,Honda,16.06,4.0,FWD,60 litres,Sedan,23.1 km/litre,1620 kg,5.0,155 mm,145PS@6200rpm,175Nm@4000rpm,5.0,Automatic,2776 mm,1995 kg,11.72,40
+1153,Bmw,6.86,4.0,RWD,70 litres,Sedan,18.12 km/litre,1705 kg,8.0,158 mm,190PS@4000rpm,400Nm@1750-2500rpm,5.0,Automatic,2968 mm,2315 kg,0.32,66
+1154,Bmw,19.69,6.0,RWD,70 litres,Sedan,14.69 km/litre,1705 kg,8.0,158 mm,258PS@4000rpm,560Nm@1500-3000rpm,5.0,Automatic,2968 mm,2315 kg,5.68,64
+1155,Bmw,7.0,6.0,RWD,70 litres,Sedan,15.01 km/litre,1705 kg,8.0,158 mm,252PS@5200rpm,350Nm@1450-4800rpm,5.0,Automatic,2968 mm,2315 kg,12.05,45
+1156,Bmw,19.38,6.0,AWD,88 litres,Sedan,16.46 km/litre,1865 kg,8.0,152 mm,265PS@4000RPM,620Nm@2000-2500RPM,4.0,Automatic,3210 mm,,7.05,52
+1157,Bmw,9.97,6.0,AWD,88 litres,Sedan,16.46 km/litre,1865 kg,8.0,152 mm,265PS@4000RPM,620Nm@2000-2500RPM,4.0,Automatic,3210 mm,,2.92,93
+1158,Bmw,12.33,8.0,RWD,70 litres,Coupe,7.94 km/litre,,8.0,124 mm,450PS@5500rpm,620Nm@2000-2500RPM,4.0,Automatic,2855 mm,,1.96,81
+1159,Bmw,14.88,4.0,RWD,66 litres,Sedan,21.76 km/litre,1720 kg,8.0,138 mm,188PS@4000RPM,400NM@1750rpm,4.0,Automatic,3070 mm,,8.44,51
+1160,Porsche,14.86,6.0,AWD,65 litres,SUV,,1865 kg,7.0,190 mm,349PS@5400RPM,480Nm@1360rpm,5.0,Automatic,2807 mm,2580 kg,10.35,62
+1161,Porsche,9.94,6.0,AWD,65 litres,SUV,10.8 km/litre,1865 kg,7.0,190 mm,248PS@5000RPM,370Nm@1600rpm,5.0,Automatic,2807 mm,2580 kg,2.68,25
+1162,Jaguar,2.85,,,,Convertible,,,8.0,,495PS@6500RPM,625Nm@2500-5500rpm,,Automatic,2622 mm,,10.36,86
+1163,Jaguar,9.38,6.0,RWD,72 litres,Coupe,14.3 km/litre,,8.0,,550PS@6500RPM,680Nm@2500RPM,2.0,Automatic,2622 mm,1614 kg,6.41,19
+1164,Jaguar,2.83,8.0,AWD,70 litres,Coupe,12.05 km/litre,,8.0,,567PS@6500rpm,700Nm@3500rpm,2.0,Automatic,2622 mm,,17.07,35
+1165,Jaguar,11.58,8.0,AWD,70 litres,Convertible,12.05 km/litre,1720 kg,8.0,,567PS@6500rpm,700Nm@3500rpm,2.0,Automatic,2622 mm,2150 kg,9.26,76
+1166,Jaguar,3.86,6.0,RWD,63 litres,Coupe,15.3 km/litre,1577 kg,8.0,,297 bhp @ 5500 rpm,400 Nm @ 1500 rpm,2.0,Automatic,2622 mm,,0.23,87
+1167,Jaguar,10.71,6.0,RWD,63 litres,Convertible,,1614 kg,8.0,113 mm,297 bhp @ 5500 rpm,400 Nm @ 1500 rpm,2.0,Automatic,2622 mm,,8.71,28
+1168,Jaguar,8.93,8.0,RWD,63 litres,Convertible,10.7 km/litre,1665 kg,8.0,113 mm,297 bhp @ 5500 rpm,400 Nm @ 1500 rpm,2.0,Automatic,2622 mm,,2.04,67
+1169,Jaguar,8.31,4.0,RWD,63 litres,Coupe,10.85 km/litre,1730 kg,8.0,113 mm,297 bhp @ 5500 rpm,400 Nm @ 1500 rpm,2.0,Automatic,2622 mm,,19.25,84
+1170,Bmw,9.13,8.0,AWD,68 litres,Sedan,9.8 km/litre,1950 kg,8.0,,625PS@6000rpm,750Nm@1800-5860rpm,4.0,Automatic,2964 mm,2440 kg,5.88,9
+1171,Lexus,17.04,,FWD,93 litres,SUV,18 km/litre,2660 kg,6.0,,380PS@6000rpm,546Nm@1600-2600rpm,7.0,Automatic,2850 mm,3350 kg,16.72,82
+1172,Ferrari,3.86,8.0,AWD,86 litres,"Coupe, Convertible",5.5 km/litre,1525 kg,7.0,,669PS@8000rpm,760NM@3000rpm,2.0,Automatic,2650 mm,,10.18,97
+1173,Maruti Suzuki R,16.72,3.0,FWD,32 litres,Hatchback,22.5 km/litre,,5.0,,68PS@5500rpm,90Nm@3500rpm,5.0,Manual,,,2.44,27
+1174,Maruti Suzuki R,8.99,3.0,FWD,32 litres,Hatchback,22.5 km/litre,,5.0,,68PS@5500rpm,90Nm@3500rpm,5.0,Automatic,,,16.74,28
+1175,Maruti Suzuki R,18.01,3.0,FWD,32 litres,Hatchback,21.5 km/litre,,5.0,,83PS@6000rpm,1130Nm@4200rpm,5.0,Manual,,,17.82,26
+1176,Maruti Suzuki R,2.05,3.0,FWD,32 litres,Hatchback,22.5 km/litre,,5.0,,68PS@5500rpm,90Nm@3500rpm,5.0,Manual,,,7.71,72
+1177,Maruti Suzuki R,5.86,3.0,FWD,32 litres,Hatchback,21.5 km/litre,830 kg,5.0,,83PS@6000rpm,113Nm@4200RPM,5.0,Manual,2435 mm,1340 kg,2.75,82
+1178,Maruti Suzuki R,6.09,3.0,FWD,32 litres,Hatchback,21.5 km/litre,,5.0,,83PS@6000rpm,113Nm@4200RPM,5.0,Automatic,,,19.07,75
+1179,Maruti Suzuki R,14.77,3.0,FWD,32 litres,Hatchback,21.5 km/litre,,5.0,,83PS@6000rpm,113Nm@4200RPM,5.0,Automatic,,,6.48,34
+1180,Maruti Suzuki R,3.62,3.0,FWD,32 litres,Hatchback,22.5 km/litre,,5.0,,68PS@5500rpm,90Nm@3500rpm,5.0,Manual,,,19.04,62
+1181,Maruti Suzuki R,3.79,3.0,FWD,32 litres,Hatchback,22.5 km/litre,,5.0,,68PS@5500rpm,90Nm@3500rpm,5.0,Manual,,,0.79,54
+1182,Maruti Suzuki R,18.88,3.0,FWD,32 litres,Hatchback,21.5 km/litre,830 kg,5.0,,83PS@6000rpm,113Nm@4200RPM,5.0,Manual,2435 mm,1340 kg,0.45,54
+1183,Maruti Suzuki R,19.89,3.0,FWD,32 litres,Hatchback,21.5 km/litre,,5.0,,83PS@6000rpm,113Nm@4200RPM,5.0,Automatic,,,4.37,8
+1184,Maruti Suzuki R,2.23,3.0,FWD,32 litres,Hatchback,22.5 km/litre,,5.0,,68PS@5500rpm,90Nm@3500rpm,5.0,Automatic,,,15.61,71
+1185,Maruti Suzuki R,8.97,3.0,FWD,32 litres,Hatchback,,,5.0,,68PS@5500rpm,90Nm@3500rpm,5.0,Manual,,,18.2,31
+1186,Maruti Suzuki R,6.64,3.0,FWD,32 litres,Hatchback,,,5.0,,68PS@5500rpm,90Nm@3500rpm,5.0,Manual,,,14.48,4
+1187,Tata,2.45,3.0,FWD,35 litres,Crossover,23.84 km/litre,1017 kg,5.0,180 mm,85PS@6000rpm,114NM@3500rpm,5.0,Manual,2400 mm,,6.91,97
+1188,Tata,18.51,3.0,FWD,35 litres,Crossover,27.28 km/litre,1085 kg,5.0,180 mm,70PS@4000rpm,140Nm@1800-3000rpm,5.0,Manual,2400 mm,,14.1,31
+1189,Tata,12.16,3.0,FWD,35 litres,Crossover,23.84 km/litre,1017 kg,5.0,180 mm,85PS@6000rpm,114NM@3500rpm,5.0,AMT,2400 mm,,15.18,49
+1190,Mahindra,2.65,3.0,FWD,60 litres,SUV,17.21 km/litre,,5.0,180 mm,100PS@3750RPM,240Nm@1600-2800rpm,7.0,Manual,2760 mm,2220 kg,3.7,94
+1191,Mahindra,8.74,3.0,FWD,60 litres,SUV,17.21 km/litre,,5.0,180 mm,100PS@3750RPM,240Nm@1600-2800rpm,7.0,Manual,2760 mm,2220 kg,8.75,24
+1192,Mahindra,9.18,3.0,FWD,60 litres,SUV,17.21 km/litre,,5.0,180 mm,100PS@3750RPM,240Nm@1600-2800rpm,7.0,Manual,2760 mm,2220 kg,7.12,88
+1193,Mahindra,18.61,3.0,FWD,,SUV,17.21 km/litre,,5.0,,100PS@3750RPM,240Nm@1600-2800rpm,7.0,Manual,2760 mm,2220 kg,5.22,60
+1194,Mahindra,16.34,3.0,FWD,60 litres,SUV,16.21 km/litre,,5.0,180 mm,100PS@3750RPM,240Nm@1600-2800rpm,7.0,Automatic,2760 mm,2220 kg,13.58,58
+1195,Mahindra,15.67,3.0,FWD,60 litres,SUV,16.21 km/litre,,5.0,180 mm,100PS@3750RPM,240Nm@1600-2800rpm,7.0,Automatic,2760 mm,2220 kg,4.33,18
+1196,Nissan,10.33,4.0,RWD,50 litres,SUV,14.23 km/litre,,6.0,210 mm,106PS@5600rpm,142Nm@4000rpm,5.0,Manual,2673 mm,,6.61,57
+1197,Nissan,6.9,4.0,RWD,50 litres,SUV,14.23 km/litre,,6.0,210 mm,106PS@5600rpm,142Nm@4000rpm,5.0,Manual,2673 mm,,5.86,68
+1198,Nissan,4.01,4.0,RWD,50 litres,SUV,20.45 km/litre,,6.0,210 mm,110PS@3850rpm,240Nm@1750rpm,5.0,Manual,2673 mm,,7.75,15
+1199,Nissan,4.83,4.0,RWD,50 litres,SUV,20.45 km/litre,,6.0,210 mm,110PS@3850rpm,240Nm@1750rpm,5.0,Manual,2673 mm,,10.46,4
+1200,Nissan,19.32,4.0,RWD,50 litres,SUV,20.45 km/litre,,6.0,210 mm,110PS@3850rpm,240Nm@1750rpm,5.0,Manual,2673 mm,,1.83,59
+1201,Nissan,8.39,4.0,RWD,50 litres,SUV,20.45 km/litre,,6.0,210 mm,110PS@3850rpm,240Nm@1750rpm,5.0,Manual,2673 mm,,4.71,81
+1202,Nissan,15.16,4.0,RWD,50 litres,SUV,20.45 km/litre,,6.0,210 mm,110PS@3850rpm,240Nm@1750rpm,5.0,Manual,2673 mm,,2.82,26
+1203,Nissan,8.21,4.0,RWD,50 litres,SUV,20.45 km/litre,,6.0,210 mm,110PS@3850rpm,240Nm@1750rpm,5.0,Manual,2673 mm,,13.8,51
+1204,Tata,13.15,4.0,FWD,60 litres,MUV,,2275 kg,5.0,180 mm,73.5kW@4000rpm,190Nm@1250-3500rpm,16.0,Manual,3488 mm,3475 kg,19.98,44
+1205,Hyundai,9.54,,FWD,,SUV,,,1.0,160 mm,136 bhp@5500rpm,395 Nm@5500rpm,4.0,Automatic,2600 mm,,2.57,49
+1206,Toyota,16.4,4.0,FWD,50 litres,Sedan,23.2 km/litre,1665 kg,,,178PS@5700rpm,221Nm@3600-5200rpm,5.0,Automatic,2825 mm,2100 kg,15.64,64
+1207,Audi,2.47,4.0,FWD,,Sedan,19.2 km/litre,2115 kg,7.0,,190ps @ 4000rpm,400Nm @1750-3000rpm,5.0,Automatic,,1670 kg,1.51,33
+1208,Land Rover,12.96,6.0,4WD,85 litres,SUV,18 km/litre,,8.0,,258PS@3750rpm,600Nm@2000rpm,7.0,Automatic,2922 mm,,10.67,94
+1209,Land Rover,6.3,6.0,4WD,85 litres,SUV,18 km/litre,,8.0,,258PS@3750rpm,600Nm@2000rpm,7.0,Automatic,2922 mm,,9.63,91
+1210,Land Rover,10.28,6.0,4WD,89 litres,SUV,9.17 km/litre,,8.0,,394PS@3750rpm,450Nm@3500-5000RPM,7.0,Automatic,2922 mm,,3.61,36
+1211,Land Rover,2.17,6.0,4WD,89 litres,SUV,9.17 km/litre,,8.0,,394PS@3750rpm,450Nm@3500-5000RPM,7.0,Automatic,2922 mm,,6.21,73
+1212,Land Rover,3.02,6.0,4WD,85 litres,SUV,18 km/litre,,8.0,,258PS@3750rpm,600Nm@2000rpm,7.0,Automatic,2922 mm,,3.55,94
+1213,Land Rover,12.98,6.0,4WD,89 litres,SUV,9.17 km/litre,,8.0,,394PS@3750rpm,450Nm@3500-5000RPM,7.0,Automatic,2922 mm,,4.93,74
+1214,Land Rover,14.06,6.0,4WD,85 litres,SUV,18 km/litre,,8.0,,258PS@3750rpm,600Nm@2000rpm,7.0,Automatic,2922 mm,,17.45,62
+1215,Land Rover,15.64,6.0,4WD,89 litres,SUV,9.17 km/litre,,8.0,,394PS@3750rpm,450Nm@3500-5000RPM,7.0,Automatic,2922 mm,,8.53,44
+1216,Lexus,13.85,6.0,AWD,82 litres,SUV,15.4 km/litre,2300 kg,,,299PS@6600rpm,350Nm@5100rpm,5.0,Automatic,3125 mm,2725 kg,5.63,26
+1217,Lexus,19.76,6.0,AWD,82 litres,SUV,15.4 km/litre,2322 kg,,,299PS@6600rpm,350Nm@5100rpm,5.0,Automatic,3125 mm,2725 kg,16.28,72
+1218,Lexus,15.93,6.0,AWD,82 litres,SUV,15.4 km/litre,2345 kg,,,299PS@6600rpm,350Nm@5100rpm,5.0,Automatic,3125 mm,2725 kg,7.68,25
+1219,Rolls-Royce,7.77,12.0,RWD,100 litres,Sedan,23 km/litre,2649 kg,8.0,164 mm,460PS@5350rpm,720Nm@3500rpm,5.0,Automatic,3570 mm,3109 kg,4.01,71
+1220,Rolls-Royce,17.16,12.0,RWD,100 litres,Sedan,23 km/litre,2694 kg,8.0,164 mm,460PS@5350rpm,720Nm@3500rpm,5.0,Automatic,3820 mm,3171 kg,0.19,91
+1221,Fiat,8.86,4.0,FWD,45 litres,Hatchback,15.7 km/litre,1095 kg,5.0,185 mm,68PS@6000rpm,96Nm@2500RPM,5.0,Manual,2510 mm,,8.02,70
+1222,Fiat,16.25,4.0,FWD,45 litres,Hatchback,20.5 km/litre,1095 kg,,185 mm,76PS@4000RPM,197Nm@1750RPM,5.0,Manual,2510 mm,,9.31,80
+1223,Fiat,6.61,4.0,FWD,45 litres,Hatchback,20.3 km/litre,1165 kg,,185 mm,76PS@4000RPM,197Nm@1750RPM,5.0,Manual,2510 mm,,16.34,68
+1224,Fiat,4.75,4.0,FWD,45 litres,Hatchback,21.2 km/litre,1095 kg,5.0,185 mm,76PS@4000RPM,197Nm@1750RPM,5.0,Manual,2510 mm,,19.56,4
+1225,Toyota,17.47,4.0,FWD,42 litres,Sedan,17.1 km/litre,1090 kg,6.0,152 mm,107PS@6000rpm,140Nm@4200rpm,5.0,Manual,2550 mm,1580 kg,2.19,55
+1226,Toyota,5.79,4.0,FWD,42 litres,Sedan,17.1 km/litre,1095 kg,6.0,152 mm,107PS@6000rpm,140Nm@4200rpm,5.0,Manual,2550 mm,1580 kg,8.01,92
+1227,Toyota,11.27,4.0,FWD,42 litres,Sedan,17.1 km/litre,1105 kg,6.0,152 mm,107PS@6000rpm,140Nm@4200rpm,5.0,Manual,2550 mm,1580 kg,14.37,43
+1228,Toyota,9.6,4.0,FWD,42 litres,Sedan,17.8 km/litre,1135 kg,7.0,152 mm,107PS@6000rpm,140Nm@4200rpm,5.0,Automatic,2550 mm,1580 kg,2.32,23
+1229,Toyota,19.46,4.0,FWD,42 litres,Sedan,17.8 km/litre,1115 kg,7.0,152 mm,107PS@6000rpm,140Nm@4200rpm,5.0,Automatic,2550 mm,1580 kg,5.58,88
+1230,Toyota,17.56,4.0,FWD,42 litres,Sedan,17.8 km/litre,1110 kg,7.0,152 mm,107PS@6000rpm,140Nm@4200rpm,5.0,Automatic,2550 mm,1580 kg,2.07,77
+1231,Toyota,13.52,4.0,FWD,42 litres,Sedan,17.8 km/litre,1125 kg,7.0,152 mm,107PS@6000rpm,140Nm@4200rpm,5.0,Automatic,2550 mm,1580 kg,11.36,97
+1232,Toyota,11.99,4.0,FWD,42 litres,Sedan,17.1 km/litre,1120 kg,6.0,152 mm,107PS@6000rpm,140Nm@4200rpm,5.0,Manual,2550 mm,1580 kg,14.95,9
+1233,Toyota,14.97,4.0,FWD,42 litres,Sedan,17.1 km/litre,1105 kg,6.0,152 mm,107PS@6000rpm,140Nm@4200rpm,5.0,Manual,2550 mm,1580 kg,12.06,84
+1234,Toyota,18.99,4.0,FWD,42 litres,Sedan,17.1 km/litre,1090 kg,6.0,152 mm,107PS@6000rpm,140Nm@4200rpm,5.0,Manual,2550 mm,1580 kg,2.34,95
+1235,Toyota,6.59,4.0,FWD,42 litres,Sedan,17.1 km/litre,1095 kg,6.0,152 mm,107PS@6000rpm,140Nm@4200rpm,5.0,Manual,2550 mm,1580 kg,11.06,91
+1236,Toyota,16.54,4.0,FWD,42 litres,Sedan,17.1 km/litre,1090 kg,6.0,152 mm,107PS@6000rpm,140Nm@4200rpm,5.0,Automatic,2550 mm,1580 kg,13.35,58
+1237,Toyota,15.72,4.0,FWD,42 litres,Sedan,17.1 km/litre,1095 kg,6.0,152 mm,107PS@6000rpm,140Nm@4200rpm,5.0,Automatic,2550 mm,1580 kg,5.32,96
+1238,Toyota,11.56,4.0,FWD,42 litres,Sedan,17.1 km/litre,1105 kg,6.0,152 mm,107PS@6000rpm,140Nm@4200rpm,5.0,Automatic,2550 mm,1580 kg,7.71,59
+1239,Skoda,14.18,4.0,FWD,50 litres,Sedan,16.7 km/litre,1260 kg,6.0,155 mm,140PS@6000RPM,250Nm@1500-3500rpm,5.0,Manual,2688 mm,1825 kg,4.85,93
+1240,Skoda,14.35,4.0,FWD,50 litres,Sedan,21 km/litre,1340 kg,6.0,155 mm,143PS@4000rpm,320Nm@1750-3000rpm,5.0,Manual,2688 mm,1895 kg,15.0,43
+1241,Skoda,5.38,4.0,FWD,50 litres,Sedan,16.7 km/litre,1260 kg,6.0,155 mm,140PS@6000RPM,250Nm@1500-3500rpm,5.0,Manual,2688 mm,1825 kg,1.35,36
+1242,Skoda,13.81,4.0,FWD,50 litres,Sedan,15.1 km/litre,1376 kg,7.0,155 mm,180PS@6200RPM,250NM@1250-5000rpm,5.0,Automatic,2688 mm,1860 kg,12.92,19
+1243,Skoda,7.08,4.0,FWD,50 litres,Sedan,21 km/litre,1340 kg,6.0,155 mm,143PS@4000rpm,320Nm@1750-3000rpm,5.0,Manual,2688 mm,1895 kg,5.02,38
+1244,Skoda,17.86,4.0,FWD,50 litres,Sedan,19.5 km/litre,1395 kg,6.0,155 mm,143PS@4000rpm,320Nm@1750-3000rpm,5.0,Automatic,2688 mm,1915 kg,19.12,54
+1245,Skoda,7.68,4.0,FWD,50 litres,Sedan,15.1 km/litre,1376 kg,7.0,155 mm,180PS@6200RPM,250NM@1250-5000rpm,5.0,Automatic,2688 mm,1860 kg,6.46,97
+1246,Skoda,13.48,4.0,FWD,50 litres,Sedan,19.5 km/litre,1395 kg,6.0,155 mm,143PS@4000rpm,320Nm@1750-3000rpm,5.0,Automatic,2688 mm,1915 kg,12.78,37
+1247,Skoda,13.34,4.0,FWD,50 litres,Sedan,16.7 km/litre,1260 kg,6.0,155 mm,140PS@6000RPM,250Nm@1500-3500rpm,5.0,Manual,2688 mm,1825 kg,10.02,68
+1248,Skoda,14.22,4.0,FWD,50 litres,Sedan,21 km/litre,1340 kg,6.0,155 mm,141PS@4000rpm,320Nm@1750-3000rpm,5.0,Manual,2688 mm,1895 kg,12.03,91
+1249,Skoda,9.77,4.0,FWD,50 litres,Sedan,15.1 km/litre,1376 kg,7.0,155 mm,180PS@6200RPM,250NM@1250-5000rpm,5.0,Automatic,2688 mm,1860 kg,12.28,91
+1250,Skoda,19.24,4.0,FWD,50 litres,Sedan,19.5 km/litre,1395 kg,6.0,155 mm,143PS@4000rpm,320Nm@1750-3000rpm,5.0,Automatic,2688 mm,1915 kg,7.04,48
+1251,Mercedes-Benz,4.61,4.0,RWD,66 litres,SUV,13.51 km/litre,,9.0,,197PS@5800rpm,320Nm@1650-4000rpm,5.0,Automatic,2873 mm,2360 kg,8.92,24
+1252,Mercedes-Benz,9.53,4.0,AWD,50 litres,SUV,18.18 km/litre,,9.0,,194PS@3800rpm,400Nm@1600-2800RPM,5.0,Automatic,2873 mm,2500 kg,18.78,90
+1253,Porsche,9.87,6.0,AWD,75 litres,,11.6 km/litre,2030 kg,8.0,,340PS@5650,450Nm@1340-5300,,Automatic,2895 mm,2105 kg,12.75,33
+1254,Porsche,11.71,8.0,AWD,90 litres,,15.3 km/litre,2200 kg,8.0,,550PS@6000RPM,770Nm@2000-4500,,Automatic,2895 mm,2275 kg,10.5,94
+1255,Mahindra,18.88,4.0,FWD,50 litres,Sedan,21 km/litre,1140 kg,5.0,172 mm,65PS@4000rpm,160Nm@2000rpm,5.0,Manual,2630 mm,1630 kg,7.92,44
+1256,Mahindra,9.48,4.0,FWD,50 litres,Sedan,21 km/litre,1140 kg,5.0,172 mm,65PS@4000rpm,160Nm@2000rpm,5.0,Manual,2630 mm,1630 kg,15.64,55
+1257,Mahindra,15.33,4.0,FWD,50 litres,Sedan,21 km/litre,1140 kg,5.0,172 mm,120PS@4000RPM,280Nm@2400-2800rpm,5.0,Manual,2630 mm,1630 kg,12.54,93
+1258,Mitsubishi,5.41,4.0,RWD,70 litres,SUV,10.77 km/litre,1935 kg,5.0,215 mm,178PS@4000rpm,400Nm@2000rpm,7.0,Manual,2800 mm,2600 kg,14.51,61
+1259,Mitsubishi,17.71,4.0,RWD,70 litres,SUV,10.77 km/litre,1935 kg,5.0,215 mm,178PS@4000rpm,350Nm@1800-3500rpm,7.0,Automatic,2800 mm,2600 kg,4.76,59
+1260,Mitsubishi,12.53,4.0,4WD,70 litres,SUV,10.77 km/litre,2040 kg,5.0,215 mm,178PS@4000rpm,400Nm@2000-2500rpm,7.0,Manual,2800 mm,2650 kg,19.15,22
+1261,Mitsubishi,19.9,4.0,RWD,70 litres,SUV,10.77 km/litre,1935 kg,5.0,215 mm,178PS@4000rpm,400Nm@2000rpm,7.0,Manual,2800 mm,2600 kg,10.15,64
+1262,Mitsubishi,12.78,4.0,RWD,70 litres,SUV,10.77 km/litre,1935 kg,5.0,215 mm,178PS@4000rpm,350Nm@1800-3500rpm,7.0,Automatic,2800 mm,2600 kg,4.99,42
+1263,Bentley,4.43,8.0,AWD,90 litres,Sedan,4 km/litre,2417 kg,8.0,142 mm,507PS@6000rpm,660NM@1700rpm,4.0,Automatic,3066 mm,2972 kg,10.8,88
+1264,Bentley,15.58,12.0,AWD,90 litres,Sedan,4 km/litre,2475 kg,8.0,110 mm,616PS@6100rpm,800Nm@1600-6100rpm,4.0,Automatic,3066 mm,2972 kg,18.1,41
+1265,Honda,11.35,4.0,FWD,40 litres,Sedan,17.4 km/litre,1063 kg,5.0,165 mm,119PS@6600rpm,145Nm@4600rpm,5.0,Manual,2600 mm,1438 kg,10.92,35
+1266,Honda,16.35,4.0,FWD,40 litres,Sedan,17.8 km/litre,1061 kg,5.0,165 mm,119PS@6600rpm,145Nm@4600rpm,5.0,Manual,2600 mm,1436 kg,11.55,84
+1267,Honda,13.6,4.0,FWD,40 litres,Sedan,17.4 km/litre,1084 kg,5.0,165 mm,119PS@6600rpm,145Nm@4600rpm,5.0,Manual,2600 mm,1459 kg,14.44,31
+1268,Honda,8.81,4.0,FWD,40 litres,Sedan,18 km/litre,1100 kg,5.0,165 mm,119PS@6600rpm,145Nm@4600rpm,5.0,Automatic,2600 mm,1475 kg,4.42,78
+1269,Honda,7.05,4.0,FWD,40 litres,Sedan,25.6 km/litre,1147 kg,6.0,165 mm,100PS@3600rpm,200Nm@1750rpm,5.0,Manual,2600 mm,1522 kg,14.72,63
+1270,Honda,9.32,4.0,FWD,40 litres,Sedan,25.6 km/litre,1148 kg,6.0,165 mm,100PS@3600rpm,200Nm@1750rpm,5.0,Manual,2600 mm,1523 kg,10.48,23
+1271,Honda,13.29,4.0,FWD,40 litres,Sedan,25.1 km/litre,1170 kg,6.0,165 mm,100PS@3600rpm,200Nm@1750rpm,5.0,Manual,2600 mm,1545 kg,14.77,68
+1272,Honda,14.59,4.0,FWD,40 litres,Sedan,25.1 km/litre,1175 kg,6.0,165 mm,100PS@3600rpm,200Nm@1750rpm,5.0,Manual,2600 mm,1550 kg,6.62,23
+1273,Honda,15.81,4.0,FWD,40 litres,Sedan,22.6 km/litre,1107 kg,5.0,165 mm,119PS@6600rpm,145Nm@4600rpm,5.0,Automatic,2600 mm,1482 kg,8.1,41
+1274,Honda,19.12,4.0,FWD,40 litres,Sedan,17.8 km/litre,1080 kg,5.0,165 mm,119PS@6600rpm,145Nm@4600rpm,5.0,Automatic,2600 mm,1455 kg,6.35,61
+1275,Mitsubishi,7.99,4.0,AWD,88 litres,SUV,11.56 km/litre,2335 kg,5.0,235 mm,202ps@3800rpm,441Nm@2000rpm,7.0,Automatic,2780 mm,3110 kg,11.12,50
